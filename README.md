@@ -69,6 +69,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
     
 ### M
 -   **<u>Moths</u>** - Seyedali Mirjalili. "Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm." Knowledge-Based Systems 89:228-249, 2015. [[DOI](http://dx.doi.org/10.1016/j.knosys.2015.07.006)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Moth-flame+optimization+algorithm%3A+A+novel+nature-inspired+heuristic+paradigm&btnG=&hl=en&as_sdt=0%2C5)]
+-   **<u>Musicians</u>** - Zong Woo Geem, Joong Hoon Kim, and G. V. Loganathan. "A new heuristic optimization algorithm: harmony search." Simulation 76(2):60-68, 2001. [[DOI](http://dx.doi.org/10.1177/003754970107600201)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=13170078065982440769&hl=en&as_sdt=0,5)]
 
 ### N
 
