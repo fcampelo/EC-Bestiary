@@ -1,8 +1,5 @@
----
-title: "Evolutionary Computation Bestiary"
-date: "March 25, 2016"
-output: html_document
----
+# Evolutionary Computation Bestiary
+### March 25, 2016
 ******
 
 ### Main Contributors
