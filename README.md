@@ -7,8 +7,9 @@
 - [Felipe Campelo](fcampelo@ufmg.br), Dept. Electrical Engineering, Universidade Federal de Minas Gerais, Brazil.
 
 ### Occasional Contributors
-- Fillipe Goulart - Grad. Program in Electrical Engineering, UFMG, Brazil.
+- André Maravilha - Grad. Program in Electrical Engineering, UFMG, Brazil.
 - Fernanda Takahashi - Grad. Program in Electrical Engineering, UFMG, Brazil.
+- Fillipe Goulart - Grad. Program in Electrical Engineering, UFMG, Brazil.
 
 ******
 Nature can inspire us in many ways, and this inspiration can be used to generate powerful and adaptive algorithms. However, when it comes to naming these algorithms, some people are more... ahem... _creative_ than others.
@@ -89,6 +90,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 
 ### S
 -   **<u>Sharks</u>** - Oveis Abedinia, Nima Amjady, and Ali Ghasemi. "A new metaheuristic algorithm based on shark smell optimization." Complexity, 2014. [[DOI](http://dx.doi.org/10.1002/cplx.21634)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15159494435649164669&hl=en&as_sdt=0,5)]
+-   **<u>Spider Monkeys</u>** - Jagdish Chand Bansal _et al._. "Spider monkey optimization algorithm for numerical optimization." Memetic Computing 6(1):31-47, 2014. [[DOI](http://dx.doi.org/10.1007/s12293-013-0128-0)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8273023711368780409&hl=en&as_sdt=0,5)]
 
 ### T
 -   **<u>Tumors</u>** - Deyu Tang _et al._. "ITGO: Invasive tumor growth optimization algorithm." Applied Soft Computing 36:670-698, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.07.045)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7878805119647381736&hl=en&as_sdt=0,5)]
@@ -98,6 +100,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### V
 
 ### W
+-   **<u>Water Evaporation</u>** - A. Kaveh and T. Bakhshpoori. "Water Evaporation Optimization: A novel physically inspired optimization algorithm." Computers & Structures 167:69-85, 2016. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Water+Evaporation+Optimization%3A+A+novel+physically+inspired+optimization+algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### X
 
