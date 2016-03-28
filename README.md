@@ -26,8 +26,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Bees</u>** - Dusan Teodorovic _et al._ "Bee colony optimization: principles and applications." Neural Network Applications in Electrical Engineering, 2006. NEUREL 2006. 8th Seminar on. IEEE, 2006.[[DOI](http://dx.doi.org/10.1109/NEUREL.2006.341200)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Bee+Colony+Optimization%3A+Principles+and+Applications&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
 -   **<u>Bees (again)</u>** - Dervis Karaboga and Bahriye Basturk. "A powerful and efficient algorithm for numerical function optimization: artificial bee colony (ABC) algorithm." Journal of Global Optimization 39(3):459-471, 2007. [[DOI](http://dx.doi.org/10.1007/s10898-007-9149-x)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9061999469789684826&hl=en&as_sdt=0,5)]
 -   **<u>Big bang</u>** - Osman K. Erol and Ibrahim Eksin. "A new optimization method: big bang–big crunch." Advances in Engineering Software 37(2):106-111, 2006. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2005.04.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2366573530660411189&hl=en&as_sdt=0,5)]
+-   **<u>Birds mating</u>** - Alireza Askarzadeh. "Bird mating optimizer: an optimization algorithm inspired by bird mating strategies." Communications in Nonlinear Science and Numerical Simulation 19(4):1213-1228, 2014.[[DOI](http://dx.doi.org/10.1016/j.cnsns.2013.08.027)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8436001325554691071&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Black holes</u>** - Abdolreza Hatamlou. "Black hole: A new heuristic optimization approach for data clustering." Information Sciences 222:175-184, 2013. [[DOI](http://dx.doi.org/10.1016/j.ins.2012.08.023)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=816788583679970050&hl=en&as_sdt=0,5)]
-
 -   **<u>Blind, naked mole rats</u>** - Taherdangkoo, Mohammad, et al. "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." Swarm and Evolutionary Computation 10:1-11, 2013. [[DOI](http://dx.doi.org/10.1016/j.swevo.2013.01.001)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15285435246258205372&hl=en&as_sdt=0,5)]
 
 ### C
@@ -36,9 +36,11 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Central force</u>** - Richard A. Formato. "Central force optimization: a new metaheuristic with applications in applied electromagnetics." Progress In Electromagnetics Research 77:425-491, 2007. [[DOI](http://dx.doi.org/10.2528/PIER07082403)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17411562926531587411&hl=en&as_sdt=0,5)]
 -   **<u>Charged systems</u>** - A. Kaveh, and S. Talatahari. "A novel heuristic optimization method: charged system search." Acta Mechanica 213(3-4):267-289, 2010. [[DOI](http://dx.doi.org/10.1007/s00707-009-0270-4)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=950816647531324127&hl=en&as_sdt=0,5)]
 -   **<u>Chemical Reactions</u>** - Bilal Alatas. "ACROA: artificial chemical reaction optimization algorithm for global optimization." Expert Systems with Applications 38(10):13170-13180, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.126)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4558455092048574656&hl=en&as_sdt=0,5)]
+-   **<u>Colliding bodies</u>** - A. Kaveh and V. R. Mahdavi. "Colliding bodies optimization: a novel meta-heuristic method." Computers & Structures 139:18-27, 2014. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2014.04.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8696745119414106345&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Cuckoos</u>** - Xin-She Yang and Suash Deb. "Cuckoo search via Lévy flights." Nature & Biologically Inspired Computing, 2009. NaBIC 2009. World Congress on. IEEE, 2009. [[DOI](http://dx.doi.org/10.1109/NABIC.2009.5393690)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13191416867993532789&hl=en&as_sdt=0,5)]
 
 ### D
+-   **<u>Dolphins</u>** - A. Kaveh and N. Farhoudi. "A new optimization method: Dolphin echolocation." Advances in Engineering Software 59: 53-70, 2013. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.03.004)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6141328029332849229&hl=en&as_sdt=0,5&as_vis=1)]
 
 ### E
 
@@ -52,6 +54,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Glow Worms</u>** - K. N. Krishnanand and Debasish Ghose. "Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions." Swarm intelligence 3(2):87-124, 2009. [[DOI](http://dx.doi.org/10.1007/s11721-008-0021-5)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10880041005648760160&hl=en&as_sdt=0,5)] 
 -   **<u>Gravitation</u>** - B. Webster and P.J. Bernhard. "A local search optimization algorithm based on natural principles of gravitation.", Proceedings of the international conference on information and knowledge engineering (IKE’03), 2003. 255–261. [[IT Florida](https://repository.lib.fit.edu/bitstream/handle/11141/117/cs-2003-10.pdf?sequence=1&isAllowed=y)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7083663946218421142&hl=en&as_sdt=0,5)]
 -   **<u>Grenades</u>** - Ali Ahrari and Ali A. Atai. "Grenade explosion method - a novel tool for optimization of multimodal functions." Applied Soft Computing 10(4):1132-1140, 2010. [[DOI](http://dx.doi.org/10.1016/j.asoc.2009.11.032)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11907331357982080577&hl=en&as_sdt=0,5)]
+-   **<u>Grey Wolves</u>** - Seyedali Mirjalili, Seyed Mohammad Mirjalili, and Andrew Lewis. "Grey wolf optimizer." Advances in Engineering Software 69:46-61, 2014. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.12.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2274273013181958031&hl=en&as_sdt=0,5)]
+-   **<u>Group counselling</u>** - M.A. Eita and M. M. Fahmy. "Group counseling optimization: a novel approach." Research and Development in Intelligent Systems XXVI. Springer London, 2010. 195-208. [[DOI](http://dx.doi.org/10.1007/978-1-84882-983-1_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13072245307035783024&hl=en&as_sdt=0,5&as_vis=1)]
     
 ### H
     
@@ -86,11 +90,15 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### Q
 
 ### R
+-   **<u>Rays of light</u>** - A. Kaveh and M. Khayatazad. "A new meta-heuristic method: ray optimization." Computers & Structures 112:283-294, 2012. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.09.003)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16359299230296562035&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Roots</u>** - F. Merrikh-Bayat. "The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature." Applied Soft Computing 33:292-303, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.04.048)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5946377858927400725&hl=en&as_sdt=0,5)]
 
 ### S
 -   **<u>Sharks</u>** - Oveis Abedinia, Nima Amjady, and Ali Ghasemi. "A new metaheuristic algorithm based on shark smell optimization." Complexity, 2014. [[DOI](http://dx.doi.org/10.1002/cplx.21634)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15159494435649164669&hl=en&as_sdt=0,5)]
 -   **<u>Spider Monkeys</u>** - Jagdish Chand Bansal _et al._. "Spider monkey optimization algorithm for numerical optimization." Memetic Computing 6(1):31-47, 2014. [[DOI](http://dx.doi.org/10.1007/s12293-013-0128-0)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8273023711368780409&hl=en&as_sdt=0,5)]
+-   **<u>Social Spiders</u>** - Cuevas, Erik, et al. "A swarm optimization algorithm inspired in the behavior of the social-spider." Expert Systems with Applications 40(16):6374-6384, 2013.[[DOI](http://dx.doi.org/10.1016/j.eswa.2013.05.041)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6931737888206270770&hl=en&as_sdt=0,5&as_vis=1)]
+-   **<u>Sports championships</u>** - Ali Husseinzadeh Kashan. "League Championship Algorithm (LCA): An algorithm for global optimization inspired by sport championships." Applied Soft Computing 16:171-200, 2014. [[DOI](http://dx.doi.org/10.1016/j.asoc.2013.12.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12957388200223216052&hl=en&as_sdt=0,5)]
+-   **<u>Swallows</u>** - Mehdi Neshat, Ghodrat Sepidnam, and Mehdi Sargolzaei. "Swallow swarm optimization algorithm: a new method to optimization." Neural Computing and Applications 23(2):429-454, 2013. [[DOI](http://dx.doi.org/10.1007/s00521-012-0939-9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9456173942118135781&hl=en&as_sdt=0,5&as_vis=1)]
 
 ### T
 -   **<u>Tumors</u>** - Deyu Tang _et al._. "ITGO: Invasive tumor growth optimization algorithm." Applied Soft Computing 36:670-698, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.07.045)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7878805119647381736&hl=en&as_sdt=0,5)]
@@ -100,6 +108,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### V
 
 ### W
+-   **<u>Water cycle</u>** - Hadi Eskandar _et al._. "Water cycle algorithm–A novel metaheuristic optimization method for solving constrained engineering optimization problems." Computers & Structures 110:151-166, 2010. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.07.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5591658062910195818&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Water Evaporation</u>** - A. Kaveh and T. Bakhshpoori. "Water Evaporation Optimization: A novel physically inspired optimization algorithm." Computers & Structures 167:69-85, 2016. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Water+Evaporation+Optimization%3A+A+novel+physically+inspired+optimization+algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### X
