@@ -1,6 +1,6 @@
 # Evolutionary Computation Bestiary
 ### March 26, 2016
-![CC license](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/by-nc-sa.png =100x)
+![CC license](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/by-nc-sa.png)
 ******
 
 ### Main Contributors
