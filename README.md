@@ -1,6 +1,5 @@
 # Evolutionary Computation Bestiary
 ### March 26, 2016
-![CC license](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/by-nc-sa.png)
 ******
 
 ### Main Contributors
@@ -116,3 +115,6 @@ It is also important to highlight that:
 
 1.  Only the earliest known mention for each metaphor is included.
 2.  This list makes no (explicit) claims about the quality of the work -- it may include relevant papers in the EC/SW/CI fields side by side with others for which the contribution is, to put it mildly, less well-defined.
+
+## License:
+This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
