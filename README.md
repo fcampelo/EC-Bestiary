@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-### March 26, 2016
+### March 27, 2016
 ******
 
 ### Main Contributors
@@ -73,6 +73,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Locusts</u>** - Chen, Stephen. "An analysis of locust swarms on large scale global optimization problems." Artificial Life: Borrowing from Biology. Springer Berlin Heidelberg, 2009. 211-220. [[DOI](http://dx.doi.org/10.1007/978-3-642-10427-5_21)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6640665647979104050&hl=en&as_sdt=0,5)]
     
 ### M
+-   **<u>Mine blasts</u>** - Ali Sadollah _et al._. "Mine blast algorithm for optimization of truss structures with discrete variables." Computers & Structures 102:49-63, 2012 [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.03.013)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12207350986686373216&hl=en&as_sdt=0,5)].
 -   **<u>Monkeys</u>** - Antonio Mucherino and Onur Seref. "Monkey search: a novel metaheuristic search for global optimization." Data Mining, Systems Analysis and Optimization in Biomedicine 953(1). AIP Publishing, 2007. [[DOI](http://dx.doi.org/10.1063/1.2817338)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17038037660008635941&hl=en&as_sdt=0,5)]
 -   **<u>Moths</u>** - Seyedali Mirjalili. "Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm." Knowledge-Based Systems 89:228-249, 2015. [[DOI](http://dx.doi.org/10.1016/j.knosys.2015.07.006)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Moth-flame+optimization+algorithm%3A+A+novel+nature-inspired+heuristic+paradigm&btnG=&hl=en&as_sdt=0%2C5)]
 -   **<u>Musicians</u>** - Zong Woo Geem, Joong Hoon Kim, and G. V. Loganathan. "A new heuristic optimization algorithm: harmony search." Simulation 76(2):60-68, 2001. [[DOI](http://dx.doi.org/10.1177/003754970107600201)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=13170078065982440769&hl=en&as_sdt=0,5)]
