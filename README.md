@@ -22,6 +22,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Ants</u>** - Alberto Colorni, Marco Dorigo, and Vittorio Maniezzo. "Distributed optimization by ant colonies". Proceedings of the first European conference on artificial life. 1991. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=106656507868371183&hl=en&as_sdt=0,5&as_vis=1)]
 
 ### B
+-   **<u>Bacterial Chemotaxis</u> - SD Müller et al. "Optimization based on bacterial chemotaxis." IEEE Transactions on Evolutionary Computation 6(1):16-29, 2002 [[DOI](http://dx.doi.org/10.1109/4235.985689)] [[Google Scholar](https://scholar.google.com/scholar?cluster=4979736106528607640&hl=en&as_sdt=1,5)]
 -   **<u>Bats</u>** - Yang, Xin-She. "A new metaheuristic bat-inspired algorithm". Nature inspired cooperative strategies for optimization (NICSO 2010). Springer Berlin Heidelberg, 2010. 65-74. [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Metaheuristic+Bat-Inspired+Algorithm&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
 -   **<u>Bees</u>** - Dusan Teodorovic _et al._ "Bee colony optimization: principles and applications." Neural Network Applications in Electrical Engineering, 2006. NEUREL 2006. 8th Seminar on. IEEE, 2006.[[DOI](http://dx.doi.org/10.1109/NEUREL.2006.341200)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Bee+Colony+Optimization%3A+Principles+and+Applications&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
 -   **<u>Bees (again)</u>** - Dervis Karaboga and Bahriye Basturk. "A powerful and efficient algorithm for numerical function optimization: artificial bee colony (ABC) algorithm." Journal of Global Optimization 39(3):459-471, 2007. [[DOI](http://dx.doi.org/10.1007/s10898-007-9149-x)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9061999469789684826&hl=en&as_sdt=0,5)]
@@ -29,6 +30,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Birds mating</u>** - Alireza Askarzadeh. "Bird mating optimizer: an optimization algorithm inspired by bird mating strategies." Communications in Nonlinear Science and Numerical Simulation 19(4):1213-1228, 2014.[[DOI](http://dx.doi.org/10.1016/j.cnsns.2013.08.027)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8436001325554691071&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Black holes</u>** - Abdolreza Hatamlou. "Black hole: A new heuristic optimization approach for data clustering." Information Sciences 222:175-184, 2013. [[DOI](http://dx.doi.org/10.1016/j.ins.2012.08.023)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=816788583679970050&hl=en&as_sdt=0,5)]
 -   **<u>Blind, naked mole rats</u>** - Taherdangkoo, Mohammad, et al. "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." Swarm and Evolutionary Computation 10:1-11, 2013. [[DOI](http://dx.doi.org/10.1016/j.swevo.2013.01.001)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15285435246258205372&hl=en&as_sdt=0,5)]
+-   **<u>Biogeography</u>** - D Simon. "Biogeography-based optimization." Evolutionary Computation, IEEE Transactions on, 2008. [[DOI](http://dx.doi.org/10.1109/TEVC.2008.919004)] [[Google Scholar](https://scholar.google.com/scholar?cluster=12497726800889768859&hl=en&as_sdt=1,5)]
 
 ### C
 -   **<u>Cats</u>** - Shu-Chuan Chu, Pei-Wei Tsai, and Jeng-Shyang Pan. "Cat swarm optimization." PRICAI 2006: Trends in artificial intelligence. Springer Berlin Heidelberg, 2006. 854-858. [[DOI](http://dx.doi.org/10.1007/11801603_94)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=11591494369468656974&hl=en&as_sdt=0,5)]
@@ -40,7 +42,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Cuckoos</u>** - Xin-She Yang and Suash Deb. "Cuckoo search via Lévy flights." Nature & Biologically Inspired Computing, 2009. NaBIC 2009. World Congress on. IEEE, 2009. [[DOI](http://dx.doi.org/10.1109/NABIC.2009.5393690)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13191416867993532789&hl=en&as_sdt=0,5)]
 
 ### D
--   **<u>Dolphins</u>** - A. Kaveh and N. Farhoudi. "A new optimization method: Dolphin echolocation." Advances in Engineering Software 59: 53-70, 2013. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.03.004)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6141328029332849229&hl=en&as_sdt=0,5&as_vis=1)]
+-   **<u>Dolphins</u>** - Y Shiqin et al. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]
 
 ### E
 
@@ -48,6 +50,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
 -   **<u>Fish</u>** - J. A. Carmelo Filho _et al._. "A novel search algorithm based on fish school behavior." Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICSMC.2008.4811695)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11973554734110983734&hl=en&as_sdt=0,5)]
 -   **<u>Frogs</u>** - Thai-Hoang Huynh. "A modified shuffled frog leaping algorithm for optimal tuning of multivariable PID controllers." Industrial Technology, 2008. ICIT 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICIT.2008.4608439)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10202726787573457298&hl=en&as_sdt=0,5)]
+-   **<u>Fruit Fly</u>** - WT Pan "A new fruit fly optimization algorithm: taking the financial distress model as an example." Knowledge-Based Systems, pp 69-74, 2012 [[DOI](http://dx.doi.org/10.1016/j.knosys.2011.07.001)] [[Google Scholar](https://scholar.google.com/scholar?cluster=6956044678885147539&hl=en&as_sdt=1,5)]
 
 ### G
 -   **<u>Galaxies</u>** - Hamed. Shah-Hosseini "Principal components analysis by the galaxy-based search algorithm: a novel metaheuristic for continuous optimisation." International Journal of Computational Science and Engineering 6(1-2):132-140, 2011. [[DOI](http://dx.doi.org/10.1504/IJCSE.2011.041221)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15312864975188748141&hl=en&as_sdt=0,5)]
@@ -96,12 +99,14 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 
 ### S
 -   **<u>Sharks</u>** - Oveis Abedinia, Nima Amjady, and Ali Ghasemi. "A new metaheuristic algorithm based on shark smell optimization." Complexity, 2014. [[DOI](http://dx.doi.org/10.1002/cplx.21634)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15159494435649164669&hl=en&as_sdt=0,5)]
+-   **<u>Small World</u>** - H Du, X Wu, J Zhuang. "Small-world optimization algorithm for function optimization." Advances in Natural Computation, 2006. [[DOI](http://dx.doi.org/10.1007/11881223_33)][[Google Scholar](https://scholar.google.com/scholar?cluster=5893209377343719919&hl=en&as_sdt=1,5)]
 -   **<u>Spider Monkeys</u>** - Jagdish Chand Bansal _et al._. "Spider monkey optimization algorithm for numerical optimization." Memetic Computing 6(1):31-47, 2014. [[DOI](http://dx.doi.org/10.1007/s12293-013-0128-0)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8273023711368780409&hl=en&as_sdt=0,5)]
 -   **<u>Social Spiders</u>** - Cuevas, Erik, et al. "A swarm optimization algorithm inspired in the behavior of the social-spider." Expert Systems with Applications 40(16):6374-6384, 2013.[[DOI](http://dx.doi.org/10.1016/j.eswa.2013.05.041)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6931737888206270770&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Sports championships</u>** - Ali Husseinzadeh Kashan. "League Championship Algorithm (LCA): An algorithm for global optimization inspired by sport championships." Applied Soft Computing 16:171-200, 2014. [[DOI](http://dx.doi.org/10.1016/j.asoc.2013.12.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12957388200223216052&hl=en&as_sdt=0,5)]
 -   **<u>Swallows</u>** - Mehdi Neshat, Ghodrat Sepidnam, and Mehdi Sargolzaei. "Swallow swarm optimization algorithm: a new method to optimization." Neural Computing and Applications 23(2):429-454, 2013. [[DOI](http://dx.doi.org/10.1007/s00521-012-0939-9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9456173942118135781&hl=en&as_sdt=0,5&as_vis=1)]
 
 ### T
+-   **<u>Termites</u>** - M Roth. "Termite: a swarm intelligent routing algorithm for mobile wireless ad-hoc networks." Doctoral Dissertation, 2005 [[Google Scholar](https://scholar.google.com/scholar?cluster=18044814395989463872&hl=en&as_sdt=1,5)]
 -   **<u>Tumors</u>** - Deyu Tang _et al._. "ITGO: Invasive tumor growth optimization algorithm." Applied Soft Computing 36:670-698, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.07.045)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7878805119647381736&hl=en&as_sdt=0,5)]
 
 ### U
@@ -109,6 +114,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### V
 
 ### W
+-   **<u>Wasps</u>** - P Pinto, TA Runkler, JM Sousa. "Wasp swarm optimization of logistic systems." Adaptive and Natural Computing Algorithms: Proceedings of the International Conference in Coimbra, Portugal, 2005 [[Google Scholar](https://scholar.google.com/scholar?cluster=14004470869169954031&hl=en&as_sdt=1,5)]
 -   **<u>Water cycle</u>** - Hadi Eskandar _et al._. "Water cycle algorithm–A novel metaheuristic optimization method for solving constrained engineering optimization problems." Computers & Structures 110:151-166, 2010. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.07.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5591658062910195818&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Water Evaporation</u>** - A. Kaveh and T. Bakhshpoori. "Water Evaporation Optimization: A novel physically inspired optimization algorithm." Computers & Structures 167:69-85, 2016. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Water+Evaporation+Optimization%3A+A+novel+physically+inspired+optimization+algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
