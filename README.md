@@ -3,8 +3,8 @@
 ******
 
 ### Main Contributors
-- [Claus Aranha](caranha@cs.tsukuba.ac.jp), Grad. School of Systems and Information Engineering, Tsukuba University, Japan.
-- [Felipe Campelo](fcampelo@ufmg.br), Dept. Electrical Engineering, Universidade Federal de Minas Gerais, Brazil.
+- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Grad. School of Systems and Information Engineering, Tsukuba University, Japan.
+- [Felipe Campelo](mailto:fcampelo@ufmg.br), Dept. Electrical Engineering, Universidade Federal de Minas Gerais, Brazil.
 
 ### Occasional Contributors
 - André Maravilha - Grad. Program in Electrical Engineering, UFMG, Brazil.
@@ -22,7 +22,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Ants</u>** - Alberto Colorni, Marco Dorigo, and Vittorio Maniezzo. "Distributed optimization by ant colonies". Proceedings of the first European conference on artificial life. 1991. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=106656507868371183&hl=en&as_sdt=0,5&as_vis=1)]
 
 ### B
--   **<u>Bacterial Chemotaxis</u> - SD Müller et al. "Optimization based on bacterial chemotaxis." IEEE Transactions on Evolutionary Computation 6(1):16-29, 2002 [[DOI](http://dx.doi.org/10.1109/4235.985689)] [[Google Scholar](https://scholar.google.com/scholar?cluster=4979736106528607640&hl=en&as_sdt=1,5)]
+-   **<u>Bacterial Chemotaxis</u>** - SD Müller et al. "Optimization based on bacterial chemotaxis." IEEE Transactions on Evolutionary Computation 6(1):16-29, 2002 [[DOI](http://dx.doi.org/10.1109/4235.985689)] [[Google Scholar](https://scholar.google.com/scholar?cluster=4979736106528607640&hl=en&as_sdt=1,5)]
 -   **<u>Bats</u>** - Yang, Xin-She. "A new metaheuristic bat-inspired algorithm". Nature inspired cooperative strategies for optimization (NICSO 2010). Springer Berlin Heidelberg, 2010. 65-74. [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Metaheuristic+Bat-Inspired+Algorithm&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
 -   **<u>Bees</u>** - Dusan Teodorovic _et al._ "Bee colony optimization: principles and applications." Neural Network Applications in Electrical Engineering, 2006. NEUREL 2006. 8th Seminar on. IEEE, 2006.[[DOI](http://dx.doi.org/10.1109/NEUREL.2006.341200)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Bee+Colony+Optimization%3A+Principles+and+Applications&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
 -   **<u>Bees (again)</u>** - Dervis Karaboga and Bahriye Basturk. "A powerful and efficient algorithm for numerical function optimization: artificial bee colony (ABC) algorithm." Journal of Global Optimization 39(3):459-471, 2007. [[DOI](http://dx.doi.org/10.1007/s10898-007-9149-x)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9061999469789684826&hl=en&as_sdt=0,5)]
@@ -130,7 +130,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### How to Contribute
 
 If you know a paper that should belong to this list, please sent an
-e-mail to either [Claus](caranha@cs.tsukuba.ac.jp) or [Felipe](fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: _the work must be in a peer reviewed publication (journal or conference), and title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based_.
+e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: _the work must be in a peer reviewed publication (journal or conference), and title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based_.
 
 It is also important to highlight that:
 
