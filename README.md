@@ -47,6 +47,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 
 ### E
 -   **<u>Elephants</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
+-   **<u>Egyptian Vultures</u>** - Chiranjib Sur, Sanjeev Sharma, and Anupam Shukla. "Egyptian vulture optimization algorithm - a new nature inspired meta-heuristics for knapsack problem." The 9th International Conference on Computing and Information Technology (IC2IT). pp. 227-237, Springer Berlin Heidelberg, 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
+
 
 ### F
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
@@ -68,6 +70,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Intelligent water drops</u>** - Hamed Shah-Hosseini. "The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm." International Journal of Bio-Inspired Computation 1(1-2):71-79, 2009. [[DOI](http://dx.doi.org/10.1504/IJBIC.2009.022775)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7657381653886298700&hl=en&as_sdt=0,5)]
     
 ### J
+-   **<u>Jaguars</u>** - Chin-Chi Chen _et al._. "A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior." IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1595-1600, 2015. [[DOI](http://dx.doi.org/10.1109/SMC.2015.282)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+A+Novel+Metaheuristic%3A+Jaguar+Algorithm+with+Learning+Behavior&btnG=&as_sdt=1%2C5&as_sdtp=)]
+-   **<u>Jellyfish</u>** - V. Lazunin and V. Savchenko. "Artificial jellyfish: evolutionary optimization of swimming." 20th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG). pp. 131-138, Plzen, Czech Republic, 2012. [[Citeseer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9073&rep=rep1&type=pdf#page=145)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Artificial+jellyfish%3A+evolutionary+optimization+of+swimming&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### K
 -   **<u>Krill</u>** - Amir Hossein Gandomi and Amir Hossein Alavi. "Krill herd: a new bio-inspired optimization algorithm." Communications in Nonlinear Science and Numerical Simulation 17(12):4831-4845, 2012. [[DOI](http://dx.doi.org/10.1016/j.cnsns.2012.05.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3784041089788372892&hl=en&as_sdt=0,5)]
@@ -119,6 +123,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Wasps</u>** - P Pinto, TA Runkler, JM Sousa. "Wasp swarm optimization of logistic systems." Adaptive and Natural Computing Algorithms: Proceedings of the International Conference in Coimbra, Portugal, 2005 [[Google Scholar](https://scholar.google.com/scholar?cluster=14004470869169954031&hl=en&as_sdt=1,5)]
 -   **<u>Water cycle</u>** - Hadi Eskandar _et al._. "Water cycle algorithm–A novel metaheuristic optimization method for solving constrained engineering optimization problems." Computers & Structures 110:151-166, 2010. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.07.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5591658062910195818&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Water Evaporation</u>** - A. Kaveh and T. Bakhshpoori. "Water Evaporation Optimization: A novel physically inspired optimization algorithm." Computers & Structures 167:69-85, 2016. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Water+Evaporation+Optimization%3A+A+novel+physically+inspired+optimization+algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
+-   **<u>Whales</u>** - Seyedali Mirjalili and Andrew Lewisa. "The Whale Optimization Algorithm". Advances in Engineering Software 95:51-67, 2016. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=The+Whale+Optimization+Algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### X
 
