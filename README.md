@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-### April 4, 2016
+### April 18, 2016
 ******
 
 ### Main Contributors
@@ -8,6 +8,7 @@
 
 ### Occasional Contributors
 - André Maravilha - Grad. Program in Electrical Engineering, UFMG, Brazil.
+- Ciniro Nametala - Grad. Program in Electrical Engineering, UFMG, Brazil.
 - Fernanda Takahashi - Grad. Program in Electrical Engineering, UFMG, Brazil.
 - Fillipe Goulart - Grad. Program in Electrical Engineering, UFMG, Brazil.
 
@@ -39,12 +40,13 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Charged systems</u>** - A. Kaveh, and S. Talatahari. "A novel heuristic optimization method: charged system search." Acta Mechanica 213(3-4):267-289, 2010. [[DOI](http://dx.doi.org/10.1007/s00707-009-0270-4)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=950816647531324127&hl=en&as_sdt=0,5)]
 -   **<u>Chemical Reactions</u>** - Bilal Alatas. "ACROA: artificial chemical reaction optimization algorithm for global optimization." Expert Systems with Applications 38(10):13170-13180, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.126)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4558455092048574656&hl=en&as_sdt=0,5)]
 -   **<u>Colliding bodies</u>** - A. Kaveh and V. R. Mahdavi. "Colliding bodies optimization: a novel meta-heuristic method." Computers & Structures 139:18-27, 2014. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2014.04.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8696745119414106345&hl=en&as_sdt=0,5&as_vis=1)]
--   **<u>Cuckoos</u>** - Xin-She Yang and Suash Deb. "Cuckoo search via Lévy flights." Nature & Biologically Inspired Computing, 2009. NaBIC 2009. World Congress on. IEEE, 2009. [[DOI](http://dx.doi.org/10.1109/NABIC.2009.5393690)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13191416867993532789&hl=en&as_sdt=0,5)]
+-   **<u>Cuckoos</u>** - Xin-She Yang and Suash Deb. "Cuckoo search via Lévy flights." IEEE World Congress on Nature & Biologically Inspired Computing (NaBIC), 2009. [[DOI](http://dx.doi.org/10.1109/NABIC.2009.5393690)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13191416867993532789&hl=en&as_sdt=0,5)]
 
 ### D
--   **<u>Dolphins</u>** - Y Shiqin et al. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]
+-   **<u>Dolphins</u>** - Y Shiqin _et al._. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]
 
 ### E
+-   **<u>Elephants</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### F
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
