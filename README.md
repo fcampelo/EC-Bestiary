@@ -46,9 +46,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Dolphins</u>** - Y Shiqin _et al._. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]
 
 ### E
--   **<u>Elephants</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
 -   **<u>Egyptian Vultures</u>** - Chiranjib Sur, Sanjeev Sharma, and Anupam Shukla. "Egyptian vulture optimization algorithm - a new nature inspired meta-heuristics for knapsack problem." The 9th International Conference on Computing and Information Technology (IC2IT). pp. 227-237, Springer Berlin Heidelberg, 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
-
+-   **<u>Elephants</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### F
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
