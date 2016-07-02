@@ -2,7 +2,7 @@
 ### April 18, 2016
 ******
 
-### Main Contributors (a.k.a. "Zoo Keepers")
+### Main Contributors ("the Zoo Keepers")
 - [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Grad. School of Systems and Information Engineering, Tsukuba University, Japan.
 - [Felipe Campelo](mailto:fcampelo@ufmg.br), Dept. Electrical Engineering, Universidade Federal de Minas Gerais, Brazil.
 
