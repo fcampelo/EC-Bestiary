@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-### April 18, 2016
+### June 30, 2016
 ******
 
 ### Main Contributors ("the Zoo Keepers")
