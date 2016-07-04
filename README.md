@@ -2,16 +2,17 @@
 ### June 30, 2016
 ******
 
-### Main Contributors ("the Zoo Keepers")
-- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Grad. School of Systems and Information Engineering, Tsukuba University, Japan.
-- [Felipe Campelo](mailto:fcampelo@ufmg.br), Dept. Electrical Engineering, Universidade Federal de Minas Gerais, Brazil.
+### Maintainers ("the Zoo Keepers")
+- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.
+- [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
 
-### Occasional Contributors
-- André Maravilha - Grad. Program in Electrical Engineering, UFMG, Brazil.
-- Ciniro Nametala - Grad. Program in Electrical Engineering, UFMG, Brazil.
-- Fernanda Takahashi - Grad. Program in Electrical Engineering, UFMG, Brazil.
-- Fillipe Goulart - Grad. Program in Electrical Engineering, UFMG, Brazil.
-- Kenneth Sörensen - Operations Research Group ANT/OR, University of Antwerp, Belgium
+### Contributors (at least one accepted suggestion)
+- André Maravilha - UFMG, Brazil.
+- Ciniro Nametala - UFMG, Brazil.
+- Fernanda Takahashi - UFMG, Brazil.
+- Fillipe Goulart - UFMG, Brazil.
+- Kenneth Sörensen - University of Antwerp, Belgium
+- Stephan Voß - University of Hamburg, Germany
 
 ******
 Nature can inspire us in many ways, and this inspiration can be used to generate powerful and adaptive algorithms. However, when it comes to naming these algorithms, some people are more... ahem... _creative_ than others.
@@ -113,7 +114,7 @@ Important: this list makes no (explicit) claims about the quality of the work --
 
 ### P
 -   **<u>Paddy fields</u>** - U. Premaratne, J. Samarabandu, T. Sidhu. "A new biologically inspired optimization algorithm." In 2009 international conference on industrial and information systems (ICIIS) (pp. 279-284). IEEE, December 2009 [[DOI](http://dx.doi.org/10.1109/ICIINFS.2009.5429852)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15016013224707268426&hl=en&as_sdt=0,5)] 
--   **<u>Penguins</u>** - Ilyass Mzili and Mohammed Essaid Riffi. "Discrete Penguins Search Optimization Algorithm to Solve the Traveling Salesman Problem." Journal of Theoretical and Applied Information Technology, 72(3), 2015. [[JTAIT](http://www.jatit.org/volumes/Vol72No3/3Vol72No3.pdf)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Discrete+Penguins+Search+Optimization+Algorithm+to+Solve+the+Traveling+Salesman+Problem&btnG=&hl=en&as_sdt=0%2C5)]
+-   **<u>Penguins</u>** - Y. Gheraibia, A. Moussaoui. Penguins search optimization algorithm (PeSOA). In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (pp. 222-231). Springer Berlin Heidelberg, June 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-38577-3_23)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16399416721277149206&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Plants</u>** - Jun Li, Zhihua Cui and Zhongzhi Shi. "An improved artificial plant optimization algorithm for coverage problem in WSN." Sensor Letters 10(8):1874-1878, 2012. [[DOI](http://dx.doi.org/10.1166/sl.2012.2627)] [[Google Scholar](https://scholar.google.com.br/scholar?q=An+Improved+Artificial+Plant+Optimization+Algorithm+for+Coverage+Problem+in+WSN&btnG=&hl=en&as_sdt=0%2C5)]
 -   **<u>Plants (more)</u>** - Muhammad Sulaiman _et al._. "A plant propagation algorithm for constrained engineering optimisation problems." Mathematical Problems in Engineering 2014:627416, 2014. [[DOI](http://dx.doi.org/10.1155/2014/627416)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10392390611569355219&hl=en&as_sdt=0,5)]
 -   **<u>Political Imperialism</u>** - Esmaeil Atashpaz-Gargari and Caro Lucas. "Imperialist competitive algorithm: an algorithm for optimization inspired by imperialistic competition." Evolutionary Computation, 2007. CEC 2007. IEEE Congress on. IEEE, 2007. [[DOI](http://dx.doi.org/10.1109/CEC.2007.4425083)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11215160353791123295&hl=en&as_sdt=0,5)]
@@ -165,11 +166,11 @@ Important: this list makes no (explicit) claims about the quality of the work --
 If you know a paper that should belong to this list, please sent an
 e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: _the work must be in a peer reviewed publication (journal or conference), and title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based_.
 
-It is also important to highlight that nly the earliest known mention for each metaphor is included.
+It is also important to highlight that only the earliest known mention for each metaphor is included.
 
 ### More Info:
 If you liked this list, you should read the paper "[Metaheuristic: The Metaphor Exposed](http://onlinelibrary.wiley.com/doi/10.1111/itor.12001/epdf)", by Kenneth Söresen  
-Do you need inspiration for your next Bioinspired algorithm? Check the [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics) by Marco Scirea and Julian Togelius.  
+Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Julian Togelius' [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics).
 
 ### License:
 This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
