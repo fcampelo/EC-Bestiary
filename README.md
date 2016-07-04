@@ -12,7 +12,7 @@
 - Fernanda Takahashi - UFMG, Brazil.
 - Fillipe Goulart - UFMG, Brazil.
 - Kenneth Sörensen - University of Antwerp, Belgium
-- Stephan Voß - University of Hamburg, Germany
+- Rubén Ruiz - Universitat Politècnica de València, Spain
 
 ******
 Nature can inspire us in many ways, and this inspiration can be used to generate powerful and adaptive algorithms. However, when it comes to naming these algorithms, some people are more... ahem... _creative_ than others.
