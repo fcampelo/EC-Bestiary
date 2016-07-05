@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-### July 4th, 2016
+### Updated July 5th, 2016
 ******
 
 ### Maintainers<br/>
@@ -15,6 +15,7 @@
 - Fillipe Goulart - UFMG, Brazil.
 - Kenneth Sörensen - University of Antwerp, Belgium.
 - Rubén Ruiz - Universitat Politècnica de València, Spain.
+- Stefan Voß - Universität Hamburg, Germany.
 
 ******
 Nature can inspire us in many ways, and this inspiration can be used to generate powerful and adaptive algorithms. However, when it comes to naming these algorithms, some people are more... ahem... _creative_ than others.
