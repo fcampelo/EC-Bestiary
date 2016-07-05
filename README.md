@@ -1,20 +1,20 @@
 # Evolutionary Computation Bestiary
-### June 30, 2016
+### July 4th, 2016
 ******
 
-### Maintainers  
+### Maintainers
 ("the Zoo Keepers")  
-- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.
+- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.  
 - [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
 
-### Contributors  
-(at least one contribution to the bestiary)
+### Contributors
+(at least one contribution to the bestiary)  
 - André Maravilha - UFMG, Brazil.
 - Ciniro Nametala - UFMG, Brazil.
 - Fernanda Takahashi - UFMG, Brazil.
 - Fillipe Goulart - UFMG, Brazil.
-- Kenneth Sörensen - University of Antwerp, Belgium
-- Rubén Ruiz - Universitat Politècnica de València, Spain
+- Kenneth Sörensen - University of Antwerp, Belgium.
+- Rubén Ruiz - Universitat Politècnica de València, Spain.
 
 ******
 Nature can inspire us in many ways, and this inspiration can be used to generate powerful and adaptive algorithms. However, when it comes to naming these algorithms, some people are more... ahem... _creative_ than others.
@@ -30,25 +30,30 @@ Important: this list makes no (explicit) claims about the quality of the work --
 ### A
 -   **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)] 
 -   **<u>Animal behavior</u>** - S. He, Q.H. Wu, J.R. Saunders. "Group search optimizer: an optimization algorithm inspired by animal searching behavior." IEEE Transactions on evolutionary computation, 13(5), pp.973-990, 2009. [[DOI](http://dx.doi.org/10.1109/TEVC.2009.2011992)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5773844633404321423&hl=en&as_sdt=0,5)] 
--   **<u>Ants</u>** - Alberto Colorni, Marco Dorigo, and Vittorio Maniezzo. "Distributed optimization by ant colonies". Proceedings of the first European conference on artificial life. 1991. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=106656507868371183&hl=en&as_sdt=0,5&as_vis=1)]
+-   **<u>Ants</u>**  
+        -   **<u>Ant colonies</u>** - Alberto Colorni, Marco Dorigo, and Vittorio Maniezzo. "Distributed optimization by ant colonies". Proceedings of the first European conference on artificial life. 1991. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=106656507868371183&hl=en&as_sdt=0,5&as_vis=1)]
+        
 
 ### B
--   **<u>Bacterial Chemotaxis</u>** - SD Müller et al. "Optimization based on bacterial chemotaxis." IEEE Transactions on Evolutionary Computation 6(1):16-29, 2002 [[DOI](http://dx.doi.org/10.1109/4235.985689)] [[Google Scholar](https://scholar.google.com/scholar?cluster=4979736106528607640&hl=en&as_sdt=1,5)]
--   **<u>Bacterial foraging</u>** - K.M. Passino. "Biomimicry of bacterial foraging for distributed optimization and control". IEEE control systems, 22(3), pp.52-67, 2002. [[DOI](http://dx.doi.org/10.1109/MCS.2002.1004010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7676466824436088281&hl=en&as_sdt=0,5&as_vis=1)]  
--   **<u>Bacterial swarming</u>** - Y. Chu _et al._. "A fast bacterial swarming algorithm for high-dimensional function optimization." In 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence) (pp. 3135-3140). IEEE, June 2008. [[DOI](http://dx.doi.org/10.1109/CEC.2008.4631222)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6652500290470210451&hl=en&as_sdt=0,5&as_vis=1)] 
+- **<u>Bacteria</u>**  
+        -   **<u>Bacterial Chemotaxis</u>** - SD Müller et al. "Optimization based on bacterial chemotaxis." IEEE Transactions on Evolutionary Computation 6(1):16-29, 2002 [[DOI](http://dx.doi.org/10.1109/4235.985689)] [[Google Scholar](https://scholar.google.com/scholar?cluster=4979736106528607640&hl=en&as_sdt=1,5)]  
+        -   **<u>Bacterial foraging</u>** - K.M. Passino. "Biomimicry of bacterial foraging for distributed optimization and control". IEEE control systems, 22(3), pp.52-67, 2002. [[DOI](http://dx.doi.org/10.1109/MCS.2002.1004010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7676466824436088281&hl=en&as_sdt=0,5&as_vis=1)]  
+        -   **<u>Bacterial swarming</u>** - Y. Chu _et al._. "A fast bacterial swarming algorithm for high-dimensional function optimization." In 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence) (pp. 3135-3140). IEEE, June 2008. [[DOI](http://dx.doi.org/10.1109/CEC.2008.4631222)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6652500290470210451&hl=en&as_sdt=0,5&as_vis=1)] 
 -   **<u>Bats</u>** - Yang, Xin-She. "A new metaheuristic bat-inspired algorithm". Nature inspired cooperative strategies for optimization (NICSO 2010). Springer Berlin Heidelberg, 2010. 65-74. [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Metaheuristic+Bat-Inspired+Algorithm&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
--   **<u>Bees</u>** - Dusan Teodorovic _et al._ "Bee colony optimization: principles and applications." Neural Network Applications in Electrical Engineering, 2006. NEUREL 2006. 8th Seminar on. IEEE, 2006.[[DOI](http://dx.doi.org/10.1109/NEUREL.2006.341200)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Bee+Colony+Optimization%3A+Principles+and+Applications&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
+- **<u>Bees</u>**  
+        -   **<u>Bee Colonies</u>** - Dusan Teodorovic _et al._ "Bee colony optimization: principles and applications." Neural Network Applications in Electrical Engineering, 2006. NEUREL 2006. 8th Seminar on. IEEE, 2006.[[DOI](http://dx.doi.org/10.1109/NEUREL.2006.341200)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Bee+Colony+Optimization%3A+Principles+and+Applications&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]  
+        -   **<u>Bumblebees</u>** - F. Comellas, J. Martinez-Navarro. "Bumblebees: a multiagent combinatorial optimization algorithm inspired by social insect behaviour." In Proceedings of the first ACM/SIGEVO Summit on Genetic and Evolutionary Computation (pp. 811-814). ACM, June 2009. [[DOI](http://dx.doi.org/10.1145/1543834.1543949)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2848393463955505849&hl=en&as_sdt=0,5&as_vis=1)]  
+        -   **<u>Honey-bee marriage</u>** - H.A. Abbass. "MBO: Marriage in honey bees optimization - A haplometrosis polygynous swarming approach." In Evolutionary Computation, 2001. Proceedings of the 2001 Congress on (Vol. 1, pp. 207-214). IEEE. [[DOI](http://dx.doi.org/10.1109/CEC.2001.934391)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8168120526459884096&hl=en&as_sdt=0,5)]
 -   **<u>Big bang</u>** - Osman K. Erol and Ibrahim Eksin. "A new optimization method: big bang–big crunch." Advances in Engineering Software 37(2):106-111, 2006. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2005.04.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2366573530660411189&hl=en&as_sdt=0,5)]
+-   **<u>Biogeography</u>** - D Simon. "Biogeography-based optimization." Evolutionary Computation, IEEE Transactions on, 2008. [[DOI](http://dx.doi.org/10.1109/TEVC.2008.919004)] [[Google Scholar](https://scholar.google.com/scholar?cluster=12497726800889768859&hl=en&as_sdt=1,5)]
 -   **<u>Birds mating</u>** - Alireza Askarzadeh. "Bird mating optimizer: an optimization algorithm inspired by bird mating strategies." Communications in Nonlinear Science and Numerical Simulation 19(4):1213-1228, 2014.[[DOI](http://dx.doi.org/10.1016/j.cnsns.2013.08.027)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8436001325554691071&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Black holes</u>** - Abdolreza Hatamlou. "Black hole: A new heuristic optimization approach for data clustering." Information Sciences 222:175-184, 2013. [[DOI](http://dx.doi.org/10.1016/j.ins.2012.08.023)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=816788583679970050&hl=en&as_sdt=0,5)]
 -   **<u>Blind, naked mole rats</u>** - Taherdangkoo, Mohammad, et al. "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." Swarm and Evolutionary Computation 10:1-11, 2013. [[DOI](http://dx.doi.org/10.1016/j.swevo.2013.01.001)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15285435246258205372&hl=en&as_sdt=0,5)]
--   **<u>Biogeography</u>** - D Simon. "Biogeography-based optimization." Evolutionary Computation, IEEE Transactions on, 2008. [[DOI](http://dx.doi.org/10.1109/TEVC.2008.919004)] [[Google Scholar](https://scholar.google.com/scholar?cluster=12497726800889768859&hl=en&as_sdt=1,5)]
 -   **<u>Brainstorms</u>** - Y. Shi. "An optimization algorithm based on brainstorming process." Emerging Research on Swarm Intelligence and Algorithm Optimization, pp.1-35, 2015 [[DOI](http://dx.doi.org/10.4018/ijsir.2011100103)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1299202243958304306&hl=en&as_sdt=0,5)] 
--   **<u>Bumblebees</u>** - F. Comellas, J. Martinez-Navarro. "Bumblebees: a multiagent combinatorial optimization algorithm inspired by social insect behaviour." In Proceedings of the first ACM/SIGEVO Summit on Genetic and Evolutionary Computation (pp. 811-814). ACM, June 2009. [[DOI](http://dx.doi.org/10.1145/1543834.1543949)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2848393463955505849&hl=en&as_sdt=0,5&as_vis=1)] 
+
 
 ### C
 -   **<u>Cats</u>** - Shu-Chuan Chu, Pei-Wei Tsai, and Jeng-Shyang Pan. "Cat swarm optimization." PRICAI 2006: Trends in artificial intelligence. Springer Berlin Heidelberg, 2006. 854-858. [[DOI](http://dx.doi.org/10.1007/11801603_94)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=11591494369468656974&hl=en&as_sdt=0,5)]
--   **<u>Catfish</u>** - Li-Yeh Chuang, Sheng-Wei Tsai, and Cheng-Hong Yang. "Improved binary particle swarm optimization using catfish effect for feature selection." Expert Systems with Applications 38(10):12699-12707, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.057)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3110520451936914601&hl=en&as_sdt=0,5)]
 -   **<u>Central force</u>** - Richard A. Formato. "Central force optimization: a new metaheuristic with applications in applied electromagnetics." Progress In Electromagnetics Research 77:425-491, 2007. [[DOI](http://dx.doi.org/10.2528/PIER07082403)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17411562926531587411&hl=en&as_sdt=0,5)]
 -   **<u>Charged systems</u>** - A. Kaveh, and S. Talatahari. "A novel heuristic optimization method: charged system search." Acta Mechanica 213(3-4):267-289, 2010. [[DOI](http://dx.doi.org/10.1007/s00707-009-0270-4)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=950816647531324127&hl=en&as_sdt=0,5)]
 -   **<u>Chemical Reactions</u>** - Bilal Alatas. "ACROA: artificial chemical reaction optimization algorithm for global optimization." Expert Systems with Applications 38(10):13170-13180, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.126)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4558455092048574656&hl=en&as_sdt=0,5)]
@@ -58,7 +63,11 @@ Important: this list makes no (explicit) claims about the quality of the work --
 -   **<u>Cuckoos</u>** - Xin-She Yang and Suash Deb. "Cuckoo search via Lévy flights." IEEE World Congress on Nature & Biologically Inspired Computing (NaBIC), 2009. [[DOI](http://dx.doi.org/10.1109/NABIC.2009.5393690)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13191416867993532789&hl=en&as_sdt=0,5)]
 
 ### D
--   **<u>Dolphins</u>** - Y Shiqin _et al._. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]
+-   **<u>Dolphins</u>**  
+        -   **<u>Dolphin partners</u>** - Y Shiqin _et al._. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]  
+        - **<u>Dolphin echolocation</u**> - A. Kaveh, N. Farhoudi. A new optimization method: Dolphin echolocation. Advances in Engineering Software, 59, pp.53-70, 2013. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.03.004)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6141328029332849229&hl=en&as_sdt=0,5&as_vis=1)]
+        
+        
 
 ### E
 -   **<u>Eagles</u>** - X.S. Yang, S. Deb. "Eagle strategy using Lévy walk and firefly algorithms for stochastic optimization." In Nature Inspired Cooperative Strategies for Optimization (NICSO 2010) (pp. 101-111). Springer Berlin Heidelberg, 2010.  [[DOI](http://dx.doi.org/10.1007/978-3-642-12538-6_9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5055233292269149821&hl=en&as_sdt=0,5&as_vis=1)] 
@@ -70,8 +79,12 @@ Important: this list makes no (explicit) claims about the quality of the work --
 
 ### F
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
--   **<u>Fish</u>** - J. A. Carmelo Filho _et al._. "A novel search algorithm based on fish school behavior." Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICSMC.2008.4811695)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11973554734110983734&hl=en&as_sdt=0,5)]
--   **<u>Frogs</u>** - Thai-Hoang Huynh. "A modified shuffled frog leaping algorithm for optimal tuning of multivariable PID controllers." Industrial Technology, 2008. ICIT 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICIT.2008.4608439)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10202726787573457298&hl=en&as_sdt=0,5)]
+-   **<u>Fish</u>**  
+        - **<u>Fish schools</u>** - J. A. Carmelo Filho _et al._. "A novel search algorithm based on fish school behavior." Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICSMC.2008.4811695)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11973554734110983734&hl=en&as_sdt=0,5)]  
+        -   **<u>Catfish</u>** - Li-Yeh Chuang, Sheng-Wei Tsai, and Cheng-Hong Yang. "Improved binary particle swarm optimization using catfish effect for feature selection." Expert Systems with Applications 38(10):12699-12707, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.057)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3110520451936914601&hl=en&as_sdt=0,5)]
+-   **<u>Frogs</u>**  
+        -  **<u>Frogs leaping </u>** - Thai-Hoang Huynh. "A modified shuffled frog leaping algorithm for optimal tuning of multivariable PID controllers." Industrial Technology, 2008. ICIT 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICIT.2008.4608439)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10202726787573457298&hl=en&as_sdt=0,5)]  
+        -   **<u>Japanese Tree Frogs</u>** - H. Hernández, C. Blum. "Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs." Swarm Intelligence 6.2 (2012): 117-150. [[DOI](http://dx.doi.org/10.1007/s11721-012-0067-2)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7081005414023441516&hl=en&as_sdt=0,5)] 
 -   **<u>Fruit Fly</u>** - WT Pan "A new fruit fly optimization algorithm: taking the financial distress model as an example." Knowledge-Based Systems, pp 69-74, 2012 [[DOI](http://dx.doi.org/10.1016/j.knosys.2011.07.001)] [[Google Scholar](https://scholar.google.com/scholar?cluster=6956044678885147539&hl=en&as_sdt=1,5)]
 
 ### G
@@ -80,19 +93,15 @@ Important: this list makes no (explicit) claims about the quality of the work --
 -   **<u>Glow Worms</u>** - K. N. Krishnanand and Debasish Ghose. "Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions." Swarm intelligence 3(2):87-124, 2009. [[DOI](http://dx.doi.org/10.1007/s11721-008-0021-5)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10880041005648760160&hl=en&as_sdt=0,5)] 
 -   **<u>Gravitation</u>** - B. Webster and P.J. Bernhard. "A local search optimization algorithm based on natural principles of gravitation.", Proceedings of the international conference on information and knowledge engineering (IKE’03), 2003. 255–261. [[IT Florida](https://repository.lib.fit.edu/bitstream/handle/11141/117/cs-2003-10.pdf?sequence=1&isAllowed=y)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7083663946218421142&hl=en&as_sdt=0,5)]
 -   **<u>Grenades</u>** - Ali Ahrari and Ali A. Atai. "Grenade explosion method - a novel tool for optimization of multimodal functions." Applied Soft Computing 10(4):1132-1140, 2010. [[DOI](http://dx.doi.org/10.1016/j.asoc.2009.11.032)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11907331357982080577&hl=en&as_sdt=0,5)]
--   **<u>Grey Wolves</u>** - Seyedali Mirjalili, Seyed Mohammad Mirjalili, and Andrew Lewis. "Grey wolf optimizer." Advances in Engineering Software 69:46-61, 2014. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.12.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2274273013181958031&hl=en&as_sdt=0,5)]
 -   **<u>Group counselling</u>** - M.A. Eita and M. M. Fahmy. "Group counseling optimization: a novel approach." Research and Development in Intelligent Systems XXVI. Springer London, 2010. 195-208. [[DOI](http://dx.doi.org/10.1007/978-1-84882-983-1_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13072245307035783024&hl=en&as_sdt=0,5&as_vis=1)]
     
 ### H
--   **<u>Honey-bee marriage</u>** - H.A. Abbass. "MBO: Marriage in honey bees optimization - A haplometrosis polygynous swarming approach." In Evolutionary Computation, 2001. Proceedings of the 2001 Congress on (Vol. 1, pp. 207-214). IEEE. [[DOI](http://dx.doi.org/10.1109/CEC.2001.934391)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8168120526459884096&hl=en&as_sdt=0,5)]
     
 ### I
--   **<u>Intelligent water drops</u>** - Hamed Shah-Hosseini. "The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm." International Journal of Bio-Inspired Computation 1(1-2):71-79, 2009. [[DOI](http://dx.doi.org/10.1504/IJBIC.2009.022775)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7657381653886298700&hl=en&as_sdt=0,5)]
 -   **<u>Invasive weeds</u>** - A.R. Mehrabian, C. Lucas. "A novel numerical optimization algorithm inspired from weed colonization." Ecological informatics, 1(4), pp.355-366, 2006. [[DOI](http://dx.doi.org/10.1016/j.ecoinf.2006.07.003)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12981034603941956524&hl=en&as_sdt=0,5)] 
     
 ### J
 -   **<u>Jaguars</u>** - Chin-Chi Chen _et al._. "A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior." IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1595-1600, 2015. [[DOI](http://dx.doi.org/10.1109/SMC.2015.282)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+A+Novel+Metaheuristic%3A+Jaguar+Algorithm+with+Learning+Behavior&btnG=&as_sdt=1%2C5&as_sdtp=)]
--   **<u>Japanese Tree Frogs</u>** - H. Hernández, C. Blum. "Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs." Swarm Intelligence 6.2 (2012): 117-150. [[DOI](http://dx.doi.org/10.1007/s11721-012-0067-2)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7081005414023441516&hl=en&as_sdt=0,5)] 
 -   **<u>Jellyfish</u>** - V. Lazunin and V. Savchenko. "Artificial jellyfish: evolutionary optimization of swimming." 20th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG). pp. 131-138, Plzen, Czech Republic, 2012. [[Citeseer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9073&rep=rep1&type=pdf#page=145)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Artificial+jellyfish%3A+evolutionary+optimization+of+swimming&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### K
@@ -151,9 +160,13 @@ Important: this list makes no (explicit) claims about the quality of the work --
 
 ### W
 -   **<u>Wasps</u>** - P Pinto, TA Runkler, JM Sousa. "Wasp swarm optimization of logistic systems." Adaptive and Natural Computing Algorithms: Proceedings of the International Conference in Coimbra, Portugal, 2005 [[Google Scholar](https://scholar.google.com/scholar?cluster=14004470869169954031&hl=en&as_sdt=1,5)]
--   **<u>Water cycle</u>** - Hadi Eskandar _et al._. "Water cycle algorithm–A novel metaheuristic optimization method for solving constrained engineering optimization problems." Computers & Structures 110:151-166, 2010. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.07.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5591658062910195818&hl=en&as_sdt=0,5&as_vis=1)]
--   **<u>Water Evaporation</u>** - A. Kaveh and T. Bakhshpoori. "Water Evaporation Optimization: A novel physically inspired optimization algorithm." Computers & Structures 167:69-85, 2016. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Water+Evaporation+Optimization%3A+A+novel+physically+inspired+optimization+algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
+-   **<u>Water</u>**
+        -   **<u>Intelligent water drops</u>** - Hamed Shah-Hosseini. "The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm." International Journal of Bio-Inspired Computation 1(1-2):71-79, 2009. [[DOI](http://dx.doi.org/10.1504/IJBIC.2009.022775)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7657381653886298700&hl=en&as_sdt=0,5)]  
+        -   **<u>Water cycle</u>** - Hadi Eskandar _et al._. "Water cycle algorithm–A novel metaheuristic optimization method for solving constrained engineering optimization problems." Computers & Structures 110:151-166, 2010. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.07.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5591658062910195818&hl=en&as_sdt=0,5&as_vis=1)]  
+        -   **<u>Water Evaporation</u>** - A. Kaveh and T. Bakhshpoori. "Water Evaporation Optimization: A novel physically inspired optimization algorithm." Computers & Structures 167:69-85, 2016. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Water+Evaporation+Optimization%3A+A+novel+physically+inspired+optimization+algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]  
 -   **<u>Whales</u>** - Seyedali Mirjalili and Andrew Lewisa. "The Whale Optimization Algorithm". Advances in Engineering Software 95:51-67, 2016. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=The+Whale+Optimization+Algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
+-  **<u>Wolves</u>**
+        -   **<u>Grey Wolves</u>** - Seyedali Mirjalili, Seyed Mohammad Mirjalili, and Andrew Lewis. "Grey wolf optimizer." Advances in Engineering Software 69:46-61, 2014. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.12.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2274273013181958031&hl=en&as_sdt=0,5)]
 
 ### X
 
