@@ -2,13 +2,13 @@
 ### July 4th, 2016
 ******
 
-### Maintainers
-("the Zoo Keepers")  
+### Maintainers<br/>
+("the Zoo Keepers")
 - [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.  
 - [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
 
-### Contributors
-(at least one contribution to the bestiary)  
+### Contributors<br/>
+(at least one contribution to the bestiary)
 - André Maravilha - UFMG, Brazil.
 - Ciniro Nametala - UFMG, Brazil.
 - Fernanda Takahashi - UFMG, Brazil.
