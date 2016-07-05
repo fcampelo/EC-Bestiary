@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-### Updated July 5th, 2016
+**Updated July 5th, 2016**
 ******
 
 ### Maintainers<br/>
