@@ -1,32 +1,29 @@
 # Evolutionary Computation Bestiary
 **Updated July 8th, 2016**
 ******
+> "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
-### Maintainers<br/>
-("the Zoo Keepers")
-- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.  
-- [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
+*****
 
-### Contributors<br/>
-(at least one contribution to the bestiary)
-- André Maravilha - UFMG, Brazil.
-- Ciniro Nametala - UFMG, Brazil.
-- Fernanda Takahashi - UFMG, Brazil.
-- Fillipe Goulart - UFMG, Brazil.
-- Kenneth Sörensen - University of Antwerp, Belgium.
-- Rubén Ruiz - Universitat Politècnica de València, Spain.
-- Stefan Voß - Universität Hamburg, Germany.
+### Read me first
+This list is a tongue-in-cheek account of all the weird, even bizarre metaphor-based metaheuristics out there in the wide world of academic publishing. It is **not** intended as a celebration of this approach to algorithm development - on the contrary, we strongly believe that this obsession with metaphors is quite harmful to the development of the field of metaheuristics as a whole. The field needs more actual science - in terms of sound hypotheses, rigorous math and overarching theories - not more marsupials or platyhelminthes.
 
-******
+In short: this is not a _Hall of Fame_ of algorithms, and having your paper on the list is definitely *not* something you should want. Think of it more as [The island of Doctor Moreau](https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau).
+
+*****
+### Introduction
 Nature can inspire us in many ways, and this inspiration can be used to generate powerful and adaptive algorithms. However, when it comes to naming these algorithms, some people are more... ahem... _creative_ than others.
 
 This page is an attempt to keep a list of the many different animals, plants, and natural (or even supernatural!) systems that can be spotted in the wild lands of bioinspired computation literature. Make sure to check it before choosing the totem spirit of your own method!
 
 If you know a metaphor-based method that is not listed here, or if you know of an earlier mention of a listed method, please see the bottom of the page on how to contribute!
 
-Important: this list makes no (explicit) claims about the quality of the work -- it may include relevant papers in the metaheuristics literature side by side with others for which the contribution is, to put it mildly, less well-defined.
+And without further 
 
 ******
+
+## The Bestiary
+^^^^^^^^^^^^^^^
 
 ### A
 -   **<u>African buffalo</u>** - J.B. Odili, M.N. Mohmad Kahar. "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization". Computational intelligence and neuroscience, vol. 2016, Article ID 1510256, 12 pages, 2016. [[DOI](http://dx.doi.org/10.1155/2016/1510256)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4423114012477480195&hl=en&as_sdt=0,5)] 
@@ -186,6 +183,23 @@ Important: this list makes no (explicit) claims about the quality of the work --
 
 ### Z
 -   **<u>Zombies</u>** - Hoang Thanh Nguyen and Bir Bhanu. "Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging." Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012. [[IEEExplore](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6460301&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6460301)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4781693317520961200&hl=en&as_sdt=0,5)]
+
+*****
+
+### Maintainers
+("the Zoo Keepers")
+- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.  
+- [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
+
+### Contributors
+(at least one contribution to the bestiary)
+- André Maravilha - UFMG, Brazil.
+- Ciniro Nametala - UFMG, Brazil.
+- Fernanda Takahashi - UFMG, Brazil.
+- Fillipe Goulart - UFMG, Brazil.
+- Kenneth Sörensen - University of Antwerp, Belgium.
+- Rubén Ruiz - Universitat Politècnica de València, Spain.
+- Stefan Voß - Universität Hamburg, Germany.
 
 *****
 
