@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated July 5th, 2016**
+**Updated July 8th, 2016**
 ******
 
 ### Maintainers<br/>
@@ -29,14 +29,10 @@ Important: this list makes no (explicit) claims about the quality of the work --
 ******
 
 ### A
--   **<u>Adaptive immune system</u>** - L.N. de Castro, F.J. von Zuben. "Learning and optimization using the clonal selection principle". IEEE transactions on evolutionary computation, 6(3), pp.239-251, 2002. [[DOI](http://dx.doi.org/10.1109/TEVC.2002.1011539)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16359432592356759307&hl=en&as_sdt=0,5)]
 -   **<u>African buffalo</u>** - J.B. Odili, M.N. Mohmad Kahar. "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization". Computational intelligence and neuroscience, vol. 2016, Article ID 1510256, 12 pages, 2016. [[DOI](http://dx.doi.org/10.1155/2016/1510256)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4423114012477480195&hl=en&as_sdt=0,5)] 
 -   **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)] 
 -   **<u>Animal behavior</u>** - S. He, Q.H. Wu, J.R. Saunders. "Group search optimizer: an optimization algorithm inspired by animal searching behavior." IEEE Transactions on evolutionary computation, 13(5), pp.973-990, 2009. [[DOI](http://dx.doi.org/10.1109/TEVC.2009.2011992)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5773844633404321423&hl=en&as_sdt=0,5)]  
-
--   **<u>Ants</u>**  
-    -   **<u>Ant colonies</u>** - Alberto Colorni, Marco Dorigo, and Vittorio Maniezzo. "Distributed optimization by ant colonies". Proceedings of the first European conference on artificial life. 1991. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=106656507868371183&hl=en&as_sdt=0,5&as_vis=1)]  
-    -  **<u>Ant Lion</u>** - S. Mirjalili. The ant lion optimizer. Advances in Engineering Software, 83, pp.80-98, 2015. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2015.01.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2662372455275894165&hl=en&as_sdt=0,5)]  
+-  **<u>Ant Lion</u>** - S. Mirjalili. The ant lion optimizer. Advances in Engineering Software, 83, pp.80-98, 2015. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2015.01.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2662372455275894165&hl=en&as_sdt=0,5)]  
 
 ### B
 - **<u>Bacteria</u>**  
