@@ -212,3 +212,6 @@ Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Jul
 
 ### License:
 This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<a href="http://www.freecounterstat.com" target="_Blank" title="free counter">free counter</a><br/>
+<script type="text/javascript" src="http://counter10.01counter.com/private/counter.js?c=40ec7742babe64a5eca8a8f1189e57e3"></script>
