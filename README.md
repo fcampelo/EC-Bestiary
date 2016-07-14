@@ -100,7 +100,6 @@ If you know a metaphor-based method that is not listed here, or if you know of a
     
 ### J
 -   **<u>Jaguars</u>** - Chin-Chi Chen _et al._. "A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior." IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1595-1600, 2015. [[DOI](http://dx.doi.org/10.1109/SMC.2015.282)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+A+Novel+Metaheuristic%3A+Jaguar+Algorithm+with+Learning+Behavior&btnG=&as_sdt=1%2C5&as_sdtp=)]
--   **<u>Jellyfish</u>** - V. Lazunin and V. Savchenko. "Artificial jellyfish: evolutionary optimization of swimming." 20th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG). pp. 131-138, Plzen, Czech Republic, 2012. [[Citeseer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9073&rep=rep1&type=pdf#page=145)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Artificial+jellyfish%3A+evolutionary+optimization+of+swimming&btnG=&as_sdt=1%2C5&as_sdtp=)]
 
 ### K
 -   **<u>Krill</u>** - Amir Hossein Gandomi and Amir Hossein Alavi. "Krill herd: a new bio-inspired optimization algorithm." Communications in Nonlinear Science and Numerical Simulation 17(12):4831-4845, 2012. [[DOI](http://dx.doi.org/10.1016/j.cnsns.2012.05.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3784041089788372892&hl=en&as_sdt=0,5)]
