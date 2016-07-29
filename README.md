@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated July 8th, 2016**
+**Updated July 28th, 2016**
 ******
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -8,7 +8,9 @@
 ### Read me first
 This list is a tongue-in-cheek account of all the weird, even bizarre metaphor-based metaheuristics out there in the wide world of academic publishing. It is **not** intended as a celebration of this approach to algorithm development - on the contrary, we strongly believe that this obsession with metaphors is quite harmful to the development of the field of metaheuristics as a whole. The field needs more actual science - in terms of sound hypotheses, rigorous math and overarching theories - not more marsupials or platyhelminthes.
 
-In short: this is not a _Hall of Fame_ of algorithms, and having your paper on the list is definitely *not* something you should want. Think of it more as [The island of Doctor Moreau](https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau).
+In short: this is not a _Hall of Fame_ of algorithms, and having your paper on the list is definitely *not* something you should want. Think of it more as [The island of Doctor Moreau](https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau). 
+
+Regardless, it is important to highlight that this list makes no (explicit) claims about the quality of these papers: it may include relevant papers in the metaheuristics literature side by side with others for which the contribution is, to put it mildly, less well-defined.
 
 *****
 ### Introduction
@@ -26,6 +28,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)] 
 -   **<u>Animal behavior</u>** - S. He, Q.H. Wu, J.R. Saunders. "Group search optimizer: an optimization algorithm inspired by animal searching behavior." IEEE Transactions on evolutionary computation, 13(5), pp.973-990, 2009. [[DOI](http://dx.doi.org/10.1109/TEVC.2009.2011992)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5773844633404321423&hl=en&as_sdt=0,5)]  
 -  **<u>Ant Lion</u>** - S. Mirjalili. The ant lion optimizer. Advances in Engineering Software, 83, pp.80-98, 2015. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2015.01.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2662372455275894165&hl=en&as_sdt=0,5)]  
+-  **<u>Antibodies</u>** - L.N. de Castro, F.J. von Zuben. "The clonal selection algorithm with engineering applications." Proceedings of the Genetic and Evolutionary Computation Conference (GECCO'2000), pp. 36-39. 2000.[[Google Scholar](https://scholar.google.com.br/scholar?cluster=7215188449257401709&hl=en&as_sdt=0,5)]  
+
 
 ### B
 - **<u>Bacteria</u>**  
@@ -72,7 +76,9 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Emotions</u>** - Y. Xu, Z. Cui, J. Zeng. "Social emotional optimization algorithm for nonlinear constrained optimization problems." In International Conference on Swarm, Evolutionary, and Memetic Computing (pp. 583-590). Springer Berlin Heidelberg, December 2010. [[DOI](http://dx.doi.org/10.1007/978-3-642-17563-3_68)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4708572757276962732&hl=en&as_sdt=0,5)] 
 
 ### F
+-   **<u>FIFA World Cup</u>** - N. Razmjooy, M. Khalilpour, M. Ramezani. "A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System." Journal of Control, Automation and Electrical Systems (2016):1-22, 2016. [[DOI](http://dx.doi.org/10.1007/s40313-016-0242-6)] [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Meta-Heuristic+Optimization+Algorithm+Inspired+by+FIFA+World+Cup+Competitions%3A+Theory+and+Its+Application+in+PID+Designing+for+AVR+System&btnG=&hl=en&as_sdt=0%2C5)]
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
+-   **<u>Fireworks</u>** - Y. Tan, Y. Zhu. "Fireworks algorithm for optimization." International Conference in Swarm Intelligence, 355-364. Springer Berlin Heidelberg, 2010. [[DOI](https://dx.doi.org/10.1007/978-3-642-13495-1_44)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12271956799303365025&hl=en&as_sdt=0,5)]
 -  **<u>Fish</u>**  
     -  **<u>Fish schools</u>** - J. A. Carmelo Filho _et al._. "A novel search algorithm based on fish school behavior." Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICSMC.2008.4811695)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11973554734110983734&hl=en&as_sdt=0,5)]  
     -  **<u>Catfish</u>** - Li-Yeh Chuang, Sheng-Wei Tsai, and Cheng-Hong Yang. "Improved binary particle swarm optimization using catfish effect for feature selection." Expert Systems with Applications 38(10):12699-12707, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.057)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3110520451936914601&hl=en&as_sdt=0,5)]  
@@ -97,6 +103,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### I
 -   **<u>Invasive weeds</u>** - A.R. Mehrabian, C. Lucas. "A novel numerical optimization algorithm inspired from weed colonization." Ecological informatics, 1(4), pp.355-366, 2006. [[DOI](http://dx.doi.org/10.1016/j.ecoinf.2006.07.003)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12981034603941956524&hl=en&as_sdt=0,5)]  
 -  **<u>Interior design and decoration</u>** - A.H. Gandomi. Interior search algorithm (ISA): a novel approach for global optimization. ISA transactions, 53(4), pp.1168-1183, 2014. [[DOI](http://dx.doi.org/10.1016/j.isatra.2014.03.018)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7338001135798818496&hl=en&as_sdt=0,5)]  
+-  **<u>Ions</u>** - B. Javidy, A. Hatamlou, S. Mirjalili. "Ions motion algorithm for solving optimization problems." Applied Soft Computing 32(1):72-79, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.03.035)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12292409149118622905&hl=en&as_sdt=0,5)]  
     
 ### J
 -   **<u>Jaguars</u>** - Chin-Chi Chen _et al._. "A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior." IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1595-1600, 2015. [[DOI](http://dx.doi.org/10.1109/SMC.2015.282)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+A+Novel+Metaheuristic%3A+Jaguar+Algorithm+with+Learning+Behavior&btnG=&as_sdt=1%2C5&as_sdtp=)]
@@ -106,6 +113,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 
 ### L
 -   **<u>Ladybirds</u>** - Peng Wang, Zhouquan Zhu, and Shuai Huang. "Seven-spot ladybird optimization: a novel and efficient metaheuristic algorithm for numerical optimization." The Scientific World Journal 2013:378515-378515, 2013. [[DOI](http://dx.doi.org/10.1155/2013/378515)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3839264667986421773&hl=en&as_sdt=0,5)]
+-   **<u>Lightning</u>** - H. Shareef, A.A. Ibrahim, A.H. Mutlag. "Lightning search algorithm". Applied Soft Computing 36(, pp.)1):315-333, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.07.028)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=1764729706927566901&hl=en&as_sdt=0,5)]
 -   **<u>Lion</u>** - Maziar Yazdani and Fariborz Jolai. "Lion Optimization Algorithm (LOA): A nature-inspired metaheuristic algorithm." Journal of Computational Design and Engineering 3(1):24-36, 2016. [[DOI](http://dx.doi.org/10.1016/j.jcde.2015.06.003)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=341129423373629917&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Locusts</u>** - Chen, Stephen. "An analysis of locust swarms on large scale global optimization problems." Artificial Life: Borrowing from Biology. Springer Berlin Heidelberg, 2009. 211-220. [[DOI](http://dx.doi.org/10.1007/978-3-642-10427-5_21)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6640665647979104050&hl=en&as_sdt=0,5)]
     
@@ -116,6 +124,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
     -  **<u>Spider Monkeys</u>** - Jagdish Chand Bansal _et al._. "Spider monkey optimization algorithm for numerical optimization." Memetic Computing 6(1):31-47, 2014. [[DOI](http://dx.doi.org/10.1007/s12293-013-0128-0)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8273023711368780409&hl=en&as_sdt=0,5)]  
 -   **<u>Moths</u>** - Seyedali Mirjalili. "Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm." Knowledge-Based Systems 89:228-249, 2015. [[DOI](http://dx.doi.org/10.1016/j.knosys.2015.07.006)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Moth-flame+optimization+algorithm%3A+A+novel+nature-inspired+heuristic+paradigm&btnG=&hl=en&as_sdt=0%2C5)]
 -   **<u>Mountain climbers</u>** - L.M. Zhang, C. Dahlmann, Y. Zhang. "Human-inspired algorithms for continuous function optimization." In Intelligent Computing and Intelligent Systems, 2009. ICIS 2009. IEEE International Conference on (Vol. 1, pp. 318-321). IEEE, November 2009. [[DOI](http://dx.doi.org/10.1109/ICICISYS.2009.5357838)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11337005026856432188&hl=en&as_sdt=0,5)]
+-   **<u>Moths</u>** - S. Mirjalili. "Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm." Knowledge-Based Systems 89(1):228-249, 2015. [[DOI](http://dx.doi.org/10.1016/j.knosys.2015.07.006)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=14572195229540331782&hl=en&as_sdt=0,5)]
 -   **<u>Musicians</u>** - Zong Woo Geem, Joong Hoon Kim, and G. V. Loganathan. "A new heuristic optimization algorithm: harmony search." Simulation 76(2):60-68, 2001. [[DOI](http://dx.doi.org/10.1177/003754970107600201)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=13170078065982440769&hl=en&as_sdt=0,5)]
 
 ### N
@@ -143,10 +152,12 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Roots</u>** - F. Merrikh-Bayat. "The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature." Applied Soft Computing 33:292-303, 2015. [[DOI](http://dx.doi.org/10.1016/j.asoc.2015.04.048)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5946377858927400725&hl=en&as_sdt=0,5)]
 
 ### S
--   **<u>Salmon migrations</u>** - A. Mozaffari, A. Fathi, S. Behzadipour. "The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation." International Journal of Bio-Inspired Computation 4.5: 286-301, 2012. [[DOI]()] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1305220785153618483&hl=en&as_sdt=0,5)] 
+-   **<u>Salmon migrations</u>** - A. Mozaffari, A. Fathi, S. Behzadipour. "The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation." International Journal of Bio-Inspired Computation 4.5: 286-301, 2012. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1305220785153618483&hl=en&as_sdt=0,5)] 
+-   **<u>Scientific method</u>** - D. Felipe, E. Goldbarg, and M. Goldbarg. "Scientific algorithms for the Car Renter Salesman Problem." IEEE Congress on Evolutionary Computation (CEC), pp. 873-879. IEEE, 2014. [[DOI](http://dx.doi.org/10.1109/CEC.2014.6900556)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Scientific+algorithms+for+the+Car+Renter+Salesman+Problem&btnG=&hl=en&as_sdt=0%2C5)] 
 -   **<u>Sharks</u>** - Oveis Abedinia, Nima Amjady, and Ali Ghasemi. "A new metaheuristic algorithm based on shark smell optimization." Complexity, 2014. [[DOI](http://dx.doi.org/10.1002/cplx.21634)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15159494435649164669&hl=en&as_sdt=0,5)]
 -   **<u>Small World</u>** - H Du, X Wu, J Zhuang. "Small-world optimization algorithm for function optimization." Advances in Natural Computation, 2006. [[DOI](http://dx.doi.org/10.1007/11881223_33)][[Google Scholar](https://scholar.google.com/scholar?cluster=5893209377343719919&hl=en&as_sdt=1,5)]
--   **<u>Spirals</u>** - K. Tamura, K. Yasuda. "Spiral Dynamics Inspired Optimization." Journal ref: Journal of Advanced Computational Intelligence and Intelligent Informatics, 15(8), pp.1116-1122, 2011. [[DOI](http://dx.doi.org/10.20965/jaciii.2011.p1116)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10694793108334972365&hl=en&as_sdt=0,5)]
+-   **<u>Spirals</u>** - K. Tamura, K. Yasuda. "Spiral Dynamics Inspired Optimization." Journal of Advanced Computational Intelligence and Intelligent Informatics, 15(8), pp.1116-1122, 2011. [[DOI](http://dx.doi.org/10.20965/jaciii.2011.p1116)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10694793108334972365&hl=en&as_sdt=0,5)]
+-   **<u>Soccer</u>** - H.D. Purnomo, H.-M. Wee. "Soccer game optimization: an innovative integration of evolutionary algorithm and swarm intelligence algorithm." Meta-Heuristics optimization algorithms in engineering, business, economics, and finance. IGI Global, Pennsylvania (2012). [[DOI](http://dx.doi.org/10.4018/978-1-4666-2086-5.ch013)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=231002069922081871&hl=en&as_sdt=0,5)]
 -   **<u>Social Spiders</u>** - Cuevas, Erik, et al. "A swarm optimization algorithm inspired in the behavior of the social-spider." Expert Systems with Applications 40(16):6374-6384, 2013.[[DOI](http://dx.doi.org/10.1016/j.eswa.2013.05.041)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6931737888206270770&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Sports championships</u>** - Ali Husseinzadeh Kashan. "League Championship Algorithm (LCA): An algorithm for global optimization inspired by sport championships." Applied Soft Computing 16:171-200, 2014. [[DOI](http://dx.doi.org/10.1016/j.asoc.2013.12.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12957388200223216052&hl=en&as_sdt=0,5)]
 -   **<u>Swallows</u>** - Mehdi Neshat, Ghodrat Sepidnam, and Mehdi Sargolzaei. "Swallow swarm optimization algorithm: a new method to optimization." Neural Computing and Applications 23(2):429-454, 2013. [[DOI](http://dx.doi.org/10.1007/s00521-012-0939-9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9456173942118135781&hl=en&as_sdt=0,5&as_vis=1)]
@@ -195,13 +206,19 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 - Kenneth Sörensen - University of Antwerp, Belgium.
 - Rubén Ruiz - Universitat Politècnica de València, Spain.
 - Stefan Voß - Universität Hamburg, Germany.
+- Lars Magnus Hvattum - Molde University College, Norway.
+- Fernando Otero - University of Kent, U.K.
 
 *****
 
 ### How to Contribute
 
 If you know a paper that should belong to this list, please sent an
-e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: _the work must be in a peer reviewed publication (journal or conference), and title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based_.
+e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: 
+
+1. the work must be in a peer reviewed publication (journal or conference);  
+2. the title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based;  
+3. The paper must have been published on or after the year 2000. This is an absolutely arbitrary threshold (like so many others in our community), but personal observation suggests that the new millenium seems to have brought a deluge of Bio-inspired methods.
 
 It is also important to highlight that only the earliest known mention for each metaphor is included.
 
