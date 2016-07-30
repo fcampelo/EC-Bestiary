@@ -23,6 +23,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ******
 
 ## The Bestiary
+![BioHeuristics GO](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/BioHeuristics%20GO.png)
 ### A
 -   **<u>African buffalo</u>** - J.B. Odili, M.N. Mohmad Kahar. "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization". Computational intelligence and neuroscience, vol. 2016, Article ID 1510256, 12 pages, 2016. [[DOI](http://dx.doi.org/10.1155/2016/1510256)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4423114012477480195&hl=en&as_sdt=0,5)] 
 -   **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)] 
