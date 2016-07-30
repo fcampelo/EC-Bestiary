@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated July 28th, 2016**
+**Updated July 29th, 2016**
 ******
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -80,7 +80,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Fireflies</u>** - Xin-She Yang. "Firefly algorithms for multimodal optimization." Stochastic algorithms: foundations and applications. Springer Berlin Heidelberg, 2009. 169-178. [[DOI](https://dx.doi.org/10.1007/978-3-642-04944-6_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17254762899989717833&hl=en&as_sdt=0,5)]
 -   **<u>Fireworks</u>** - Y. Tan, Y. Zhu. "Fireworks algorithm for optimization." International Conference in Swarm Intelligence, 355-364. Springer Berlin Heidelberg, 2010. [[DOI](https://dx.doi.org/10.1007/978-3-642-13495-1_44)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12271956799303365025&hl=en&as_sdt=0,5)]
 -  **<u>Fish</u>**  
-    -  **<u>Fish schools</u>** - J. A. Carmelo Filho _et al._. "A novel search algorithm based on fish school behavior." Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICSMC.2008.4811695)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11973554734110983734&hl=en&as_sdt=0,5)]  
+    -  **<u>Fish schools</u>** - C.J.A. Bastos-Filho _et al._. "A novel search algorithm based on fish school behavior." Systems, Man and Cybernetics, 2008. SMC 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICSMC.2008.4811695)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11973554734110983734&hl=en&as_sdt=0,5)]  
     -  **<u>Catfish</u>** - Li-Yeh Chuang, Sheng-Wei Tsai, and Cheng-Hong Yang. "Improved binary particle swarm optimization using catfish effect for feature selection." Expert Systems with Applications 38(10):12699-12707, 2011. [[DOI](http://dx.doi.org/10.1016/j.eswa.2011.04.057)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3110520451936914601&hl=en&as_sdt=0,5)]  
     -  **<u>Cuttlefish</u>** - A.S. Eesa, A.M. Abdulazeez, Z. Orman. Cuttlefish algorithm - a novel bio-inspired optimization algorithm. International Journal of Scientific and Engineering Research, 4(9), pp.1978-1986, 2013. [[IJSER](http://www.ijser.org/researchpaper%5CCuttlefish-Algorithm-A-Novel-Bio-Inspired-Optimization-Algorithm.pdf)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16943219226775164682&hl=en&as_sdt=0,5)]  
 -  **<u>Fractals</u>** - H. Salimi. Stochastic fractal search: a powerful metaheuristic algorithm. Knowledge-Based Systems, 75, pp.1-18, 2015. [[DOI](http://dx.doi.org/10.1016/j.knosys.2014.07.025)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16103949307062811306&hl=en&as_sdt=0,5&as_vis=1)]  
