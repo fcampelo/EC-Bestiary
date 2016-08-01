@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated July 29th, 2016**
+**Updated August 1st, 2016**
 ******
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -71,7 +71,6 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### E
 -   **<u>Eagles</u>** - X.S. Yang, S. Deb. "Eagle strategy using Lévy walk and firefly algorithms for stochastic optimization." In Nature Inspired Cooperative Strategies for Optimization (NICSO 2010) (pp. 101-111). Springer Berlin Heidelberg, 2010.  [[DOI](http://dx.doi.org/10.1007/978-3-642-12538-6_9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5055233292269149821&hl=en&as_sdt=0,5&as_vis=1)] 
 -   **<u>Ecology</u>** - R.S. Parpinelli, H.S. Lopes. "An eco-inspired evolutionary algorithm applied to numerical optimization." In Nature and Biologically Inspired Computing (NaBIC), 2011 Third World Congress on (pp. 466-471). IEEE, October 2011. [[DOI]()] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10932893478615992694&hl=en&as_sdt=0,5)] 
--   **<u>Egyptian Vultures</u>** - Chiranjib Sur, Sanjeev Sharma, and Anupam Shukla. "Egyptian vulture optimization algorithm - a new nature inspired meta-heuristics for knapsack problem." The 9th International Conference on Computing and Information Technology (IC2IT). pp. 227-237, Springer Berlin Heidelberg, 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
 -   **<u>Electromagnetism</u>** - E. Cuevas _et al._. "Circle detection using electro-magnetism optimization." Information Sciences, 182(1), pp.40-55, 2012. [[DOI](http://dx.doi.org/10.1016/j.ins.2010.12.024)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10186255768231026278&hl=en&as_sdt=0,5)]
 -   **<u>Elephants</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
 -   **<u>Emotions</u>** - Y. Xu, Z. Cui, J. Zeng. "Social emotional optimization algorithm for nonlinear constrained optimization problems." In International Conference on Swarm, Evolutionary, and Memetic Computing (pp. 583-590). Springer Berlin Heidelberg, December 2010. [[DOI](http://dx.doi.org/10.1007/978-3-642-17563-3_68)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4708572757276962732&hl=en&as_sdt=0,5)] 
@@ -172,6 +171,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### U
 
 ### V
+-   **<u>Vultures</u>** - Chiranjib Sur, Sanjeev Sharma, and Anupam Shukla. "Egyptian vulture optimization algorithm - a new nature inspired meta-heuristics for knapsack problem." The 9th International Conference on Computing and Information Technology (IC2IT). pp. 227-237, Springer Berlin Heidelberg, 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
 
 ### W
 -   **<u>Wasps</u>** - P Pinto, TA Runkler, JM Sousa. "Wasp swarm optimization of logistic systems." Adaptive and Natural Computing Algorithms: Proceedings of the International Conference in Coimbra, Portugal, 2005 [[Google Scholar](https://scholar.google.com/scholar?cluster=14004470869169954031&hl=en&as_sdt=1,5)]
@@ -195,11 +195,13 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 
 ### Maintainers
 ("the Zoo Keepers")
+
 - [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.  
 - [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
 
 ### Contributors
 (at least one contribution to the bestiary)
+
 - André Maravilha - UFMG, Brazil.
 - Ciniro Nametala - UFMG, Brazil.
 - Fernanda Takahashi - UFMG, Brazil.
