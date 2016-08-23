@@ -227,6 +227,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 - Fernando Otero - University of Kent, England UK
 - Fabio Daolio - University of Stirling, Scotland UK
 - Nadarajen Veerapen - University of Stirling, Scotland UK
+- Ruud Koot - Universiteit Utrecht, The Netherlands
 
 *****
 
