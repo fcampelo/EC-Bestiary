@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated August 9th, 2016**
+**Updated August 23th, 2016**
 ******
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
@@ -77,7 +77,9 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Eagles</u>** - X.S. Yang, S. Deb. "Eagle strategy using Lévy walk and firefly algorithms for stochastic optimization." In Nature Inspired Cooperative Strategies for Optimization (NICSO 2010) (pp. 101-111). Springer Berlin Heidelberg, 2010.  [[DOI](http://dx.doi.org/10.1007/978-3-642-12538-6_9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5055233292269149821&hl=en&as_sdt=0,5&as_vis=1)] 
 -   **<u>Ecology</u>** - R.S. Parpinelli, H.S. Lopes. "An eco-inspired evolutionary algorithm applied to numerical optimization." In Nature and Biologically Inspired Computing (NaBIC), 2011 Third World Congress on (pp. 466-471). IEEE, October 2011. [[DOI]()] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10932893478615992694&hl=en&as_sdt=0,5)] 
 -   **<u>Electromagnetism</u>** - E. Cuevas _et al._. "Circle detection using electro-magnetism optimization." Information Sciences, 182(1), pp.40-55, 2012. [[DOI](http://dx.doi.org/10.1016/j.ins.2010.12.024)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10186255768231026278&hl=en&as_sdt=0,5)]
--   **<u>Elephants</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
+-   **<u>Elephants</u>**
+    -   **<u>Regular</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
+    -   **<u>Flying</u>** - Adilson Elias Xavier, Vinicius Layter Xavier. "Flying elephants: a general method for solving non-differentiable problems", J Heuristics (2016) (pp. 649-664), 2016. [[DOI](http://dx.doi.org/10.1007/s10732-014-9268-8)] 
 -   **<u>Emotions</u>** - Y. Xu, Z. Cui, J. Zeng. "Social emotional optimization algorithm for nonlinear constrained optimization problems." In International Conference on Swarm, Evolutionary, and Memetic Computing (pp. 583-590). Springer Berlin Heidelberg, December 2010. [[DOI](http://dx.doi.org/10.1007/978-3-642-17563-3_68)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4708572757276962732&hl=en&as_sdt=0,5)] 
 
 ### F
