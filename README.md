@@ -214,20 +214,22 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 - [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
 
 ### Contributors
-(at least one contribution to the bestiary)
+(at least one contribution to the bestiary, in alphabetical order)
 
 - André Maravilha - UFMG, Brazil.
 - Ciniro Nametala - UFMG, Brazil.
+- Fabio Daolio - University of Stirling, Scotland UK
 - Fernanda Takahashi - UFMG, Brazil.
+- Fernando Otero - University of Kent, England UK
 - Fillipe Goulart - UFMG, Brazil.
 - Kenneth Sörensen - University of Antwerp, Belgium.
-- Rubén Ruiz - Universitat Politècnica de València, Spain.
-- Stefan Voß - Universität Hamburg, Germany.
 - Lars Magnus Hvattum - Molde University College, Norway.
-- Fernando Otero - University of Kent, England UK
-- Fabio Daolio - University of Stirling, Scotland UK
+- Marc Sevaux - Université de Bretagne-Sud, France
 - Nadarajen Veerapen - University of Stirling, Scotland UK
+- Rubén Ruiz - Universitat Politècnica de València, Spain.
 - Ruud Koot - Universiteit Utrecht, The Netherlands
+- Stefan Voß - Universität Hamburg, Germany.
+
 
 *****
 
