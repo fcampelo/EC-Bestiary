@@ -70,7 +70,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### D
 -   **<u>Dolphins</u>**  
     -  **<u>Dolphin partners</u>** - Y Shiqin _et al._. "A Dolphin Partner Optimization." WRI Global Congress on Intelligent Systems, pp 124-128, 2009 [[DOI](http://dx.doi.org/10.1109/GCIS.2009.464)] [[Google Scholar](https://scholar.google.com/scholar?cluster=13965885657731602166&hl=en&as_sdt=1,5)]  
-    -  **<u>Dolphin echolocation</u>** - A. Kaveh, N. Farhoudi. A new optimization method: Dolphin echolocation. Advances in Engineering Software, 59, pp.53-70, 2013. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.03.004)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6141328029332849229&hl=en&as_sdt=0,5&as_vis=1)]
+    -  **<u>Dolphin echolocation</u>** - A. Kaveh, N. Farhoudi. A new optimization method: Dolphin echolocation. Advances in Engineering Software, 59, pp.53-70, 2013. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.03.004)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6141328029332849229&hl=en&as_sdt=0,5&as_vis=1)]  
+-   **<u>Dragonflies</u>** - S. Mirjalili. "Dragonfly algorithm: a new meta-heuristic optimization technique for solving single-objective, discrete, and multi-objective problems." Neural Computing and Applications, 27(4):1053-1073, 2016. [[DOI](http://dx.doi.org/10.1007/s00521-015-1920-1)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=18509282496527028&hl=en&as_sdt=0,5&as_vis=1)] 
 
 
 ### E
@@ -216,17 +217,19 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### Contributors
 (at least one contribution to the bestiary, in alphabetical order)
 
-- André Maravilha - UFMG, Brazil.
-- Ciniro Nametala - UFMG, Brazil.
+- André Maravilha - UFMG, Brazil
+- Ciniro Nametala - UFMG, Brazil
 - Fabio Daolio - University of Stirling, Scotland UK
-- Fernanda Takahashi - UFMG, Brazil.
+- Fernanda Takahashi - UFMG, Brazil
 - Fernando Otero - University of Kent, England UK
-- Fillipe Goulart - UFMG, Brazil.
-- Kenneth Sörensen - University of Antwerp, Belgium.
-- Lars Magnus Hvattum - Molde University College, Norway.
+- Fillipe Goulart - UFMG, Brazil
+- Iztok Fister Jr. - University of Maribor, Slovenia
+- Kenneth Sörensen - University of Antwerp, Belgium
+- Lars Magnus Hvattum - Molde University College, Norway
 - Marc Sevaux - Université de Bretagne-Sud, France
 - Nadarajen Veerapen - University of Stirling, Scotland UK
-- Rubén Ruiz - Universitat Politècnica de València, Spain.
+- Robin Purshouse - University of Sheffield, England UK
+- Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Stefan Voß - Universität Hamburg, Germany.
 
@@ -246,7 +249,8 @@ It is also important to highlight that only the earliest known mention for each 
 
 ### More Info:
 If you liked this list, you should read the paper "[Metaheuristic: The Metaphor Exposed](http://onlinelibrary.wiley.com/doi/10.1111/itor.12001/epdf)", by Kenneth Söresen  
-Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Julian Togelius' [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics).
+Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Julian Togelius' [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics).  
+Some of the algorithms listed here were found in a list compiled by Iztok Fister Jr. _et al._, which is available [here](http://www.iztok-jr-fister.eu/static/publications/21.pdf).
 
 ### License:
 This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
