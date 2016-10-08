@@ -11,7 +11,7 @@ This list is a tongue-in-cheek account of all the weird, even bizarre metaphor-b
 
 In short: this is not a _Hall of Fame_ of algorithms, and having your paper on the list is definitely *not* something you should want. Think of it more as [The island of Doctor Moreau](https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau). 
 
-Regardless, it is important to highlight that this list makes no (explicit) claims about the quality of these papers: it may include relevant papers in the metaheuristics literature side by side with others for which the contribution is, to put it mildly, less well-defined.
+Regardless, it is important to highlight that this list makes no claims about the quality of these papers: it may include relevant papers in the metaheuristics literature side by side with others for which the contribution is, to put it mildly, less well-defined.
 
 *****
 ### Introduction
