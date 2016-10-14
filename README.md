@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated September 5th, 2016**
+**Updated October 14th, 2016**
 ******
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
@@ -52,6 +52,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Black holes</u>** - Abdolreza Hatamlou. "Black hole: A new heuristic optimization approach for data clustering." Information Sciences 222:175-184, 2013. [[DOI](http://dx.doi.org/10.1016/j.ins.2012.08.023)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=816788583679970050&hl=en&as_sdt=0,5)]
 -   **<u>Blind, naked mole rats</u>** - Taherdangkoo, Mohammad, et al. "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." Swarm and Evolutionary Computation 10:1-11, 2013. [[DOI](http://dx.doi.org/10.1016/j.swevo.2013.01.001)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15285435246258205372&hl=en&as_sdt=0,5)]
 -   **<u>Brainstorms</u>** - Y. Shi. "An optimization algorithm based on brainstorming process." Emerging Research on Swarm Intelligence and Algorithm Optimization, pp.1-35, 2015 [[DOI](http://dx.doi.org/10.4018/ijsir.2011100103)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1299202243958304306&hl=en&as_sdt=0,5)] 
+-   **<u>Butterflies</u>** - G. Wang, S. Deb, Z. Cui. "Monarch butterfly optimization.", Neural Computing and Applications 1-20, 2015. [[DOI](http://dx.doi.org/10.1007/s00521-015-1923-y)]
 
 
 ### C
