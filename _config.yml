@@ -1,0 +1,8 @@
+title: EC Bestiary
+description: A bestiary of evolutionary, swarm and other metaphor-based algorithms
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
