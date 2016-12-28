@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated October 14th, 2016**
+**Updated December 27th, 2016**  
 ******
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
@@ -28,6 +28,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 
 ### A
 -   **<u>African buffalo</u>** - J.B. Odili, M.N. Mohmad Kahar. "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization". Computational intelligence and neuroscience, vol. 2016, Article ID 1510256, 12 pages, 2016. [[DOI](http://dx.doi.org/10.1155/2016/1510256)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4423114012477480195&hl=en&as_sdt=0,5)]  
+-   **<u>Amoeba</u>** - Wang, H., Lu, X., Zhang, X., Wang, Q. and Deng, Y.. "A bio-inspired method for the constrained shortest path problem." The Scientific World Journal 2014 (2014). [[DOI](http://dx.doi.org/10.1155/2014/271280)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12920188585044810678&hl=en&as_sdt=0,5)]  
 -   **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)]  
 -   **<u>Animal behavior</u>** - S. He, Q.H. Wu, J.R. Saunders. "Group search optimizer: an optimization algorithm inspired by animal searching behavior." IEEE Transactions on evolutionary computation, 13(5), pp.973-990, 2009. [[DOI](http://dx.doi.org/10.1109/TEVC.2009.2011992)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5773844633404321423&hl=en&as_sdt=0,5)]  
 -  **<u>Ant Lion</u>** - S. Mirjalili. The ant lion optimizer. Advances in Engineering Software, 83, pp.80-98, 2015. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2015.01.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2662372455275894165&hl=en&as_sdt=0,5)]  
@@ -65,7 +66,8 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 -   **<u>Colliding bodies</u>** - A. Kaveh and V. R. Mahdavi. "Colliding bodies optimization: a novel meta-heuristic method." Computers & Structures 139:18-27, 2014. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2014.04.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=8696745119414106345&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Community of scientists</u>** - Alfredo Milani and Valentino Santucci. "Community of scientist optimization: An autonomy oriented approach to distributed optimization." AI Communications 25(2):157-172, 2012. [[DOI](http://dx.doi.org/10.3233/AIC-2012-0526)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17821382584156002503&hl=en&as_sdt=0,5)]
 -   **<u>Consultants</u>** - S. Iordache. "Consultant-guided search: a new metaheuristic for combinatorial optimization problems." In Proceedings of the 12th annual conference on Genetic and evolutionary computation (pp. 225-232). ACM, July 2009. [[DOI](http://dx.doi.org/10.1145/1830483.1830526)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1476499551944178953&hl=en&as_sdt=0,5&as_vis=1)]  
--   **<u>Coral reefs</u>** - S. Salcedo-Sanz, J. Del Ser, I. Landa-Torres, S. Gil-López, and J. A. Portilla-Figueras. "The coral reefs optimization algorithm: a novel metaheuristic for efficiently solving optimization problems." The Scientific World Journal 2014 (2014). [[DOI](http://dx.doi.org/10.1155/2014/739768)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17065904491256039752&hl=en&as_sdt=0,5)] 
+-   **<u>Coral reefs</u>** - S. Salcedo-Sanz, J. Del Ser, I. Landa-Torres, S. Gil-López, and J. A. Portilla-Figueras. "The coral reefs optimization algorithm: a novel metaheuristic for efficiently solving optimization problems." The Scientific World Journal 2014 (2014). [[DOI](http://dx.doi.org/10.1155/2014/739768)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17065904491256039752&hl=en&as_sdt=0,5)]  
+-   **<u>Crystal Energy</u>** - X. Feng, M. Ma, and H. Yu. "Crystal Energy Optimization Algorithm." Computational Intelligence 32(2):284--322 (2016). [[DOI](http://dx.doi.org/10.1111/coin.12053)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=Crystal+Energy+Optimization+Algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]  
 -   **<u>Cuckoos</u>** - Xin-She Yang and Suash Deb. "Cuckoo search via Lévy flights." IEEE World Congress on Nature & Biologically Inspired Computing (NaBIC), 2009. [[DOI](http://dx.doi.org/10.1109/NABIC.2009.5393690)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13191416867993532789&hl=en&as_sdt=0,5)]
 
 ### D
@@ -186,6 +188,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 ### U
 
 ### V
+-   **<u>Virus</u>** - Cortés, P., García, J.M., Muñuzuri, J. and Onieva, L. "Viral systems: A new bio-inspired optimisation approach." Computers & Operations Research. 35(9):2840-2860, 2008. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
 -   **<u>Vultures</u>** - Chiranjib Sur, Sanjeev Sharma, and Anupam Shukla. "Egyptian vulture optimization algorithm - a new nature inspired meta-heuristics for knapsack problem." The 9th International Conference on Computing and Information Technology (IC2IT). pp. 227-237, Springer Berlin Heidelberg, 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
 
 ### W
@@ -233,6 +236,7 @@ If you know a metaphor-based method that is not listed here, or if you know of a
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Stefan Voß - Universität Hamburg, Germany.
+- Thomas Stützle - Université Libre de Bruxelles, Belgium
 
 
 *****
