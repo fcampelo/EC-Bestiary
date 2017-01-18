@@ -5,7 +5,8 @@
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
 *****
-### Introduction
+
+## Introduction
 
 The field of meta-heuristic search algorithms has a long history of finding inspiration in 
 natural systems. Starting from classics such as Genetic Algorithms and Ant Colony Optimization, 
