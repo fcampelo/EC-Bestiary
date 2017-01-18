@@ -246,7 +246,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Robin Purshouse - University of Sheffield, England UK
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
-- Stefan Voß - Universität Hamburg, Germany.
+- Stefan Voß - Universität Hamburg, Germany
+- Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
 
 
