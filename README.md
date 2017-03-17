@@ -41,7 +41,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 -   **<u>Amoeba</u>** - Wang, H., Lu, X., Zhang, X., Wang, Q. and Deng, Y.. "A bio-inspired method for the constrained shortest path problem." The Scientific World Journal 2014 (2014). [[DOI](http://dx.doi.org/10.1155/2014/271280)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12920188585044810678&hl=en&as_sdt=0,5)]  
 -   **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)]  
 -   **<u>Animal behavior</u>** - S. He, Q.H. Wu, J.R. Saunders. "Group search optimizer: an optimization algorithm inspired by animal searching behavior." IEEE Transactions on evolutionary computation, 13(5), pp.973-990, 2009. [[DOI](http://dx.doi.org/10.1109/TEVC.2009.2011992)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=5773844633404321423&hl=en&as_sdt=0,5)]  
--  **<u>Ant Lion</u>** - S. Mirjalili. The ant lion optimizer. Advances in Engineering Software, 83, pp.80-98, 2015. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2015.01.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2662372455275894165&hl=en&as_sdt=0,5)]  
+-  **<u>Ant Colony</u>** - A. Colorni, M. Dorigo, V. Maniezzo, "Distributed Optimization by Ant Colonies", Proceedings of the European Conference on Artificial Life, pp.134-142, 1991.
+-  **<u>Ant Lion</u>** - S. Mirjalili. "The ant lion optimizer". Advances in Engineering Software, 83, pp.80-98, 2015. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2015.01.010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2662372455275894165&hl=en&as_sdt=0,5)]  
 -  **<u>Antibodies</u>** - L.N. de Castro, F.J. von Zuben. "The clonal selection algorithm with engineering applications." Proceedings of the Genetic and Evolutionary Computation Conference (GECCO'2000), pp. 36-39. 2000.[[Google Scholar](https://scholar.google.com.br/scholar?cluster=7215188449257401709&hl=en&as_sdt=0,5)]  
 
 
@@ -108,8 +109,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Flower pollination</u>** - Xin-She Yang. "Flower pollination algorithm for global optimization." In International Conference on Unconventional Computing and Natural Computation, pp. 240-249. Springer Berlin Heidelberg, 2012.[[DOI](http://dx.doi.org/10.1007/978-3-642-32894-7_27)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10935435444304478110&hl=en&as_sdt=0,5)]
 -  **<u>Fractals</u>** - H. Salimi. Stochastic fractal search: a powerful metaheuristic algorithm. Knowledge-Based Systems, 75, pp.1-18, 2015. [[DOI](http://dx.doi.org/10.1016/j.knosys.2014.07.025)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16103949307062811306&hl=en&as_sdt=0,5&as_vis=1)]  
 -   **<u>Frogs</u>**  
-    -  **<u>Frogs leaping </u>** - Thai-Hoang Huynh. "A modified shuffled frog leaping algorithm for optimal tuning of multivariable PID controllers." Industrial Technology, 2008. ICIT 2008. IEEE International Conference on. IEEE, 2008. [[DOI](http://dx.doi.org/10.1109/ICIT.2008.4608439)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10202726787573457298&hl=en&as_sdt=0,5)]  
-    -   **<u>Japanese tree frogs</u>** - H. Hernández, C. Blum. "Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs." Swarm Intelligence 6.2 (2012): 117-150. [[DOI](http://dx.doi.org/10.1007/s11721-012-0067-2)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7081005414023441516&hl=en&as_sdt=0,5)] 
+    -  **<u>Frogs leaping </u>** - Eusuff and K.E. Lansey. "Optimization of water distribution network design using the shuffled frog leaping algorithm". Journal of Water Resources Planning and Management, 129(3):210–225, 2003. [[DOI](http://dx.doi.org/10.1061/(ASCE)0733-9496(2003)129:3(210))]
+    -  **<u>Japanese tree frogs</u>** - H. Hernández, C. Blum. "Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs." Swarm Intelligence 6.2 (2012): 117-150. [[DOI](http://dx.doi.org/10.1007/s11721-012-0067-2)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7081005414023441516&hl=en&as_sdt=0,5)] 
 -   **<u>Fruit Fly</u>** - WT Pan "A new fruit fly optimization algorithm: taking the financial distress model as an example." Knowledge-Based Systems, pp 69-74, 2012 [[DOI](http://dx.doi.org/10.1016/j.knosys.2011.07.001)] [[Google Scholar](https://scholar.google.com/scholar?cluster=6956044678885147539&hl=en&as_sdt=1,5)]
 
 ### G
@@ -144,6 +145,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 -   **<u>Locusts</u>** - Chen, Stephen. "An analysis of locust swarms on large scale global optimization problems." Artificial Life: Borrowing from Biology. Springer Berlin Heidelberg, 2009. 211-220. [[DOI](http://dx.doi.org/10.1007/978-3-642-10427-5_21)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6640665647979104050&hl=en&as_sdt=0,5)]
     
 ### M
+-   **<u>Metals</u>** - S. Kirkpatrick, D. Gelatt Jr., and M. P. Vecchi. "Optimization by simulated annealing". Science, 220(4598):671–680, 1983. [[Google Scholar](https://scholar.google.com/scholar?cluster=14201454125081604055&hl=en&as_sdt=1,5)]
 -   **<u>Mine blasts</u>** - Ali Sadollah _et al._. "Mine blast algorithm for optimization of truss structures with discrete variables." Computers & Structures 102:49-63, 2012 [[DOI](http://dx.doi.org/10.1016/j.compstruc.2012.03.013)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12207350986686373216&hl=en&as_sdt=0,5)].
 -   **<u>Monkeys</u>**
     -  **<u>Monkeys foraging</u>** - Antonio Mucherino and Onur Seref. "Monkey search: a novel metaheuristic search for global optimization." Data Mining, Systems Analysis and Optimization in Biomedicine 953(1). AIP Publishing, 2007. [[DOI](http://dx.doi.org/10.1063/1.2817338)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17038037660008635941&hl=en&as_sdt=0,5)]  
@@ -212,7 +214,9 @@ earlier mention of a listed method, please see the bottom of the page on how to 
     -  **<u>Water waves</u>** - Y.J. Zheng. Water wave optimization: a new nature-inspired metaheuristic. Computers & Operations Research, 55, pp.1-11, 2015. [[DOI](http://dx.doi.org/10.1016/j.cor.2014.10.008)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6243036216785297999&hl=en&as_sdt=0,5&as_vis=1)]  
 -   **<u>Whales</u>** - Seyedali Mirjalili and Andrew Lewisa. "The Whale Optimization Algorithm". Advances in Engineering Software 95:51-67, 2016. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=The+Whale+Optimization+Algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
 -  **<u>Wind</u>** - Zikri Bayraktar, Muge Komurcu, and Douglas H. Werner. "Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics." In 2010 IEEE Antennas and Propagation Society International Symposium, pp. 1-4. IEEE, 2010. [[DOI](http://dx.doi.org/10.1109/APS.2010.5562213)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1445163202022619156&hl=en&as_sdt=0,5)]
--  **<u>Wolves</u>** - Seyedali Mirjalili, Seyed Mohammad Mirjalili, and Andrew Lewis. "Grey wolf optimizer." Advances in Engineering Software 69:46-61, 2014. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.12.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2274273013181958031&hl=en&as_sdt=0,5)]
+-  **<u>Wolves</u>** 
+   -  Rui Tang, S. Fong, Xin-She Yang, and S. Deb. "Wolf search algorithm with ephemeral memory". Seventh International Conference on Digital Information Management, pages 165–172, 2012. [[DOI](https://doi.org/10.1109/ICDIM.2012.6360147)]
+   - Seyedali Mirjalili, Seyed Mohammad Mirjalili, and Andrew Lewis. "Grey wolf optimizer." Advances in Engineering Software 69:46-61, 2014. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.12.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2274273013181958031&hl=en&as_sdt=0,5)]
 
 ### X
 
@@ -260,7 +264,6 @@ e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fca
 
 1. the work must be in a peer reviewed publication (journal or conference);  
 2. the title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based;  
-3. The paper must have been published on or after the year 2000. This is an absolutely arbitrary threshold (like so many others in our community), but personal observation suggests that the new millenium seems to have brought a deluge of Bio-inspired methods.
 
 It is also important to highlight that only the earliest known mention for each metaphor is included.
 
