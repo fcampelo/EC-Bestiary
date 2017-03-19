@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated March 17th, 2017**  
+**Updated March 19th, 2017**  
 ******
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
@@ -129,6 +129,7 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 -   **<u>General Relativity</u>** - Hamzeh Beiranvand and Esmaeel Rokrok. "General Relativity Search Algorithm: A Global Optimization Approach." International Journal of Computational Intelligence and Applications 14(3):1550017, 2015. [[DOI](http://dx.doi.org/10.1142/S1469026815500170)] [[Google Scholar](https://scholar.google.com.br/scholar?q=General+Relativity+Search+Algorithm%3A+A+Global+Optimization+Approach&btnG=&hl=en&as_sdt=0%2C5)]
 -   **<u>Glow Worms</u>** - K. N. Krishnanand and Debasish Ghose. "Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions." Swarm intelligence 3(2):87-124, 2009. [[DOI](http://dx.doi.org/10.1007/s11721-008-0021-5)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10880041005648760160&hl=en&as_sdt=0,5)] 
 -   **<u>Gravitation</u>** - B. Webster and P.J. Bernhard. "A local search optimization algorithm based on natural principles of gravitation.", Proceedings of the international conference on information and knowledge engineering (IKE’03), 2003. 255–261. [[IT Florida](https://repository.lib.fit.edu/bitstream/handle/11141/117/cs-2003-10.pdf?sequence=1&isAllowed=y)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7083663946218421142&hl=en&as_sdt=0,5)]
+-   **<u>Great Deluge</u>** - G. Dueck "New Optimization Heuristics The Great Deluge Algorithm and the Record-to-Record Travel." Journal of Computational Physics 104(1):86-92, 1993. [[DOI](http://dx.doi.org/10.1006/jcph.1999.6413)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11115165940383334703&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Grenades</u>** - Ali Ahrari and Ali A. Atai. "Grenade explosion method - a novel tool for optimization of multimodal functions." Applied Soft Computing 10(4):1132-1140, 2010. [[DOI](http://dx.doi.org/10.1016/j.asoc.2009.11.032)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11907331357982080577&hl=en&as_sdt=0,5)]
 -   **<u>Group counselling</u>** - M.A. Eita and M. M. Fahmy. "Group counseling optimization: a novel approach." Research and Development in Intelligent Systems XXVI. Springer London, 2010. 195-208. [[DOI](http://dx.doi.org/10.1007/978-1-84882-983-1_14)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=13072245307035783024&hl=en&as_sdt=0,5&as_vis=1)]
     
@@ -252,6 +253,7 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 ### Contributors
 (at least one contribution to the bestiary, in alphabetical order)
 
+- Adré Steyn - University of Stellenbosch, South Africa
 - André Maravilha - UFMG, Brazil
 - Ciniro Nametala - UFMG, Brazil
 - Fabio Daolio - University of Stirling, Scotland UK
@@ -276,7 +278,7 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 
 ### How to Contribute
 
-If you know a paper that should belong to this list, please sent an
+If you know a paper that should belong to this list, please send an
 e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: 
 
 1. the work must be in a peer reviewed publication (journal or conference);  
