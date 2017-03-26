@@ -135,7 +135,7 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
     
 ### H
 -   **<u>Hoopoe</u>** - Mohammed El-Dosuky, Ahmed El-Bassiouny, Taher Hamza, and Magdy Rashad. "New hoopoe heuristic optimization." International Journal of Science and Advanced Technology 2(9):85-90, 2012. [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12366463159526871812&hl=en&as_sdt=0,5)] [[IJSAT](http://www.ijsat.com/admin/download/New%20Hoopoe%20Heuristic%20Optimization.pdf)]  
-
+-   **<u>Heart</u>** - Abdolreza Hatamlou. "Heart: a novel optimization algorithm for cluster analysis". Progress in Artificial Intelligence, 2(2), pp. 167-173, 2014. [[DOI](http://dx.doi.org/10.1007/s13748-014-0046-5)]
     
 ### I
 -   **<u>Invasive weeds</u>** - A.R. Mehrabian, C. Lucas. "A novel numerical optimization algorithm inspired from weed colonization." Ecological informatics, 1(4), pp.355-366, 2006. [[DOI](http://dx.doi.org/10.1016/j.ecoinf.2006.07.003)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12981034603941956524&hl=en&as_sdt=0,5)]  
