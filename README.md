@@ -37,7 +37,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ![BioHeuristics GO](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/BioHeuristics%20GO.png)
 
 ### A
-- **<u>African buffalo</u>** - J.B. Odili, M.N. Mohmad Kahar. "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization". Computational intelligence and neuroscience, vol. 2016, Article ID 1510256, 12 pages, 2016. [[DOI](http://dx.doi.org/10.1155/2016/1510256)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4423114012477480195&hl=en&as_sdt=0,5)]  
+- **<u>African buffalo</u>** - J.B. Odili, M.N. Mohmad Kahar. "Solving the Traveling Salesman's Problem Using the African Buffalo Optimization". Computational intelligence and neuroscience, vol. 2016, Article ID 1510256, 12 pages, 2016. [[DOI](http://dx.doi.org/10.1155/2016/1510256)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4423114012477480195&hl=en&as_sdt=0,5)]
+- **<u>Algae</u>** - S.A. Uymaz, G.Tezel, E.Yel, "Artificial Algae Algorithm (AAA) for Nonlinear Global Optimization" Applied Soft Computing 31, pp 153--171 (2015) [[DOI](https://doi.org/10.1016/j.asoc.2015.03.003)]
 - **<u>Amoeba</u>** - Wang, H., Lu, X., Zhang, X., Wang, Q. and Deng, Y.. "A bio-inspired method for the constrained shortest path problem." The Scientific World Journal 2014 (2014). [[DOI](http://dx.doi.org/10.1155/2014/271280)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12920188585044810678&hl=en&as_sdt=0,5)]  
 - **<u>Anarchic societies</u>** - H. Shayeghi, J. Dadashpour. "Anarchic society optimization based pid control of an automatic voltage regulator (avr) system". Electrical and Electronic Engineering, 2(4), pp.199-207, 2012. [[DOI](http://dx.doi.org/10.5923/j.eee.20120204.05)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4052669727313690817&hl=en&as_sdt=0,5)]  
 - **<u>Animal behavior</u>** 
@@ -104,7 +105,8 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 -   **<u>Elephants</u>**
     -   **<u>Regular</u>** - Suash Deb, Simon Fong, and Zhonghuan Tian. "Elephant Search Algorithm for optimization problems". Proc. 10th IEEE International Conference on Digital Information Management (ICDIM), p. 249-255, 2015. [[DOI](http://dx.doi.org/10.1109/ICDIM.2015.7381893)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=+Elephant+Search+Algorithm+for+optimization+problems&btnG=&as_sdt=1%2C5&as_sdtp=)]
     -   **<u>Flying</u>** - Adilson Elias Xavier, Vinicius Layter Xavier. "Flying elephants: a general method for solving non-differentiable problems", J Heuristics (2016) (pp. 649-664), 2016. [[DOI](http://dx.doi.org/10.1007/s10732-014-9268-8)] 
--   **<u>Emotions</u>** - Y. Xu, Z. Cui, J. Zeng. "Social emotional optimization algorithm for nonlinear constrained optimization problems." In International Conference on Swarm, Evolutionary, and Memetic Computing (pp. 583-590). Springer Berlin Heidelberg, December 2010. [[DOI](http://dx.doi.org/10.1007/978-3-642-17563-3_68)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4708572757276962732&hl=en&as_sdt=0,5)] 
+-   **<u>Emotions</u>** - Y. Xu, Z. Cui, J. Zeng. "Social emotional optimization algorithm for nonlinear constrained optimization problems." In International Conference on Swarm, Evolutionary, and Memetic Computing (pp. 583-590). Springer Berlin Heidelberg, December 2010. [[DOI](http://dx.doi.org/10.1007/978-3-642-17563-3_68)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4708572757276962732&hl=en&as_sdt=0,5)]
+- **<u>Experts</u>** - V. V. Melo "Kaizen Programming". Proceedings of the 2014 Annual Conference on Genetic and Evolutionary Computation (GECCO) pp 895-902 (2014) [[DOI](https://doi.org/10.1145/2576768.2598264)]
 
 ### F
 -   **<u>FIFA World Cup</u>** - N. Razmjooy, M. Khalilpour, M. Ramezani. "A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System." Journal of Control, Automation and Electrical Systems (2016):1-22, 2016. [[DOI](http://dx.doi.org/10.1007/s40313-016-0242-6)] [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Meta-Heuristic+Optimization+Algorithm+Inspired+by+FIFA+World+Cup+Competitions%3A+Theory+and+Its+Application+in+PID+Designing+for+AVR+System&btnG=&hl=en&as_sdt=0%2C5)]
@@ -216,7 +218,8 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 ### U
 
 ### V
--   **<u>Virus</u>** - Cortés, P., García, J.M., Muñuzuri, J. and Onieva, L. "Viral systems: A new bio-inspired optimisation approach." Computers & Operations Research. 35(9):2840-2860, 2008. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
+-   **<u>Virus</u>** - Cortés, P., García, J.M., Muñuzuri, J. and Onieva, L. "Viral systems: A new bio-inspired optimisation approach." Computers & Operations Research. 35(9):2840-2860, 2008. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]
+-   **<u>Vortexes</u>** - B. Dogan, T. Olmez, "A new metaheuristic for numerical function optimization: Vortex Search Algorithm". Information Sciences 293 pp. 125-145 (2015) [[DOI](http://dx.doi.org/10.1016/j.ins.2014.08.053)]
 -   **<u>Vultures</u>** - Chiranjib Sur, Sanjeev Sharma, and Anupam Shukla. "Egyptian vulture optimization algorithm - a new nature inspired meta-heuristics for knapsack problem." The 9th International Conference on Computing and Information Technology (IC2IT). pp. 227-237, Springer Berlin Heidelberg, 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-37371-8_26)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=3846172779136461907&hl=en&as_sdt=0,5)]  
 
 ### W
@@ -234,6 +237,9 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 -  **<u>Wolves</u>** 
    -  Rui Tang, S. Fong, Xin-She Yang, and S. Deb. "Wolf search algorithm with ephemeral memory". Seventh International Conference on Digital Information Management, pages 165–172, 2012. [[DOI](https://doi.org/10.1109/ICDIM.2012.6360147)]
    - Seyedali Mirjalili, Seyed Mohammad Mirjalili, and Andrew Lewis. "Grey wolf optimizer." Advances in Engineering Software 69:46-61, 2014. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2013.12.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2274273013181958031&hl=en&as_sdt=0,5)]
+-  **<u>Worms</u>** - J.P. Arnaout. "Worm Optimization: A novel optimization algorithm inspired by C. Elegans".
+Proceedings of the 2014 International Conference on Industrial Engineering and Operations Management, pp 2499--2505
+[[Google Scholar](https://scholar.google.co.jp/scholar?cluster=5256991620754010801&hl=en&as_sdt=0,5&as_vis=1)]
 
 ### X
 
@@ -269,6 +275,8 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 - Robin Purshouse - University of Sheffield, England UK
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
+- Sara Silva - University of Lisbon
+- Silvano Martello - University of Bologna
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
