@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated May 3rd, 2017**  
+**Updated July 15th, 2017**  
 ******
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
@@ -52,12 +52,14 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 
 
 ### B
+- **<u>Bachelors</u>** - Hu, Kahng, Tsao, "Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods", 
+ORSA Journal on Computing, 7(4):417-425, 1995 [[DOI](https://doi.org/10.1287/ijoc.7.4.417)] 
 - **<u>Bacteria</u>**  
     -   **<u>Bacterial Chemotaxis</u>** - SD Müller _et al._. "Optimization based on bacterial chemotaxis." IEEE Transactions on Evolutionary Computation 6(1):16-29, 2002 [[DOI](http://dx.doi.org/10.1109/4235.985689)] [[Google Scholar](https://scholar.google.com/scholar?cluster=4979736106528607640&hl=en&as_sdt=1,5)]  
     -   **<u>Bacterial foraging</u>** - K.M. Passino. "Biomimicry of bacterial foraging for distributed optimization and control". IEEE control systems, 22(3), pp.52-67, 2002. [[DOI](http://dx.doi.org/10.1109/MCS.2002.1004010)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=7676466824436088281&hl=en&as_sdt=0,5&as_vis=1)]  
     -   **<u>Bacterial swarming</u>** - Y. Chu _et al._. "A fast bacterial swarming algorithm for high-dimensional function optimization." In 2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence) (pp. 3135-3140). IEEE, June 2008. [[DOI](http://dx.doi.org/10.1109/CEC.2008.4631222)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6652500290470210451&hl=en&as_sdt=0,5&as_vis=1)]  
     -   **<u>Magnetotactic bacteria</u>** - Hongwei Mo and Lifang Xu. "Magnetotactic bacteria optimization algorithm for multimodal optimization." In Swarm Intelligence (SIS), 2013 IEEE Symposium on, pp. 240-247. IEEE, 2013. [[DOI](http://dx.doi.org/10.1109/SIS.2013.6615185)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=826641103151917520&hl=en&as_sdt=0,5)]  
--   **<u>Bats</u>** - Yang, Xin-She. "A new metaheuristic bat-inspired algorithm". Nature inspired cooperative strategies for optimization (NICSO 2010). Springer Berlin Heidelberg, 2010. 65-74. [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Metaheuristic+Bat-Inspired+Algorithm&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
+- **<u>Bats</u>** - Yang, Xin-She. "A new metaheuristic bat-inspired algorithm". Nature inspired cooperative strategies for optimization (NICSO 2010). Springer Berlin Heidelberg, 2010. 65-74. [[Google Scholar](https://scholar.google.com.br/scholar?q=A+New+Metaheuristic+Bat-Inspired+Algorithm&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]
 - **<u>Bees</u>**  
     -   **<u>Bee Colonies</u>** - Dusan Teodorovic _et al._ "Bee colony optimization: principles and applications." Neural Network Applications in Electrical Engineering, 2006. NEUREL 2006. 8th Seminar on. IEEE, 2006.[[DOI](http://dx.doi.org/10.1109/NEUREL.2006.341200)] [[Google Scholar](https://scholar.google.com.br/scholar?q=Bee+Colony+Optimization%3A+Principles+and+Applications&btnG=&hl=en&as_sdt=0%2C5&as_vis=1)]  
     -   **<u>Bumblebees</u>** - F. Comellas, J. Martinez-Navarro. "Bumblebees: a multiagent combinatorial optimization algorithm inspired by social insect behaviour." In Proceedings of the first ACM/SIGEVO Summit on Genetic and Evolutionary Computation (pp. 811-814). ACM, June 2009. [[DOI](http://dx.doi.org/10.1145/1543834.1543949)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=2848393463955505849&hl=en&as_sdt=0,5&as_vis=1)]  
@@ -205,7 +207,7 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 -   **<u>Social behavior</u>** - Ray, Tapabrata, and Kim Meow Liew. "Society and civilization: An optimization algorithm based on the simulation of social behavior." IEEE Transactions on Evolutionary Computation 7(4):386-396, 2003. [[DOI](http://dx.doi.org/10.1109/TEVC.2003.814902)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1457670436591013175&hl=en&as_sdt=0,5)]
 -   **<u>Social Spiders</u>** - Cuevas, Erik, et al. "A swarm optimization algorithm inspired in the behavior of the social-spider." Expert Systems with Applications 40(16):6374-6384, 2013.[[DOI](http://dx.doi.org/10.1016/j.eswa.2013.05.041)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=6931737888206270770&hl=en&as_sdt=0,5&as_vis=1)]
 -   **<u>Sperm</u>** - Raouf, Hezam, "Sperm motility algorithm: a novel metaheuristic approach for global optimisation." International Journal of Operational Research (IJOR), 28-2, 2017. [[DOI](http://dx.doi.org/10.1504/IJOR.2017.10002079)]
--   **<u>Sports championships</u>** - Ali Husseinzadeh Kashan. "League Championship Algorithm (LCA): An algorithm for global optimization inspired by sport championships." Applied Soft Computing 16:171-200, 2014. [[DOI](http://dx.doi.org/10.1016/j.asoc.2013.12.005)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=12957388200223216052&hl=en&as_sdt=0,5)]
+-   **<u>Sports championships</u>** - Ali Husseinzadeh Kashan. "League Championship Algorithm: A new algorithm for numerical function optimization." International Conference on Soft Computing and Pattern Recognition, 43--48, 2009. [[DOI](http://dx.doi.org/10.1109/SoCPaR.2009.21)]
 -   **<u>Swallows</u>** - Mehdi Neshat, Ghodrat Sepidnam, and Mehdi Sargolzaei. "Swallow swarm optimization algorithm: a new method to optimization." Neural Computing and Applications 23(2):429-454, 2013. [[DOI](http://dx.doi.org/10.1007/s00521-012-0939-9)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9456173942118135781&hl=en&as_sdt=0,5&as_vis=1)]
 -  **<u>Symbiotic organisms</u>** - M.Y. Cheng, D. Prayogo. Symbiotic organisms search: a new metaheuristic optimization algorithm. Computers & Structures, 139, pp.98-112, 2014. [[DOI](http://dx.doi.org/10.1016/j.compstruc.2014.03.007)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10597175247653839941&hl=en&as_sdt=0,5)]  
 
@@ -233,6 +235,7 @@ flowshop scheduling with parallel machines", Int. J. Prod. Res., 52(9), 2014. [[
 -   **<u>Whales</u>** 
     - Seyedali Mirjalili and Andrew Lewisa. "The Whale Optimization Algorithm". Advances in Engineering Software 95:51-67, 2016. [[DOI](http://dx.doi.org/10.1016/j.advengsoft.2016.01.008)] [[Google Scholar](https://scholar.google.com.br/scholar?hl=en&q=The+Whale+Optimization+Algorithm&btnG=&as_sdt=1%2C5&as_sdtp=)]
     - A. Ebrahimi, E. Khamehchi, “Sperm Whale Algorithm: an Effective Metaheuristic Algorithm for Production Optimization Problems.” Journal of Natural Gas Science & Engineering, 2016. [[DOI](http://dx.doi.org/10.1016/j.jngse.2016.01.001)]
+-  **<u>Wheels</u>** - Joslin and Clements, "Squeaky Wheel Optimization",  Journal of Artificial Intelligence Research 10:353-373, 1999, [[DOI](http://dx.doi.org/10.1613/jair.561)]
 -  **<u>Wind</u>** - Zikri Bayraktar, Muge Komurcu, and Douglas H. Werner. "Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics." In 2010 IEEE Antennas and Propagation Society International Symposium, pp. 1-4. IEEE, 2010. [[DOI](http://dx.doi.org/10.1109/APS.2010.5562213)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=1445163202022619156&hl=en&as_sdt=0,5)]
 -  **<u>Wolves</u>** 
    -  Rui Tang, S. Fong, Xin-She Yang, and S. Deb. "Wolf search algorithm with ephemeral memory". Seventh International Conference on Digital Information Management, pages 165–172, 2012. [[DOI](https://doi.org/10.1109/ICDIM.2012.6360147)]
@@ -270,6 +273,8 @@ Proceedings of the 2014 International Conference on Industrial Engineering and O
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
 - Marc Sevaux - Université de Bretagne-Sud, France
+- Marco Mollinetti - University of Tsukuba, Japan
+- Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Robin Purshouse - University of Sheffield, England UK
@@ -280,7 +285,6 @@ Proceedings of the 2014 International Conference on Industrial Engineering and O
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
-
 
 *****
 
