@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary
-**Updated August 8th, 2017**  
+**Updated August 9th, 2017**  
 ******
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
@@ -268,7 +268,7 @@ Proceedings of the 2014 International Conference on Industrial Engineering and O
 - [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
 
 ### Contributors
-(at least one contribution to the bestiary, in alphabetical order)
+(at least one contribution to the bestiary - in terms of adding a method to the list, not inventing it!)
 
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
@@ -280,6 +280,7 @@ Proceedings of the 2014 International Conference on Industrial Engineering and O
 - Fernanda Takahashi - UFMG, Brazil
 - Fernando Otero - University of Kent, England UK
 - Fillipe Goulart - UFMG, Brazil
+- Iago A. de Carvalho - UFMG, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
