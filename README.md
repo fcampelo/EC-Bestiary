@@ -1,10 +1,10 @@
 # Evolutionary Computation Bestiary
 **Updated August 9th, 2017**  
-******
+***
 
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
-*****
+***
 
 ## Introduction
 
@@ -311,10 +311,10 @@ e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fca
 It is also important to highlight that only the earliest known mention for each metaphor is included.
 
 ### More Info:
-If you liked this list, you should read the paper "[Metaheuristic: The Metaphor Exposed](http://onlinelibrary.wiley.com/doi/10.1111/itor.12001/epdf)", by Kenneth Söresen  
-Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Julian Togelius' [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics).  
-Some of the algorithms listed here were found in a list compiled by Iztok Fister Jr. _et al._, which is available [here](http://www.iztok-jr-fister.eu/static/publications/21.pdf). Iztok also recently published [this paper](http://www.iztok-jr-fister.eu/static/publications/Stu2016.pdf) reflecting on the ploriferation of metaphors in EC research. 
-A fantastic parody of this whole metaphor craze can be read [here](http://www.oneweirdkerneltrick.com/spectral.pdf). Highly recommended!
+- If you liked this list, you should read the paper "[Metaheuristic: The Metaphor Exposed](http://onlinelibrary.wiley.com/doi/10.1111/itor.12001/epdf)", by Kenneth Söresen  
+- Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Julian Togelius' [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics).  
+- Some of the algorithms listed here were found in a list compiled by Iztok Fister Jr. _et al._, which is available [here](http://www.iztok-jr-fister.eu/static/publications/21.pdf). Iztok also recently published [this paper](http://www.iztok-jr-fister.eu/static/publications/Stu2016.pdf) reflecting on the proliferation of metaphors in EC research.  
+- A fantastic parody of this whole metaphor craze can be read [here](http://www.oneweirdkerneltrick.com/spectral.pdf). Highly recommended!
 
 ### License:
 This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
