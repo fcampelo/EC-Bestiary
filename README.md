@@ -33,7 +33,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ******
 
 ## The Bestiary
-![BioHeuristics GO](./img/BioHeuristics%20GO.png)
+![BioHeuristics GO](../img/BioHeuristics%20GO.png)
 
 ### A
 - **<u>African Buffalo</u>**: Odili JB and Kahar MNM (2016). “Solving the Traveling Salesman's Problem Using the African Buffalo Optimization.” _Computational Intelligence and Neuroscience_, *2016*, pp. 1-12. doi: [10.1155/2016/1510256 ](https://doi.org/10.1155/2016/1510256 )
@@ -49,6 +49,24 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Antibodies</u>**: De Castro LN and Von Zuben FJ (2000). “The clonal selection algorithm with engineering applications.” In _Proceedings of GECCO_, volume 2000, pp. 36-39.
 
 ### B
+- **<u>Bachelors</u>**: Hu TC, Kahng AB and Tsao CA (1995). “Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods.” _ORSA Journal on Computing_, *7*(4), pp. 417-425. doi: [10.1287/ijoc.7.4.417 ](https://doi.org/10.1287/ijoc.7.4.417 )
+- **<u>Bacteria: Bacterial Chemotaxis</u>**: Muller S, Marchetto J, Airaghi S and Kournoutsakos P (2002). “Optimization based on bacterial chemotaxis.” _IEEE Transactions on Evolutionary Computation_, *6*(1), pp. 16-29. doi: [10.1109/4235.985689 ](https://doi.org/10.1109/4235.985689 )
+- **<u>Bacteria: Bacterial Foraging</u>**: Passino K (2002). “Biomimicry of bacterial foraging for distributed optimization and control.” _IEEE Control Systems Magazine_, *22*(3), pp. 52-67. doi: [10.1109/mcs.2002.1004010 ](https://doi.org/10.1109/mcs.2002.1004010 )
+- **<u>Bacteria: Bacterial Swarming</u>**: Chu Y, Mi H, Liao H, Ji Z and Wu QH (2008). “A Fast Bacterial Swarming Algorithm for high-dimensional function optimization.” In _2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)_. doi: [10.1109/cec.2008.4631222 ](https://doi.org/10.1109/cec.2008.4631222 )
+- **<u>Bacteria: Magnetotactic Bacteria</u>**: Mo H and Xu L (2013). “Magnetotactic bacteria optimization algorithm for multimodal optimization.” In _2013 IEEE Symposium on Swarm Intelligence (SIS)_. doi: [10.1109/sis.2013.6615185 ](https://doi.org/10.1109/sis.2013.6615185 )
+- **<u>Bats</u>**: Yang X (2010). “A new metaheuristic bat-inspired algorithm.” In _Nature inspired cooperative strategies for optimization (NICSO 2010)_, pp. 65-74. Springer.
+- **<u>Bees: Bee Colonies</u>**: Teodorovic D, Lucic P, Markovic G and Orco MD (2006). “Bee Colony Optimization: Principles and Applications.” In _2006 8th Seminar on Neural Network Applications in Electrical Engineering_. doi: [10.1109/neurel.2006.341200 ](https://doi.org/10.1109/neurel.2006.341200 )
+- **<u>Bees: Bumblebees</u>**: Comellas F and Martinez-Navarro J (2009). “Bumblebees.” In _Proceedings of the first ACM/SIGEVO Summit on Genetic and Evolutionary Computation - GEC \textquotesingle09_. doi: [10.1145/1543834.1543949 ](https://doi.org/10.1145/1543834.1543949 )
+- **<u>Bees: Honey Bee Marriages</u>**: Abbass H (2001). “MBO: marriage in honey bees optimization-a Haplometrosis polygynous swarming approach.” In _Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No.01TH8546)_. doi: [10.1109/cec.2001.934391 ](https://doi.org/10.1109/cec.2001.934391 )
+- **<u>Bees: Queen Bees</u>**: Jung SH (2003). “Queen-bee evolution for genetic algorithms.” _Electronics Letters_, *39*(6), pp. 575. doi: [10.1049/el:20030383 ](https://doi.org/10.1049/el:20030383 )
+- **<u>Big Bang</u>**: Erol OK and Eksin I (2006). “A new optimization method: Big Bang\textendashBig Crunch.” _Advances in Engineering Software_, *37*(2), pp. 106-111. doi: [10.1016/j.advengsoft.2005.04.005 ](https://doi.org/10.1016/j.advengsoft.2005.04.005 )
+- **<u>Biogeography</u>**: Simon D (2008). “Biogeography-Based Optimization.” _IEEE Transactions on Evolutionary Computation_, *12*(6), pp. 702-713. doi: [10.1109/tevc.2008.919004 ](https://doi.org/10.1109/tevc.2008.919004 )
+- **<u>Birds: Bird Migrations</u>**: Duman E, Uysal M and Alkaya AF (2012). “Migrating Birds Optimization: A new metaheuristic approach and its performance on quadratic assignment problem.” _Information Sciences_, *217*, pp. 65-77. doi: [10.1016/j.ins.2012.06.032 ](https://doi.org/10.1016/j.ins.2012.06.032 )
+- **<u>Birds: Birds Mating</u>**: Askarzadeh A (2014). “Bird mating optimizer: An optimization algorithm inspired by bird mating strategies.” _Communications in Nonlinear Science and Numerical Simulation_, *19*(4), pp. 1213-1228. doi: [10.1016/j.cnsns.2013.08.027 ](https://doi.org/10.1016/j.cnsns.2013.08.027 )
+- **<u>Black Holes</u>**: Hatamlou A (2013). “Black hole: A new heuristic optimization approach for data clustering.” _Information Sciences_, *222*, pp. 175-184. doi: [10.1016/j.ins.2012.08.023 ](https://doi.org/10.1016/j.ins.2012.08.023 )
+- **<u>Blind Naked Mole Rats</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M and Bagheri MH (2013). “A robust clustering method based on blind, naked mole-rats (BNMR) algorithm.” _Swarm and Evolutionary Computation_, *10*, pp. 1-11. doi: [10.1016/j.swevo.2013.01.001 ](https://doi.org/10.1016/j.swevo.2013.01.001 )
+- **<u>Brainstorming</u>**: Shi Y (2011). “An Optimization Algorithm Based on Brainstorming Process.” _International Journal of Swarm Intelligence Research_, *2*(4), pp. 35-62. doi: [10.4018/ijsir.2011100103 ](https://doi.org/10.4018/ijsir.2011100103 )
+- **<u>Butterflies: Monarch Butterflies</u>**: Wang G, Deb S and Cui Z (2015). “Monarch butterfly optimization.” _Neural Computing and Applications_. doi: [10.1007/s00521-015-1923-y ](https://doi.org/10.1007/s00521-015-1923-y )
 
 ### C
 

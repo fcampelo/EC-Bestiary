@@ -24,4 +24,4 @@ If a new paper meets the criteria above (please double check to avoid duplicated
 
 Replace the standard bibtex key by the metaphor name, using periods (".") in place of spaces, then add the entry to the end of the appropriate .bib file in the _Cages_ folder.
 
-Once the new entry is added, just `source` the file `1_README_generator.R` to generate the new README.md file, and send a PR to the EC-Bestiary repository on github.
+Once the new entry is added, just `source` the file `1_README_generator.R` to generate the new README.md file, and send a PR to the EC-Bestiary repository on github. Please check if no warnings or errors occurred - sometimes (rarely) **doi2bib** or **Google Scholar** forget to export the _year_ folder, causing the script to ignore those entries. If that happens, please fix the offending entry manually and re-run `1_README_generator.R`.
