@@ -1,7 +1,3 @@
-# Evolutionary Computation Bestiary
-**Updated August 9th, 2017**  
-***
-
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
 ***
