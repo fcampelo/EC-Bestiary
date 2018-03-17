@@ -30,4 +30,4 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ******
 
 ## The Bestiary
-![BioHeuristics GO](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/BioHeuristics%20GO.png)
+![BioHeuristics GO](../img/BioHeuristics%20GO.png)

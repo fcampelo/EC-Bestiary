@@ -33,7 +33,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ******
 
 ## The Bestiary
-![BioHeuristics GO](https://raw.githubusercontent.com/fcampelo/EC-Bestiary/master/BioHeuristics%20GO.png)
+![BioHeuristics GO](./img/BioHeuristics%20GO.png)
 
 ### A
 - **<u>African Buffalo</u>**: Odili JB and Kahar MNM (2016). “Solving the Traveling Salesman's Problem Using the African Buffalo Optimization.” _Computational Intelligence and Neuroscience_, *2016*, pp. 1-12. doi: [10.1155/2016/1510256 ](https://doi.org/10.1155/2016/1510256 )
@@ -157,6 +157,3 @@ It is also important to highlight that only the earliest known mention for each 
 
 ### License:
 This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-<a href="http://www.freecounterstat.com" target="_Blank" title="free counter">free counter</a><br/>
-<script type="text/javascript" src="http://counter10.01counter.com/private/counter.js?c=40ec7742babe64a5eca8a8f1189e57e3"></script>
