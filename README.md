@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-17 
+Updated 2018-03-18 
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -33,7 +33,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ******
 
 ## The Bestiary
-![BioHeuristics GO](../img/BioHeuristics%20GO.png)
+![BioHeuristics GO](img/BioHeuristics%20GO.png)
 
 ### A
 - **<u>African Buffalo</u>**: Odili JB and Kahar MNM (2016). “Solving the Traveling Salesman's Problem Using the African Buffalo Optimization.” _Computational Intelligence and Neuroscience_, *2016*, pp. 1-12. doi: [10.1155/2016/1510256 ](https://doi.org/10.1155/2016/1510256 )
