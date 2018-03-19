@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-18 
+Updated 2018-03-19 
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -111,10 +111,15 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### W
 
 ### X
+- **<u></u>**: NA
+- **<u></u>**: NA
 
 ### Y
+- **<u></u>**: NA
+- **<u></u>**: NA
 
 ### Z
+- **<u>Zombies</u>**: Nguyen HT and Bhanu B (2012). “Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging.” In _Pattern Recognition (ICPR), 2012 21st International Conference on_, pp. 987-990. IEEE.
 
 ***
 

@@ -173,10 +173,3 @@
 -  **<u>Worms</u>** - J.P. Arnaout. "Worm Optimization: A novel optimization algorithm inspired by C. Elegans".
 Proceedings of the 2014 International Conference on Industrial Engineering and Operations Management, pp 2499--2505
 [[Google Scholar](https://scholar.google.co.jp/scholar?cluster=5256991620754010801&hl=en&as_sdt=0,5&as_vis=1)]
-
-### X
-
-### Y
-
-### Z
--   **<u>Zombies</u>** - Hoang Thanh Nguyen and Bir Bhanu. "Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging." Pattern Recognition (ICPR), 2012 21st International Conference on. IEEE, 2012. [[IEEExplore](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6460301&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6460301)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=4781693317520961200&hl=en&as_sdt=0,5)]
