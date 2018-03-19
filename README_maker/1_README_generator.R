@@ -20,7 +20,7 @@ for (i in seq(a)){
 for (i in seq(LETTERS)){
   # Write to md file: Letter title
   writeLines(paste("\n###", LETTERS[i]), con = md.file)
-  my.file <- paste0("../cages/", LETTERS[i], ".bib")
+  my.file <- paste0("../Cages/", LETTERS[i], ".bib")
   if(file.exists(my.file)){
     # read .bib file
     beasts <- read.bib(my.file)
