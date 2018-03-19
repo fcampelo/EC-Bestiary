@@ -25,28 +25,30 @@ for (i in seq(LETTERS)){
     # read .bib file
     beasts <- read.bib(my.file)
     
-    # sort by metaphor name within letter
-    beasts <- beasts[order(names(beasts))]
-    
-    for (j in 1:length(beasts)){
-      # Extract metaphor name
-      x.label <- gsub(pattern = "[.]", replacement = " ", 
-                      x = names(beasts[[j]]))
+    if(length(beasts) != 0){
+      # sort by metaphor name within letter
+      beasts <- beasts[order(names(beasts))]
       
-      # Process entry information
-      x.text  <- paste(capture.output(print(beasts[[j]])), collapse = " ")
-      x.text  <- strsplit(x.text, split = "[(]URL")[[1]][1]
-      if(grepl(pattern = "doi: ", x = x.text)){
-        x.doi  <- strsplit(x.text, split = "doi: ")[[1]][2]
-        x.link <- paste0("https://doi.org/", x.doi)
-        x.text <- gsub(pattern = x.doi, 
-                       replacement = paste0("[", x.doi, "](", x.link, ")"), 
-                       x = x.text)
+      for (j in 1:length(beasts)){
+        # Extract metaphor name
+        x.label <- gsub(pattern = "[.]", replacement = " ", 
+                        x = names(beasts[[j]]))
+        
+        # Process entry information
+        x.text  <- paste(capture.output(print(beasts[[j]])), collapse = " ")
+        x.text  <- strsplit(x.text, split = "[(]URL")[[1]][1]
+        if(grepl(pattern = "doi: ", x = x.text)){
+          x.doi  <- strsplit(x.text, split = "doi: ")[[1]][2]
+          x.link <- paste0("https://doi.org/", x.doi)
+          x.text <- gsub(pattern = x.doi, 
+                         replacement = paste0("[", x.doi, "](", x.link, ")"), 
+                         x = x.text)
+        }
+        
+        # Write to md file: entry
+        writeLines(paste0("- **<u>", x.label, "</u>**: ", x.text), 
+                   con = md.file)
       }
-      
-      # Write to md file: entry
-      writeLines(paste0("- **<u>", x.label, "</u>**: ", x.text), 
-                 con = md.file)
     }
   }
 }

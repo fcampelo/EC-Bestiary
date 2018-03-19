@@ -111,12 +111,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### W
 
 ### X
-- **<u></u>**: NA
-- **<u></u>**: NA
 
 ### Y
-- **<u></u>**: NA
-- **<u></u>**: NA
 
 ### Z
 - **<u>Zombies</u>**: Nguyen HT and Bhanu B (2012). “Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging.” In _Pattern Recognition (ICPR), 2012 21st International Conference on_, pp. 987-990. IEEE.
