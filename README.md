@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-19 
+Updated 2018-03-23 
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -102,12 +102,40 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Experts</u>**: Melo VVD (2014). “Kaizen programming.” In _Proceedings of the 2014 conference on Genetic and evolutionary computation - GECCO \textquotesingle14_. doi: [10.1145/2576768.2598264 ](https://doi.org/10.1145/2576768.2598264 )
 
 ### F
+- **<u>FIFA World Cup</u>**: Razmjooy N, Khalilpour M and Ramezani M (2016). “A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System.” _Journal of Control, Automation and Electrical Systems_, *27*(4), pp. 419-440. doi: [10.1007/s40313-016-0242-6 ](https://doi.org/10.1007/s40313-016-0242-6 )
+- **<u>Fireflies</u>**: Yang X (2009). “Firefly Algorithms for Multimodal Optimization.” In _Stochastic Algorithms: Foundations and Applications_, pp. 169-178. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-04944-6_14 ](https://doi.org/10.1007/978-3-642-04944-6_14 )
+- **<u>Fireworks</u>**: Tan Y and Zhu Y (2010). “Fireworks Algorithm for Optimization.” In _Lecture Notes in Computer Science_, pp. 355-364. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-13495-1_44 ](https://doi.org/10.1007/978-3-642-13495-1_44 )
+- **<u>Fish: Catfish</u>**: Chuang L, Tsai S and Yang C (2011). “Improved binary particle swarm optimization using catfish effect for feature selection.” _Expert Systems with Applications_, *38*(10), pp. 12699-12707. doi: [10.1016/j.eswa.2011.04.057 ](https://doi.org/10.1016/j.eswa.2011.04.057 )
+- **<u>Fish: Cuttlefish</u>**: Eesa A, Abdulazeez A and Orman Z (2013). “Cuttlefish Algorithm - A Novel Bio-Inspired Optimization Algorithm.” _International Journal of Scientific and Engineering Research_, *4*(9), pp. 1978-1986.
+- **<u>Fish: Fish Schools</u>**: Filho CJAB, de Lima Neto FB, Lins AJCC, Nascimento AIS and Lima MP (2008). “A novel search algorithm based on fish school behavior.” In _2008 IEEE International Conference on Systems, Man and Cybernetics_. doi: [10.1109/icsmc.2008.4811695 ](https://doi.org/10.1109/icsmc.2008.4811695 )
+- **<u>Fish: Fish Swarms</u>**: Li X and Qian J (2003). “Studies on Artificial Fish Swarm Optimization Algorithm Based on Decomposition and Coordination Techniques.” _J Circuits Systems_, *1*, pp. 1-6.
+- **<u>Flower Pollination</u>**: Yang X (2012). “Flower Pollination Algorithm for Global Optimization.” In _Unconventional Computation and Natural Computation_, pp. 240-249. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-32894-7_27 ](https://doi.org/10.1007/978-3-642-32894-7_27 )
+- **<u>Fractals</u>**: Salimi H (2015). “Stochastic Fractal Search: A powerful metaheuristic algorithm.” _Knowledge-Based Systems_, *75*, pp. 1-18. doi: [10.1016/j.knosys.2014.07.025 ](https://doi.org/10.1016/j.knosys.2014.07.025 )
+- **<u>Frogs: Japanese Tree Frogs</u>**: Hernández H and Blum C (2012). “Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs.” _Swarm Intelligence_, *6*(2), pp. 117-150. doi: [10.1007/s11721-012-0067-2 ](https://doi.org/10.1007/s11721-012-0067-2 )
+- **<u>Frogs: Leaping</u>**: Eusuff MM and Lansey KE (2003). “Optimization of Water Distribution Network Design Using the Shuffled Frog Leaping Algorithm.” _Journal of Water Resources Planning and Management_, *129*(3), pp. 210-225. doi: 10.1061/(asce)0733-9496(2003)129:3(210) 
+- **<u>Fruit Fly</u>**: Pan W (2012). “A new Fruit Fly Optimization Algorithm: Taking the financial distress model as an example.” _Knowledge-Based Systems_, *26*, pp. 69-74. doi: [10.1016/j.knosys.2011.07.001 ](https://doi.org/10.1016/j.knosys.2011.07.001 )
 
 ### G
+- **<u>Galaxies</u>**: Hosseini HS (2011). “Principal components analysis by the galaxy-based search algorithm: a novel metaheuristic for continuous optimisation.” _International Journal of Computational Science and Engineering_, *6*(1/2), pp. 132. doi: [10.1504/ijcse.2011.041221 ](https://doi.org/10.1504/ijcse.2011.041221 )
+- **<u>Gas Molecules</u>**: Abdechiri M, Meybodi MR and Bahrami H (2013). “Gases Brownian Motion Optimization: an Algorithm for Optimization (GBMO).” _Applied Soft Computing_, *13*(5), pp. 2932-2946. doi: [10.1016/j.asoc.2012.03.068 ](https://doi.org/10.1016/j.asoc.2012.03.068 )
+- **<u>Gene Expression</u>**: Ferreira C (2002). “Gene Expression Programming in Problem Solving.” In _Soft Computing and Industry_, pp. 635-653. Springer London. doi: [10.1007/978-1-4471-0123-9_54 ](https://doi.org/10.1007/978-1-4471-0123-9_54 )
+- **<u>General Relativity</u>**: Beiranvand H and Rokrok E (2015). “General Relativity Search Algorithm: A Global Optimization Approach.” _International Journal of Computational Intelligence and Applications_, *14*(03), pp. 1550017. doi: [10.1142/s1469026815500170 ](https://doi.org/10.1142/s1469026815500170 )
+- **<u>Genes</u>**: Holland J (1975). _Adaptation in Natural and Artificial Systems, An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence_. MIT Press.
+- **<u>Glow Worms</u>**: Krishnanand KN and Ghose D (2008). “Glowworm swarm optimization for simultaneous capture of~multiple local optima of~multimodal functions.” _Swarm Intelligence_, *3*(2), pp. 87-124. doi: [10.1007/s11721-008-0021-5 ](https://doi.org/10.1007/s11721-008-0021-5 )
+- **<u>Grasshoppers</u>**: Saremi S, Mirjalili S and Lewis A (2017). “Grasshopper Optimisation Algorithm: Theory and application.” _Advances in Engineering Software_, *105*, pp. 30-47. doi: [10.1016/j.advengsoft.2017.01.004 ](https://doi.org/10.1016/j.advengsoft.2017.01.004 )
+- **<u>Gravitation</u>**: Webster B and Bernhard P (2003). “A Local Search Optimization Algorithm Based on Natural Principles of Gravitation.” In _Proceedings of the International Conference on Information and Knowledge Engineering_, pp. 255-261.
+- **<u>Great Deluge</u>**: Dueck G (1993). “New Optimization Heuristics: The Great Deluge and Record to Record Travel.” _Journal of Computational Physics_, *104*(1), pp. 86-92. doi: [10.1006/jcph.1993.1010 ](https://doi.org/10.1006/jcph.1993.1010 )
+- **<u>Grenades</u>**: Ahrari A and Atai AA (2010). “Grenade Explosion Method\textemdashA novel tool for optimization of multimodal functions.” _Applied Soft Computing_, *10*(4), pp. 1132-1140. doi: [10.1016/j.asoc.2009.11.032 ](https://doi.org/10.1016/j.asoc.2009.11.032 )
+- **<u>Group Consuelling</u>**: Eita MA and Fahmy MM (2009). “Group Counseling Optimization: A Novel Approach.” In _Research and Development in Intelligent Systems XXVI_, pp. 195-208. Springer London. doi: [10.1007/978-1-84882-983-1_14 ](https://doi.org/10.1007/978-1-84882-983-1_14 )
 
 ### H
+- **<u>Heart</u>**: Hatamlou A (2014). “Heart: a novel optimization algorithm for cluster analysis.” _Progress in Artificial Intelligence_, *2*(2-3), pp. 167-173. doi: [10.1007/s13748-014-0046-5 ](https://doi.org/10.1007/s13748-014-0046-5 )
+- **<u>Hoopoe</u>**: El-Dosuky M, El-Bassiouny A, Hamza T and Rashad M (2012). “New Hoopoe Heuristic Optimization.” _International Journal of Science and Advanced Technology_, *2*(9), pp. 85-90.
 
 ### I
+- **<u>Interior Design</u>**: Gandomi AH (2014). “Interior search algorithm (ISA): A novel approach for global optimization.” _ISA Transactions_, *53*(4), pp. 1168-1183. doi: [10.1016/j.isatra.2014.03.018 ](https://doi.org/10.1016/j.isatra.2014.03.018 )
+- **<u>Invasive Weeds</u>**: Mehrabian A and Lucas C (2006). “A novel numerical optimization algorithm inspired from weed colonization.” _Ecological Informatics_, *1*(4), pp. 355-366. doi: [10.1016/j.ecoinf.2006.07.003 ](https://doi.org/10.1016/j.ecoinf.2006.07.003 )
+- **<u>Ions</u>**: Javidy B, Hatamlou A and Mirjalili S (2015). “Ions motion algorithm for solving optimization problems.” _Applied Soft Computing_, *32*, pp. 72-79. doi: [10.1016/j.asoc.2015.03.035 ](https://doi.org/10.1016/j.asoc.2015.03.035 )
 
 ### J
 
