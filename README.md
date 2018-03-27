@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-23 
+Updated 2018-03-27 
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -45,8 +45,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Animal Behavior: Predation</u>**: Tilahun SL and Ong HC (2015). “Prey-Predator Algorithm: A New Metaheuristic Algorithm for Optimization Problems.” _International Journal of Information Technology \& Decision Making_, *14*(06), pp. 1331-1352. doi: [10.1142/s021962201450031x ](https://doi.org/10.1142/s021962201450031x )
 - **<u>Animal Behavior: Searching</u>**: He S, Wu Q and Saunders J (2009). “Group Search Optimizer: An Optimization Algorithm Inspired by Animal Searching Behavior.” _IEEE Transactions on Evolutionary Computation_, *13*(5), pp. 973-990. doi: [10.1109/tevc.2009.2011992 ](https://doi.org/10.1109/tevc.2009.2011992 )
 - **<u>Ant Colony</u>**: Maniezzo A (1992). “Distributed optimization by ant colonies.” In _Toward a Practice of Autonomous Systems: Proceedings of the First European Conference on Artificial Life_, pp. 134. Mit Press.
-- **<u>Antibodies</u>**: De Castro LN and Von Zuben FJ (2000). “The clonal selection algorithm with engineering applications.” In _Proceedings of GECCO_, volume 2000, pp. 36-39.
 - **<u>Ant Lion</u>**: Mirjalili S (2015). “The Ant Lion Optimizer.” _Advances in Engineering Software_, *83*, pp. 80-98. doi: [10.1016/j.advengsoft.2015.01.010 ](https://doi.org/10.1016/j.advengsoft.2015.01.010 )
+- **<u>Antibodies</u>**: De Castro LN and Von Zuben FJ (2000). “The clonal selection algorithm with engineering applications.” In _Proceedings of GECCO_, volume 2000, pp. 36-39.
 
 ### B
 - **<u>Bachelors</u>**: Hu TC, Kahng AB and Tsao CA (1995). “Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods.” _ORSA Journal on Computing_, *7*(4), pp. 417-425. doi: [10.1287/ijoc.7.4.417 ](https://doi.org/10.1287/ijoc.7.4.417 )
@@ -70,12 +70,13 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### C
 - **<u>Camels</u>**: M. K. Ibrahim RSA (2016). “Novel Optimization Algorithm Inspired by Camel Traveling Behavior.” _Iraq J. Electrical and Electronic Engineering_, *12*(2). doi: [10.1007/s00707-009-0270-4 ](https://doi.org/10.1007/s00707-009-0270-4 )
+- **<u>Cancers</u>**: Tang D, Dong S, Jiang Y, Li H and Huang Y (2015). “ITGO: Invasive tumor growth optimization algorithm.” _Applied Soft Computing_, *36*, pp. 670-698. doi: [10.1016/j.asoc.2015.07.045 ](https://doi.org/10.1016/j.asoc.2015.07.045 )
 - **<u>Cats</u>**: Chu S, Tsai P and Pan J (2006). “Cat Swarm Optimization.” In _Lecture Notes in Computer Science_, pp. 854-858. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-36668-3_94 ](https://doi.org/10.1007/978-3-540-36668-3_94 )
 - **<u>Central Force</u>**: Formato RA (2007). “CENTRAL FORCE OPTIMIZATION: A NEW METAHEURISTIC WITH APPLICATIONS IN APPLIED ELECTROMAGNETICS.” _Progress In Electromagnetics Research_, *77*, pp. 425-491. doi: [10.2528/pier07082403 ](https://doi.org/10.2528/pier07082403 )
 - **<u>Charged Systems</u>**: Kaveh A and Talatahari S (2010). “A novel heuristic optimization method: charged system search.” _Acta Mechanica_, *213*(3-4), pp. 267-289. doi: [10.1007/s00707-009-0270-4 ](https://doi.org/10.1007/s00707-009-0270-4 )
 - **<u>Chemical Reactions</u>**: Alatas B (2011). “ACROA: Artificial Chemical Reaction Optimization Algorithm for global optimization.” _Expert Systems with Applications_, *38*(10), pp. 13170-13180. doi: [10.1016/j.eswa.2011.04.126 ](https://doi.org/10.1016/j.eswa.2011.04.126 )
-- **<u>Chickens</u>**: Meng X, Liu Y, Gao X and Zhang H (2014). “A New Bio-inspired Algorithm: Chicken Swarm Optimization.” In _Lecture Notes in Computer Science_, pp. 86-94. Springer International Publishing. doi: [10.1007/978-3-319-11857-4_10 ](https://doi.org/10.1007/978-3-319-11857-4_10 )
 - **<u>Chicken SeeSee Partridge</u>**: Omidvar R, Parvin H and Rad F (2015). “SSPCO Optimization Algorithm (See-See Partridge Chicks Optimization).” In _2015 Fourteenth Mexican International Conference on Artificial Intelligence (MICAI)_. doi: [10.1109/micai.2015.22 ](https://doi.org/10.1109/micai.2015.22 )
+- **<u>Chickens</u>**: Meng X, Liu Y, Gao X and Zhang H (2014). “A New Bio-inspired Algorithm: Chicken Swarm Optimization.” In _Lecture Notes in Computer Science_, pp. 86-94. Springer International Publishing. doi: [10.1007/978-3-319-11857-4_10 ](https://doi.org/10.1007/978-3-319-11857-4_10 )
 - **<u>Clouds</u>**: YAN G and HAO Z (2013). “A NOVEL OPTIMIZATION ALGORITHM BASED ON ATMOSPHERE CLOUDS MODEL.” _International Journal of Computational Intelligence and Applications_, *12*(01), pp. 1350002. doi: [10.1142/s1469026813500028 ](https://doi.org/10.1142/s1469026813500028 )
 - **<u>Cockroaches</u>**: Obagbuwa IC and Adewumi AO (2014). “An Improved Cockroach Swarm Optimization.” _The Scientific World Journal_, *2014*, pp. 1-13. doi: [10.1155/2014/375358 ](https://doi.org/10.1155/2014/375358 )
 - **<u>Colliding Bodies</u>**: Kaveh A and Mahdavi V (2014). “Colliding bodies optimization: A novel meta-heuristic method.” _Computers \& Structures_, *139*, pp. 18-27. doi: [10.1016/j.compstruc.2014.04.005 ](https://doi.org/10.1016/j.compstruc.2014.04.005 )
@@ -158,12 +159,34 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### S
 
 ### T
+- **<u>Teachers</u>**: Rao R, Savsani V and Vakharia D (2011). “Teaching\textendashlearning-based optimization: A novel method for constrained mechanical design optimization problems.” _Computer-Aided Design_, *43*(3), pp. 303-315. doi: [10.1016/j.cad.2010.12.015 ](https://doi.org/10.1016/j.cad.2010.12.015 )
+- **<u>Termites</u>**: Hedayatzadeh R, Salmassi FA, Keshtgari M, Akbari R and Ziarati K (2010). “Termite colony optimization: A novel approach for optimizing continuous problems.” In _2010 18th Iranian Conference on Electrical Engineering_. doi: [10.1109/iraniancee.2010.5507009 ](https://doi.org/10.1109/iraniancee.2010.5507009 )
+- **<u>Troops of Soldiers</u>**: Chen T (2009). “A Simulative Bionic Intelligent Optimization Algorithm: Artificial Searching Swarm Algorithm and Its Performance Analysis.” In _2009 International Joint Conference on Computational Sciences and Optimization_. doi: [10.1109/cso.2009.183 ](https://doi.org/10.1109/cso.2009.183 )
+- **<u>Tug of War</u>**: Kaveh A and Zolghadr A (2016). “A novel meta-heuristic algorithm: tug of war optimization.” _Iran University of Science \& Technology_, *6*(4), pp. 469-492.
 
 ### U
 
 ### V
+- **<u>Vibrating Particles</u>**: Kaveh A and Ghazaan MI (2016). “Vibrating particles system algorithm for truss optimization with multiple natural frequency constraints.” _Acta Mechanica_, *228*(1), pp. 307-322. doi: [10.1007/s00707-016-1725-z ](https://doi.org/10.1007/s00707-016-1725-z )
+- **<u>Virus</u>**: Cortés P, Garc\'\ia JM, Muñuzuri J and Onieva L (2008). “Viral systems: A new bio-inspired optimisation approach.” _Computers \& Operations Research_, *35*(9), pp. 2840-2860. doi: [10.1016/j.cor.2006.12.018 ](https://doi.org/10.1016/j.cor.2006.12.018 )
+- **<u>Vortices</u>**: Doğan B and Ölmez T (2015). “A new metaheuristic for numerical function optimization: Vortex Search algorithm.” _Information Sciences_, *293*, pp. 125-145. doi: [10.1016/j.ins.2014.08.053 ](https://doi.org/10.1016/j.ins.2014.08.053 )
+- **<u>Vultures</u>**: Sur C, Sharma S and Shukla A (2013). “Egyptian Vulture Optimization Algorithm \textendash A New Nature Inspired Meta-heuristics for Knapsack Problem.” In _The 9th International Conference on Computing and InformationTechnology (IC2IT2013)_, pp. 227-237. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-37371-8_26 ](https://doi.org/10.1007/978-3-642-37371-8_26 )
 
 ### W
+- **<u>Wasps</u>**: Pinto P, Runkler TA and Sousa JM (2005). “Wasp swarm optimization of logistic systems.” In _Adaptive and Natural Computing Algorithms_, pp. 264-267. Springer.
+- **<u>Water: Intelligent Water Drops</u>**: Hosseini HS (2009). “The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm.” _International Journal of Bio-Inspired Computation_, *1*(1/2), pp. 71. doi: [10.1504/ijbic.2009.022775 ](https://doi.org/10.1504/ijbic.2009.022775 )
+- **<u>Water: Rain Drops</u>**: Jiang Q, Wang L, Hei X, Fei R, Yang D, Zou F, Li H, Cao Z and Lin Y (2014). “Optimal approximation of stable linear systems with a novel and efficient optimization algorithm.” In _2014 IEEE Congress on Evolutionary Computation (CEC)_. doi: [10.1109/cec.2014.6900366 ](https://doi.org/10.1109/cec.2014.6900366 )
+- **<u>Water: Water Cycle</u>**: Eskandar H, Sadollah A, Bahreininejad A and Hamdi M (2012). “Water cycle algorithm \textendash A novel metaheuristic optimization method for solving constrained engineering optimization problems.” _Computers \& Structures_, *110-111*, pp. 151-166. doi: [10.1016/j.compstruc.2012.07.010 ](https://doi.org/10.1016/j.compstruc.2012.07.010 )
+- **<u>Water: Water Evaporation</u>**: Kaveh A and Bakhshpoori T (2016). “Water Evaporation Optimization: A novel physically inspired optimization algorithm.” _Computers \& Structures_, *167*, pp. 69-85. doi: [10.1016/j.compstruc.2016.01.008 ](https://doi.org/10.1016/j.compstruc.2016.01.008 )
+- **<u>Water: Water Flow</u>**: Tran TH and Ng KM (2010). “A water-flow algorithm for flexible flow shop scheduling with~intermediate buffers.” _Journal of Scheduling_, *14*(5), pp. 483-500. doi: [10.1007/s10951-010-0205-x ](https://doi.org/10.1007/s10951-010-0205-x )
+- **<u>Water: Water Wave</u>**: Zheng Y (2015). “Water wave optimization: A new nature-inspired metaheuristic.” _Computers \& Operations Research_, *55*, pp. 1-11. doi: [10.1016/j.cor.2014.10.008 ](https://doi.org/10.1016/j.cor.2014.10.008 )
+- **<u>Whales: Sperm Whales</u>**: Ebrahimi A and Khamehchi E (2016). “Sperm whale algorithm: An effective metaheuristic algorithm for production optimization problems.” _Journal of Natural Gas Science and Engineering_, *29*, pp. 211-222. doi: [10.1016/j.jngse.2016.01.001 ](https://doi.org/10.1016/j.jngse.2016.01.001 )
+- **<u>Whales: Whales</u>**: Mirjalili S and Lewis A (2016). “The Whale Optimization Algorithm.” _Advances in Engineering Software_, *95*, pp. 51-67. doi: [10.1016/j.advengsoft.2016.01.008 ](https://doi.org/10.1016/j.advengsoft.2016.01.008 )
+- **<u>Wheels</u>**: Joslin DE and Clements DP (1999). “Squeaky wheel optimization.” _Journal of Artificial Intelligence Research_, *10*, pp. 353-373.
+- **<u>Wind</u>**: Bayraktar Z, Komurcu M and Werner DH (2010). “Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics.” In _2010 IEEE Antennas and Propagation Society International Symposium_. doi: [10.1109/aps.2010.5562213 ](https://doi.org/10.1109/aps.2010.5562213 )
+- **<u>Wolves: Grey Wolves</u>**: Mirjalili S, Mirjalili SM and Lewis A (2014). “Grey Wolf Optimizer.” _Advances in Engineering Software_, *69*, pp. 46-61. doi: [10.1016/j.advengsoft.2013.12.007 ](https://doi.org/10.1016/j.advengsoft.2013.12.007 )
+- **<u>Wolves: Wolves</u>**: Tang R, Fong S, Yang X and Deb S (2012). “Wolf search algorithm with ephemeral memory.” In _Seventh International Conference on Digital Information Management (ICDIM 2012)_. doi: [10.1109/icdim.2012.6360147 ](https://doi.org/10.1109/icdim.2012.6360147 )
+- **<u>Worms</u>**: Arnaout J (2014). “Worm optimization: a novel optimization algorithm inspired by C. Elegans.” In _Proceedings of the 2014 International Conference on Industrial Engineering and Operations Management_, pp. 2499-2505.
 
 ### X
 
