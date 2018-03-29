@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-27 
+Updated 2018-03-29 
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -155,8 +155,26 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### Q
 
 ### R
+- **<u>Rays of Light</u>**: Kaveh A and Khayatazad M (2012). “A new meta-heuristic method: Ray Optimization.” _Computers \& Structures_, *112-113*, pp. 283-294. doi: [10.1016/j.compstruc.2012.09.003 ](https://doi.org/10.1016/j.compstruc.2012.09.003 )
+- **<u>Reincarnation</u>**: Sharma A (2010). “A new optimizing algorithm using reincarnation concept.” In _2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)_. doi: [10.1109/cinti.2010.5672231 ](https://doi.org/10.1109/cinti.2010.5672231 )
+- **<u>River Formation</u>**: Rabanal P, Rodr\'\iguez I and Rubio F (2007). “Using River Formation Dynamics to Design Heuristic Algorithms.” In _Lecture Notes in Computer Science_, pp. 163-177. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-73554-0_16 ](https://doi.org/10.1007/978-3-540-73554-0_16 )
+- **<u>Roach Infestations</u>**: Havens TC, Spain CJ, Salmon NG and Keller JM (2008). “Roach Infestation Optimization.” In _2008 IEEE Swarm Intelligence Symposium_. doi: [10.1109/sis.2008.4668317 ](https://doi.org/10.1109/sis.2008.4668317 )
+- **<u>Roots</u>**: Merrikh-Bayat F (2015). “The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature.” _Applied Soft Computing_, *33*, pp. 292-303. doi: [10.1016/j.asoc.2015.04.048 ](https://doi.org/10.1016/j.asoc.2015.04.048 )
 
 ### S
+- **<u>Salmon Migrations</u>**: Mozaffari A, Fathi A and Behzadipour S (2012). “The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation.” _International Journal of Bio-Inspired Computation_, *4*(5), pp. 286-301.
+- **<u>Scientific Method</u>**: Felipe D, Goldbarg EFG and Goldbarg MC (2014). “Scientific algorithms for the Car Renter Salesman Problem.” In _2014 IEEE Congress on Evolutionary Computation (CEC)_. doi: [10.1109/cec.2014.6900556 ](https://doi.org/10.1109/cec.2014.6900556 )
+- **<u>Sharks</u>**: Abedinia O, Amjady N and Ghasemi A (2014). “A new metaheuristic algorithm based on shark smell optimization.” _Complexity_, *21*(5), pp. 97-116. doi: [10.1002/cplx.21634 ](https://doi.org/10.1002/cplx.21634 )
+- **<u>Sheep Flocks</u>**: Kim H and Ahn B (2001). “A new evolutionary algorithm based on sheep flocks heredity model.” In _2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)_. doi: [10.1109/pacrim.2001.953683 ](https://doi.org/10.1109/pacrim.2001.953683 )
+- **<u>Small World</u>**: Du H, Wu X and Zhuang J (2006). “Small-World Optimization Algorithm for Function Optimization.” In _Lecture Notes in Computer Science_, pp. 264-273. Springer Berlin Heidelberg. doi: [10.1007/11881223_33 ](https://doi.org/10.1007/11881223_33 )
+- **<u>Soccer Games</u>**: Purnomo HD and Wee H (2013). “Soccer Game Optimization.” In _Meta-Heuristics Optimization Algorithms in Engineering, Business, Economics, and Finance_, pp. 386-420. IGI Global. doi: [10.4018/978-1-4666-2086-5.ch013 ](https://doi.org/10.4018/978-1-4666-2086-5.ch013 )
+- **<u>Social Behavior</u>**: Ray T and Liew K (2003). “Society and civilization: an optimization algorithm based on the simulation of social behavior.” _IEEE Transactions on Evolutionary Computation_, *7*(4), pp. 386-396. doi: [10.1109/tevc.2003.814902 ](https://doi.org/10.1109/tevc.2003.814902 )
+- **<u>Social Spiders</u>**: Cuevas E, Cienfuegos M, Zald\'\ivar D and Pérez-Cisneros M (2013). “A swarm optimization algorithm inspired in the behavior of the social-spider.” _Expert Systems with Applications_, *40*(16), pp. 6374-6384. doi: [10.1016/j.eswa.2013.05.041 ](https://doi.org/10.1016/j.eswa.2013.05.041 )
+- **<u>Sperm</u>**: Raouf OA and Hezam IM (2017). “Sperm motility algorithm: a novel metaheuristic approach for global optimisation.” _International Journal of Operational Research_, *28*(2), pp. 143. doi: [10.1504/ijor.2017.10002079 ](https://doi.org/10.1504/ijor.2017.10002079 )
+- **<u>Spirals</u>**: Tamura K and and Keiichiro Yasuda (2011). “Spiral Dynamics Inspired Optimization.” _Journal of Advanced Computational Intelligence and Intelligent Informatics_, *15*(8), pp. 1116-1122. doi: [10.20965/jaciii.2011.p1116 ](https://doi.org/10.20965/jaciii.2011.p1116 )
+- **<u>Sports Championships</u>**: Kashan AH (2009). “League Championship Algorithm: A New Algorithm for Numerical Function Optimization.” In _2009 International Conference of Soft Computing and Pattern Recognition_. doi: [10.1109/socpar.2009.21 ](https://doi.org/10.1109/socpar.2009.21 )
+- **<u>Swallows</u>**: Neshat M, Sepidnam G and Sargolzaei M (2012). “Swallow swarm optimization algorithm: a new method to optimization.” _Neural Computing and Applications_, *23*(2), pp. 429-454. doi: [10.1007/s00521-012-0939-9 ](https://doi.org/10.1007/s00521-012-0939-9 )
+- **<u>Symbiotic Organisms</u>**: Cheng M and Prayogo D (2014). “Symbiotic Organisms Search: A new metaheuristic optimization algorithm.” _Computers \& Structures_, *139*, pp. 98-112. doi: [10.1016/j.compstruc.2014.03.007 ](https://doi.org/10.1016/j.compstruc.2014.03.007 )
 
 ### T
 - **<u>Teachers</u>**: Rao R, Savsani V and Vakharia D (2011). “Teaching\textendashlearning-based optimization: A novel method for constrained mechanical design optimization problems.” _Computer-Aided Design_, *43*(3), pp. 303-315. doi: [10.1016/j.cad.2010.12.015 ](https://doi.org/10.1016/j.cad.2010.12.015 )
