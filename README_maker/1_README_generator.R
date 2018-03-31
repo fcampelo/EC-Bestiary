@@ -5,7 +5,7 @@ md.file  <- file("../README.md", open = "wt", encoding = "UTF-8")
 
 # Write to md file: title and date
 writeLines("# Evolutionary Computation Bestiary  ", con = md.file)
-writeLines(paste("Updated", as.character(Sys.Date()), "\n***  "), con = md.file)
+writeLines(paste("Updated", as.character(Sys.Date()), "  \n***  "), con = md.file)
 
 # Write to md file: openings
 md.open  <- file("README_openings.md", open = "r", encoding = "UTF-8")
