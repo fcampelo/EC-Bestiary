@@ -139,12 +139,28 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Ions</u>**: Javidy B, Hatamlou A and Mirjalili S (2015). “Ions motion algorithm for solving optimization problems.” _Applied Soft Computing_, *32*, pp. 72-79. doi: [10.1016/j.asoc.2015.03.035 ](https://doi.org/10.1016/j.asoc.2015.03.035 )
 
 ### J
+- **<u>Jaguars</u>**: Chen C, Tsai Y, Liu I, Lai C, Yeh Y, Kuo S and Chou Y (2015). “A Novel Metaheuristic: Jaguar Algorithm with Learning Behavior.” In _2015 IEEE International Conference on Systems, Man, and Cybernetics_. doi: [10.1109/smc.2015.282 ](https://doi.org/10.1109/smc.2015.282 )
 
 ### K
+- **<u>Keshtel Duck</u>**: Hajiaghaei-Keshteli M and Aminnayeri M (2014). “Solving the integrated scheduling of production and rail transportation problem by Keshtel algorithm.” _Applied Soft Computing_, *25*, pp. 184-203. doi: [10.1016/j.asoc.2014.09.034 ](https://doi.org/10.1016/j.asoc.2014.09.034 )
+- **<u>Krill</u>**: Gandomi AH and Alavi AH (2012). “Krill herd: A new bio-inspired optimization algorithm.” _Communications in Nonlinear Science and Numerical Simulation_, *17*(12), pp. 4831-4845. doi: [10.1016/j.cnsns.2012.05.010 ](https://doi.org/10.1016/j.cnsns.2012.05.010 )
 
 ### L
+- **<u>Ladybirds</u>**: Wang P, Zhu Z and Huang S (2013). “Seven-Spot Ladybird Optimization: A Novel and Efficient Metaheuristic Algorithm for Numerical Optimization.” _The Scientific World Journal_, *2013*, pp. 1-11. doi: [10.1155/2013/378515 ](https://doi.org/10.1155/2013/378515 )
+- **<u>Lightning</u>**: Shareef H, Ibrahim AA and Mutlag AH (2015). “Lightning search algorithm.” _Applied Soft Computing_, *36*, pp. 315-333. doi: [10.1016/j.asoc.2015.07.028 ](https://doi.org/10.1016/j.asoc.2015.07.028 )
+- **<u>Lions</u>**: Yazdani M and Jolai F (2016). “Lion Optimization Algorithm (LOA): A nature-inspired metaheuristic algorithm.” _Journal of Computational Design and Engineering_, *3*(1), pp. 24-36. doi: [10.1016/j.jcde.2015.06.003 ](https://doi.org/10.1016/j.jcde.2015.06.003 )
+- **<u>Locusts</u>**: Chen S (2009). “An Analysis of Locust Swarms on Large Scale Global Optimization Problems.” In _Artificial Life: Borrowing from Biology_, pp. 211-220. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-10427-5_21 ](https://doi.org/10.1007/978-3-642-10427-5_21 )
 
 ### M
+- **<u>Markets</u>**: Ghorbani N and Babaei E (2014). “Exchange market algorithm.” _Applied Soft Computing_, *19*, pp. 177-187. doi: [10.1016/j.asoc.2014.02.006 ](https://doi.org/10.1016/j.asoc.2014.02.006 )
+- **<u>Metals Cooling Down</u>**: Kirkpatrick S, Gelatt CD and Vecchi MP (1983). “Optimization by simulated annealing.” _Science_, *220*(4598), pp. 671-680.
+- **<u>Mine Explosions</u>**: Sadollah A, Bahreininejad A, Eskandar H and Hamdi M (2012). “Mine blast algorithm for optimization of truss structures with discrete variables.” _Computers \& Structures_, *102-103*, pp. 49-63. doi: [10.1016/j.compstruc.2012.03.013 ](https://doi.org/10.1016/j.compstruc.2012.03.013 )
+- **<u>Monkeys: Monkey Foraging</u>**: Mucherino A, Seref O, Seref O, Kundakcioglu OE and Pardalos P (2007). “Monkey search: a novel metaheuristic search for global optimization.” In _AIP Conference Proceedings_. doi: [10.1063/1.2817338 ](https://doi.org/10.1063/1.2817338 )
+- **<u>Monkeys: Spider Monkeys</u>**: Bansal JC, Sharma H, Jadon SS and Clerc M (2014). “Spider Monkey Optimization algorithm for numerical optimization.” _Memetic Computing_, *6*(1), pp. 31-47. doi: [10.1007/s12293-013-0128-0 ](https://doi.org/10.1007/s12293-013-0128-0 )
+- **<u>Moths</u>**: Mirjalili S (2015). “Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm.” _Knowledge-Based Systems_, *89*, pp. 228-249. doi: [10.1016/j.knosys.2015.07.006 ](https://doi.org/10.1016/j.knosys.2015.07.006 )
+- **<u>Mountain Climbers</u>**: Zhang LM, Dahlmann C and Zhang Y (2009). “Human-Inspired Algorithms for continuous function optimization.” In _2009 IEEE International Conference on Intelligent Computing and Intelligent Systems_. doi: [10.1109/icicisys.2009.5357838 ](https://doi.org/10.1109/icicisys.2009.5357838 )
+- **<u>Multiverse</u>**: Mirjalili S, Mirjalili SM and Hatamlou A (2015). “Multi-Verse Optimizer: a nature-inspired algorithm for global optimization.” _Neural Computing and Applications_, *27*(2), pp. 495-513. doi: [10.1007/s00521-015-1870-7 ](https://doi.org/10.1007/s00521-015-1870-7 )
+- **<u>Musicians</u>**: Geem ZW, Kim JH and Loganathan G (2001). “A New Heuristic Optimization Algorithm: Harmony Search.” _SIMULATION_, *76*(2), pp. 60-68. doi: [10.1177/003754970107600201 ](https://doi.org/10.1177/003754970107600201 )
 
 ### N
 - **<u>Newton's Cooling Law</u>**: Kaveh A and Dadras A (2017). “A novel meta-heuristic optimization algorithm: Thermal exchange optimization.” _Advances in Engineering Software_, *110*, pp. 69-84. doi: [10.1016/j.advengsoft.2017.03.014 ](https://doi.org/10.1016/j.advengsoft.2017.03.014 )
