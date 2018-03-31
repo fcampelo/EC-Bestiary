@@ -17,8 +17,10 @@
 - Fernanda Takahashi - UFMG, Brazil
 - Fernando Otero - University of Kent, England UK
 - Fillipe Goulart - UFMG, Brazil
+- Federico Pagnozzi - Université Libre de Bruxelles, Belgium
 - Iago A. de Carvalho - UFMG, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
+- Jakub Grabski - Poznan University of Technology, Poland
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
 - Marc Sevaux - Université de Bretagne-Sud, France
