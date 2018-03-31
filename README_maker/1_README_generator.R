@@ -55,7 +55,17 @@ for (i in seq(LETTERS)){
 
 
 
-# Write to md file: closings
+# Write to md file: Maintainers and Contributors
+md.close <- file("README_Maintainers_and_Contributors.md", open = "r", encoding = "UTF-8")
+a <- readLines(con = md.close)
+close(md.close)
+writeLines("\n***\n", con = md.file)
+for (i in seq(a)){
+  writeLines(a[i], con = md.file)
+}
+
+
+# Write to md file: closings (How to Contribute, More Info, and License)
 md.close <- file("README_closings.md", open = "r", encoding = "UTF-8")
 a <- readLines(con = md.close)
 close(md.close)
@@ -63,5 +73,8 @@ writeLines("\n***\n", con = md.file)
 for (i in seq(a)){
   writeLines(a[i], con = md.file)
 }
+
+
+
 
 close(md.file)

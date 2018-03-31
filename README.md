@@ -278,7 +278,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
 
-*****
+***
 
 ### How to Contribute
 
