@@ -32,6 +32,7 @@
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Sara Silva - University of Lisbon
+- Sergio A. Rojas - Universidad Distrital de Bogotá, Colombia
 - Silvano Martello - University of Bologna
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
