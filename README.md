@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-29 
+Updated 2018-03-31 
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -147,10 +147,20 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### M
 
 ### N
+- **<u>Newton's Cooling Law</u>**: Kaveh A and Dadras A (2017). “A novel meta-heuristic optimization algorithm: Thermal exchange optimization.” _Advances in Engineering Software_, *110*, pp. 69-84. doi: [10.1016/j.advengsoft.2017.03.014 ](https://doi.org/10.1016/j.advengsoft.2017.03.014 )
 
 ### O
+- **<u>Optics</u>**: Kashan AH (2015). “A new metaheuristic for optimization: Optics inspired optimization (OIO).” _Computers \& Operations Research_, *55*, pp. 99-125. doi: [10.1016/j.cor.2014.10.011 ](https://doi.org/10.1016/j.cor.2014.10.011 )
 
 ### P
+- **<u>Paddy Fields</u>**: Premaratne U, Samarabandu J and Sidhu T (2009). “A new biologically inspired optimization algorithm.” In _2009 International Conference on Industrial and Information Systems (ICIIS)_. doi: [10.1109/iciinfs.2009.5429852 ](https://doi.org/10.1109/iciinfs.2009.5429852 )
+- **<u>Parliamentarist Elections</u>**: Borji A (2007). “A New Global Optimization Algorithm Inspired by Parliamentary Political Competitions.” In _MICAI 2007: Advances in Artificial Intelligence_, pp. 61-71. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-76631-5_7 ](https://doi.org/10.1007/978-3-540-76631-5_7 )
+- **<u>Penguins</u>**: Gheraibia Y and Moussaoui A (2013). “Penguins Search Optimization Algorithm (PeSOA).” In _Recent Trends in Applied Artificial Intelligence_, pp. 222-231. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-38577-3_23 ](https://doi.org/10.1007/978-3-642-38577-3_23 )
+- **<u>Plants: Plant Growth</u>**: Li J, Cui Z and Shi Z (2012). “An Improved Artificial Plant Optimization Algorithm for Coverage Problem in WSN.” _Sensor Letters_, *10*(8), pp. 1874-1878. doi: [10.1166/sl.2012.2627 ](https://doi.org/10.1166/sl.2012.2627 )
+- **<u>Plants: Plant Intelligence</u>**: Akyol S and Alatas B (2016). “Plant intelligence based metaheuristic optimization algorithms.” _Artificial Intelligence Review_, *47*(4), pp. 417-462. doi: [10.1007/s10462-016-9486-6 ](https://doi.org/10.1007/s10462-016-9486-6 )
+- **<u>Plants: Plant Propagation</u>**: Sulaiman M, Salhi A, Selamoglu BI and Kirikchi OB (2014). “A Plant Propagation Algorithm for Constrained Engineering Optimisation Problems.” _Mathematical Problems in Engineering_, *2014*, pp. 1-10. doi: [10.1155/2014/627416 ](https://doi.org/10.1155/2014/627416 )
+- **<u>Political Imperialism</u>**: Atashpaz-Gargari E and Lucas C (2007). “Imperialist competitive algorithm: An algorithm for optimization inspired by imperialistic competition.” In _2007 IEEE Congress on Evolutionary Computation_. doi: [10.1109/cec.2007.4425083 ](https://doi.org/10.1109/cec.2007.4425083 )
+- **<u>Political Strategies</u>**: Melvix JL (2014). “Greedy Politics Optimization: Metaheuristic inspired by political strategies adopted during state assembly elections.” In _2014 IEEE International Advance Computing Conference (IACC)_. doi: [10.1109/iadcc.2014.6779490 ](https://doi.org/10.1109/iadcc.2014.6779490 )
 
 ### Q
 

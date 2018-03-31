@@ -24,20 +24,7 @@
 -   **<u>Multiverse</u>** - S. Mirjalili, S. M. Mirjalili, A. Hatamlou, “Multi-Verse Optimizer: a nature-inspired algorithm for global optimization.” Neural Computing & Applications, 1-19, 2015. [[DOI](http://dx.doi.org/10.1007/s00521-015-1870-7)]
 -   **<u>Musicians</u>** - Zong Woo Geem, Joong Hoon Kim, and G. V. Loganathan. "A new heuristic optimization algorithm: harmony search." Simulation 76(2):60-68, 2001. [[DOI](http://dx.doi.org/10.1177/003754970107600201)][[Google Scholar](https://scholar.google.com.br/scholar?cluster=13170078065982440769&hl=en&as_sdt=0,5)]
 
-### N
--  **<u>Newton's Law</u>** - A. Kaveh, A. Dadras. "A novel meta-heuristic optimization algorithm: Thermal exchange optimization". Advances in Engineering Software, Volume 110, 69-84, 2017. [[DOI](https://doi.org/10.1016/j.advengsoft.2017.03.014)]
 
-### O
--  **<u>Optics</u>** - A.H. Kashan. A new metaheuristic for optimization: optics inspired optimization (OIO). Computers & Operations Research, 55, pp.99-125, 2015. [[DOI](http://dx.doi.org/10.1016/j.cor.2014.10.011)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=17861710547332005668&hl=en&as_sdt=0,5&as_vis=1)]  
 
-### P
--   **<u>Paddy fields</u>** - U. Premaratne, J. Samarabandu, T. Sidhu. "A new biologically inspired optimization algorithm." In 2009 international conference on industrial and information systems (ICIIS) (pp. 279-284). IEEE, December 2009 [[DOI](http://dx.doi.org/10.1109/ICIINFS.2009.5429852)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=15016013224707268426&hl=en&as_sdt=0,5)] 
--   **<u>Parliamentary head elections</u>** - A. Borji, A new global optimization algorithm inspired by parliamentary political competitions. In Mexican International Conference on Artificial Intelligence (pp. 61-71). Springer Berlin Heidelberg, November 2007. [[DOI](http://dx.doi.org/10.1007/978-3-540-76631-5_7)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9272563426454044457&hl=en&as_sdt=0,5&as_vis=1)] 
--   **<u>Penguins</u>** - Y. Gheraibia, A. Moussaoui. Penguins search optimization algorithm (PeSOA). In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (pp. 222-231). Springer Berlin Heidelberg, June 2013. [[DOI](http://dx.doi.org/10.1007/978-3-642-38577-3_23)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=16399416721277149206&hl=en&as_sdt=0,5&as_vis=1)]
--   **<u>Plants</u>**  
-    -   **<u>Growing</u>**- Jun Li, Zhihua Cui and Zhongzhi Shi. "An improved artificial plant optimization algorithm for coverage problem in WSN." Sensor Letters 10(8):1874-1878, 2012. [[DOI](http://dx.doi.org/10.1166/sl.2012.2627)] [[Google Scholar](https://scholar.google.com.br/scholar?q=An+Improved+Artificial+Plant+Optimization+Algorithm+for+Coverage+Problem+in+WSN&btnG=&hl=en&as_sdt=0%2C5)]
-    -   **<u>Propagation</u>** - Muhammad Sulaiman _et al._. "A plant propagation algorithm for constrained engineering optimisation problems." Mathematical Problems in Engineering 2014:627416, 2014. [[DOI](http://dx.doi.org/10.1155/2014/627416)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=10392390611569355219&hl=en&as_sdt=0,5)]
-    - **<u>Intelligence</u>** - S. Akyol, B. Alatas, "Plant intelligence based metaheuristic optimization algorithms", B. Artif Intell Rev 47: 417, 2017. [[DOI](http://dx.doi.org/10.1007/s10462-016-9486-6)]
--   **<u>Political Imperialism</u>** - Esmaeil Atashpaz-Gargari and Caro Lucas. "Imperialist competitive algorithm: an algorithm for optimization inspired by imperialistic competition." Evolutionary Computation, 2007. CEC 2007. IEEE Congress on. IEEE, 2007. [[DOI](http://dx.doi.org/10.1109/CEC.2007.4425083)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=11215160353791123295&hl=en&as_sdt=0,5)]
--   **<u>Politicians</u>** - J.M.L. Melvix. "Greedy Politics Optimization: Metaheuristic inspired by political strategies adopted during state assembly elections". In Advance Computing Conference (IACC), 2014 IEEE International (pp. 1157-1162). IEEE, February 2014. [[DOI](http://dx.doi.org/10.1109/IAdCC.2014.6779490)] [[Google Scholar](https://scholar.google.com.br/scholar?cluster=9430946676018839994&hl=en&as_sdt=0,5)]
+
 
