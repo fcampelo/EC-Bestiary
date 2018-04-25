@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-03-31 
+Updated 2018-04-25   
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -214,7 +214,6 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Spirals</u>**: Tamura K and and Keiichiro Yasuda (2011). “Spiral Dynamics Inspired Optimization.” _Journal of Advanced Computational Intelligence and Intelligent Informatics_, *15*(8), pp. 1116-1122. doi: [10.20965/jaciii.2011.p1116 ](https://doi.org/10.20965/jaciii.2011.p1116 )
 - **<u>Sports Championships</u>**: Kashan AH (2009). “League Championship Algorithm: A New Algorithm for Numerical Function Optimization.” In _2009 International Conference of Soft Computing and Pattern Recognition_. doi: [10.1109/socpar.2009.21 ](https://doi.org/10.1109/socpar.2009.21 )
 - **<u>Squirrels: Flying Squirrels</u>**: Jain M, Singh V and Rani A (2018). “A novel nature-inspired algorithm for optimization: Squirrel search algorithm.” _Swarm and Evolutionary Computation_. doi: [10.1016/j.swevo.2018.02.013 ](https://doi.org/10.1016/j.swevo.2018.02.013 )
-- **<u>States of Matter</u>**: Cuevas E, Echavarr\'\ia A and Ram\'\irez-Ortegón MA (2013). “An optimization algorithm inspired by the States of Matter that improves the balance between exploration and exploitation.” _Applied Intelligence_, *40*(2), pp. 256-272. doi: [10.1007/s10489-013-0458-0 ](https://doi.org/10.1007/s10489-013-0458-0 )
 - **<u>States of Matter</u>**: Cuevas E, Echavarr\'\ia A and Ram\'\irez-Ortegón MA (2013). “An optimization algorithm inspired by the States of Matter that improves the balance between exploration and exploitation.” _Applied Intelligence_, *40*(2), pp. 256-272. doi: [10.1007/s10489-013-0458-0 ](https://doi.org/10.1007/s10489-013-0458-0 )
 - **<u>Swallows</u>**: Neshat M, Sepidnam G and Sargolzaei M (2012). “Swallow swarm optimization algorithm: a new method to optimization.” _Neural Computing and Applications_, *23*(2), pp. 429-454. doi: [10.1007/s00521-012-0939-9 ](https://doi.org/10.1007/s00521-012-0939-9 )
 - **<u>Symbiotic Organisms</u>**: Cheng M and Prayogo D (2014). “Symbiotic Organisms Search: A new metaheuristic optimization algorithm.” _Computers \& Structures_, *139*, pp. 98-112. doi: [10.1016/j.compstruc.2014.03.007 ](https://doi.org/10.1016/j.compstruc.2014.03.007 )
