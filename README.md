@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-04-25   
+Updated 2018-04-28   
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -161,7 +161,6 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### M
 - **<u>Markets</u>**: Ghorbani N and Babaei E (2014). “Exchange market algorithm.” _Applied Soft Computing_, *19*, pp. 177-187. doi: [10.1016/j.asoc.2014.02.006 ](https://doi.org/10.1016/j.asoc.2014.02.006 )
-- **<u>Metals Cooling Down</u>**: Kirkpatrick S, Gelatt CD and Vecchi MP (1983). “Optimization by simulated annealing.” _Science_, *220*(4598), pp. 671-680.
 - **<u>Mine Explosions</u>**: Sadollah A, Bahreininejad A, Eskandar H and Hamdi M (2012). “Mine blast algorithm for optimization of truss structures with discrete variables.” _Computers \& Structures_, *102-103*, pp. 49-63. doi: [10.1016/j.compstruc.2012.03.013 ](https://doi.org/10.1016/j.compstruc.2012.03.013 )
 - **<u>Monkeys: Monkey Foraging</u>**: Mucherino A, Seref O, Seref O, Kundakcioglu OE and Pardalos P (2007). “Monkey search: a novel metaheuristic search for global optimization.” In _AIP Conference Proceedings_. doi: [10.1063/1.2817338 ](https://doi.org/10.1063/1.2817338 )
 - **<u>Monkeys: Spider Monkeys</u>**: Bansal JC, Sharma H, Jadon SS and Clerc M (2014). “Spider Monkey Optimization algorithm for numerical optimization.” _Memetic Computing_, *6*(1), pp. 31-47. doi: [10.1007/s12293-013-0128-0 ](https://doi.org/10.1007/s12293-013-0128-0 )
