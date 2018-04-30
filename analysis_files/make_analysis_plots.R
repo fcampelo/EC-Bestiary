@@ -45,8 +45,29 @@ p2 <- ggplot(data = subset(df2,
 p2 + 
   geom_bar() + 
   ggtitle(label = "Metaphor-friendly journals (since 2000)",
-          subtitle = "Journals where 'novel' metaphors were published") + 
-  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+          subtitle = "Journals where 'novel' metaphors were published") +   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 ggsave("../img/new_metaphors_by_journal.png", device = "png", 
        width = 18, height = 10, units = "in")
+
+
+author.lastnames <- unlist(sapply(entry.list, function(x){
+  unlist(x$author$family)
+}))
+
+df3 <- factor(author.lastnames, 
+              levels = names(sort(table(author.lastnames), 
+                                  decreasing = TRUE)))
+  
+
+p3 <- ggplot(data = as.data.frame(df3), 
+             aes(x = df3))
+
+p3 + 
+  geom_bar() + 
+  ggtitle(label = "Most common metaphor proponent names", 
+          subtitle = "(Names with more than 2 metaphors)") + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 8))
+
+ggsave("../img/new_metaphors_by_authorname.png", device = "png", 
+       width = 30, height = 10, units = "in")
