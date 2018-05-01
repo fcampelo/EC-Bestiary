@@ -32,8 +32,8 @@ p1 +
   ggtitle(label = "New metaphors per year (since 2000)",
           subtitle = "Based on the first-hit rule of the EC Bestiary")
 
-ggsave("../img/new_metaphors_per_year.png", device = "png", 
-       width = 18, height = 9, units = "in")
+#ggsave("../img/new_metaphors_per_year.png", device = "png", 
+#       width = 18, height = 9, units = "in")
 
 df2 <- within(df, 
               journal <- factor(journal, 
@@ -47,8 +47,8 @@ p2 +
   ggtitle(label = "Metaphor-friendly journals (since 2000)",
           subtitle = "Journals where 'novel' metaphors were published") +   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
-ggsave("../img/new_metaphors_by_journal.png", device = "png", 
-       width = 18, height = 10, units = "in")
+#ggsave("../img/new_metaphors_by_journal.png", device = "png", 
+#       width = 18, height = 10, units = "in")
 
 
 author.lastnames <- unlist(sapply(entry.list, function(x){
@@ -58,7 +58,7 @@ author.lastnames <- unlist(sapply(entry.list, function(x){
 df3 <- factor(author.lastnames, 
               levels = names(sort(table(author.lastnames), 
                                   decreasing = TRUE)))
-  
+df3 <- df3[df3 %in% names(which(table(df3) > 1))]
 
 p3 <- ggplot(data = as.data.frame(df3), 
              aes(x = df3))
@@ -67,7 +67,14 @@ p3 +
   geom_bar() + 
   ggtitle(label = "Most common metaphor proponent names", 
           subtitle = "(Names with more than 2 metaphors)") + 
-  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 8))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-ggsave("../img/new_metaphors_by_authorname.png", device = "png", 
-       width = 30, height = 10, units = "in")
+#ggsave("../img/new_metaphors_by_authorname.png", device = "png", 
+#       width = 18, height = 10, units = "in")
+
+
+
+# Isolate and save the journals with 2+ proposed metaphors published
+journal.table <- table(journal[journal != "N/A"])
+journal.table <- journal.table[journal.table > 1]
+saveRDS(sort(journal.table, decreasing = TRUE), "journal_table.rds")
