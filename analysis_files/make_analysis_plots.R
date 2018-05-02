@@ -74,9 +74,9 @@ p3 +
 
 
 
-# Isolate and save the journals with 2+ proposed metaphors published
+# Isolate and save the journals with proposed metaphors published
 journal.table <- table(journal[journal != "N/A"])
-journal.table <- journal.table[journal.table > 1]
+journal.table <- journal.table
 saveRDS(sort(journal.table, decreasing = TRUE), 
         "journal_table.rds")
 
