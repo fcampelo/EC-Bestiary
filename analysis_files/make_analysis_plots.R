@@ -81,15 +81,21 @@ saveRDS(sort(journal.table, decreasing = TRUE),
         "journal_table.rds")
 
 # Extract all metaphor names and set up alias table for manual editing
-metaphor <- character(length(entry.list))
+npap <- length(entry.list)
+metaphor.aliases <- data.frame(metaphor = character(npap),
+                               paper    = character(npap),
+                               stringsAsFactors = FALSE)
+
 for (i in seq_along(entry.list)){
-  metaphor[i] <- gsub("[.]", " ", 
-                      attr(entry.list[[i]], "key"))
+  metaphor.aliases$metaphor[i] <- gsub("[.]", " ", 
+                                       attr(entry.list[[i]],
+                                            "key"))
+  metaphor.aliases$paper[i]   <- entry.list[[i]]$title
 }
 
-method.aliases <- data.frame(metaphor = metaphor,
-                             aliases  = metaphor)
-write.table(x    = method.aliases, 
+metaphor.aliases$aliases <- metaphor.aliases$metaphor
+
+write.table(x    = metaphor.aliases, 
             file = "metaphor_aliases.csv", 
             row.names = FALSE,
             quote     = FALSE, 
