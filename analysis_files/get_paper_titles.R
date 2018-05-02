@@ -68,6 +68,13 @@ for (i in seq_along(journal.papers)){
                                     title = title)
 }
 
-saveRDS(object = journal.papers,
+for (i in seq_along(journal.papers)){
+  journal.papers[[i]] <- cbind(journal.papers[[i]], 
+                               Journal = journals[i])
+}
+
+all.papers <- do.call(rbind, args = journal.papers)
+
+saveRDS(object = all.papers,
         file   = paste0(as.character(Sys.Date()), 
                         "_journal_paper_titles.rds"))
