@@ -74,12 +74,6 @@ p3 +
 
 
 
-# Isolate and save the journals with proposed metaphors published
-journal.table <- table(journal[journal != "N/A"])
-journal.table <- journal.table
-saveRDS(sort(journal.table, decreasing = TRUE), 
-        "journal_table.rds")
-
 # Extract all metaphor names and set up alias table for manual editing
 npap <- length(entry.list)
 metaphor.aliases <- data.frame(metaphor = character(npap),
