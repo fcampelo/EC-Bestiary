@@ -85,10 +85,16 @@ for (i in seq_along(journals)){
     
     cat(".")
     if(npap){
-      # Get fields that are guaranteed to exist
+      # Set fields that are guaranteed to exist
       my.journal <- rep(journals[i], npap)
       my.year    <- rep(years[j], npap)
-      my.title   <- paper.data$data$title
+      
+      # Get title, if available
+      if("title" %in% names(paper.data$data)){
+        my.title   <- paper.data$data$title
+      } else {
+        my.title <- rep(NA, npap)
+      }
       
       # Get DOI, if available
       if("DOI" %in% names(paper.data$data)){
