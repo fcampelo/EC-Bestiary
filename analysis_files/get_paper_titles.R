@@ -74,6 +74,7 @@ for (i in seq_along(journal.papers)){
 }
 
 all.papers <- do.call(rbind, args = journal.papers)
+rownames(all.papers) <- seq(nrow(all.papers))
 
 saveRDS(object = all.papers,
         file   = paste0(as.character(Sys.Date()), 

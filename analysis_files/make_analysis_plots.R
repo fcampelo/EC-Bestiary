@@ -77,4 +77,20 @@ p3 +
 # Isolate and save the journals with 2+ proposed metaphors published
 journal.table <- table(journal[journal != "N/A"])
 journal.table <- journal.table[journal.table > 1]
-saveRDS(sort(journal.table, decreasing = TRUE), "journal_table.rds")
+saveRDS(sort(journal.table, decreasing = TRUE), 
+        "journal_table.rds")
+
+# Extract all metaphor names and set up alias table for manual editing
+metaphor <- character(length(entry.list))
+for (i in seq_along(entry.list)){
+  metaphor[i] <- gsub("[.]", " ", 
+                      attr(entry.list[[i]], "key"))
+}
+
+method.aliases <- data.frame(metaphor = metaphor,
+                             aliases  = metaphor)
+write.table(x    = method.aliases, 
+            file = "metaphor_aliases.csv", 
+            row.names = FALSE,
+            quote     = FALSE, 
+            sep       = ";")
