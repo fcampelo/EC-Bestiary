@@ -74,7 +74,8 @@ for (i in seq_along(journals)){
                                title     = character(),
                                authors   = character(),
                                doi       = character(),
-                               ref.count = numeric())
+                               ref.count = numeric(),
+                               stringsAsFactors = FALSE)
   
   # Iterate over years of interest
   for (j in seq_along(years)){
@@ -154,7 +155,8 @@ for (i in seq_along(journals)){
                                          title     = my.title,
                                          authors   = my.authors,
                                          doi       = my.doi,
-                                         ref.count = my.nref))
+                                         ref.count = my.nref,
+                                         stringsAsFactors = FALSE))
       
       cat(". jackpot!")
       
@@ -184,14 +186,43 @@ all.papers <- data.frame(journal   = character(),
                          title     = character(),
                          authors   = character(),
                          doi       = character(),
-                         ref.count = numeric())
+                         ref.count = numeric(),
+                         stringsAsFactors = FALSE)
 for (i in seq(file.list)){
   cat("\nAppending file ", sprintf("%02d", i))
-  my.df <- readRDS(paste0(my.dir, file.list[i]))
+  my.df <- readRDS(paste0(my.dir, "/", file.list[i]))
   all.papers <- rbind(all.papers, my.df)
 }
 
+for (j in 1:ncol(all.papers)){
+  if(class(all.papers[, j]) == "factor"){
+    all.papers[, j] <- as.character(all.papers[, j])
+  }
+}
+
 saveRDS(object = all.papers, paste0(my.dir, "/00_consolidated_data.rds"))
+
+# Retrieve citations for papers with DOI
+citations <- integer(nrow(all.papers))
+for (i in seq(citations)){
+  if (!(i %% 1000)) {
+    cat("\nRetrieving citations: ", sprintf("%06d", i), "of", nrow(all.papers))
+  }
+  
+  if (!is.na(all.papers$doi[i])){
+    my.count <- try(cr_citation_count(all.papers$doi[i]), silent = TRUE)
+    if (is.integer(my.count)){
+      citations[i] <- my.count
+    } else {
+      citations[i] <- NA
+    }
+  }
+}
+
+
+all.papers$citations <- citations
+saveRDS(object = all.papers, paste0(my.dir, "/00_consolidated_data.rds"))
+
 
 
 # ==============================================================================
