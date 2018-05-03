@@ -202,6 +202,7 @@ for (j in 1:ncol(all.papers)){
 
 saveRDS(object = all.papers, paste0(my.dir, "/00_consolidated_data.rds"))
 
+
 # Retrieve citations for papers with DOI
 citations <- integer(nrow(all.papers))
 for (i in seq(citations)){
@@ -211,7 +212,7 @@ for (i in seq(citations)){
   
   if (!is.na(all.papers$doi[i])){
     my.count <- try(cr_citation_count(all.papers$doi[i]), silent = TRUE)
-    if (is.integer(my.count)){
+    if (is.numeric(my.count)){
       citations[i] <- my.count
     } else {
       citations[i] <- NA
@@ -221,9 +222,7 @@ for (i in seq(citations)){
 
 
 all.papers$citations <- citations
-saveRDS(object = all.papers, paste0(my.dir, "/00_consolidated_data.rds"))
-
-
+saveRDS(object = all.papers, paste0(my.dir, "01_consolidated_data.rds"))
 
 # ==============================================================================
 # # Manual editing performed on empty_queries data frame after correcting some journal names
