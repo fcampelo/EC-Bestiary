@@ -224,6 +224,11 @@ for (i in seq(citations)){
 all.papers$citations <- citations
 saveRDS(object = all.papers, paste0(my.dir, "01_consolidated_data.rds"))
 
+
+
+
+
+
 # ==============================================================================
 # # Manual editing performed on empty_queries data frame after correcting some journal names
 # # (for records only: no need to uncomment it after the changes introduced in the 
