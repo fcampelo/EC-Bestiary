@@ -1,5 +1,5 @@
 # Evolutionary Computation Bestiary  
-Updated 2018-05-04   
+Updated 2018-05-05   
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -128,7 +128,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Genes</u>**: Holland J (1975). _Adaptation in Natural and Artificial Systems, An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence_. MIT Press.
 - **<u>Glow Worms</u>**: Krishnanand KN, Ghose D (2008). “Glowworm swarm optimization for simultaneous capture of multiple local optima of multimodal functions.” _Swarm Intelligence_, *3*(2), 87-124. doi: [10.1007/s11721-008-0021-5 ](https://doi.org/10.1007/s11721-008-0021-5 )
 - **<u>Grasshoppers</u>**: Saremi S, Mirjalili S, Lewis A (2017). “Grasshopper Optimisation Algorithm: Theory and application.” _Advances in Engineering Software_, *105*, 30-47. doi: [10.1016/j.advengsoft.2017.01.004 ](https://doi.org/10.1016/j.advengsoft.2017.01.004 )
-- **<u>Gravitation</u>**: Webster B, Bernhard P (2003). “A Local Search Optimization Algorithm Based on Natural Principles of Gravitation.” In _Proceedings of the International Conference on Information and Knowledge Engineering_, 255-261.
+- **<u>Gravitation</u>**: Rashedi E, Nezamabadi-pour H, Saryazdi S (2009). “GSA: A Gravitational Search Algorithm.” _Information Sciences_, *179*(13), 2232-2248. doi: [10.1016/j.ins.2009.03.004 ](https://doi.org/10.1016/j.ins.2009.03.004 )
 - **<u>Great Deluge</u>**: Dueck G (1993). “New Optimization Heuristics: The Great Deluge and Record to Record Travel.” _Journal of Computational Physics_, *104*(1), 86-92. doi: [10.1006/jcph.1993.1010 ](https://doi.org/10.1006/jcph.1993.1010 )
 - **<u>Grenades</u>**: Ahrari A, Atai AA (2010). “Grenade Explosion Method—A novel tool for optimization of multimodal functions.” _Applied Soft Computing_, *10*(4), 1132-1140. doi: [10.1016/j.asoc.2009.11.032 ](https://doi.org/10.1016/j.asoc.2009.11.032 )
 - **<u>Group Counselling</u>**: Eita MA, Fahmy MM (2009). “Group Counseling Optimization: A Novel Approach.” In _Research and Development in Intelligent Systems XXVI_, 195-208. Springer London. doi: [10.1007/978-1-84882-983-1_14 ](https://doi.org/10.1007/978-1-84882-983-1_14 )
@@ -245,7 +245,6 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Whales: Killer Whales</u>**: Biyanto TR, Matradji, Irawan S, Febrianto HY, Afdanny N, Rahman AH, Gunawan KS, Pratama JA, Bethiana TN (2017). “Killer Whale Algorithm: An Algorithm Inspired by the Life of Killer Whale.” _Procedia Computer Science_, *124*, 151-157. doi: [10.1016/j.procs.2017.12.141 ](https://doi.org/10.1016/j.procs.2017.12.141 )
 - **<u>Whales: Regular Whales</u>**: Mirjalili S, Lewis A (2016). “The Whale Optimization Algorithm.” _Advances in Engineering Software_, *95*, 51-67. doi: [10.1016/j.advengsoft.2016.01.008 ](https://doi.org/10.1016/j.advengsoft.2016.01.008 )
 - **<u>Whales: Sperm Whales</u>**: Ebrahimi A, Khamehchi E (2016). “Sperm whale algorithm: An effective metaheuristic algorithm for production optimization problems.” _Journal of Natural Gas Science and Engineering_, *29*, 211-222. doi: [10.1016/j.jngse.2016.01.001 ](https://doi.org/10.1016/j.jngse.2016.01.001 )
-- **<u>Wheels</u>**: Joslin DE, Clements DP (1999). “Squeaky wheel optimization.” _Journal of Artificial Intelligence Research_, *10*, 353-373.
 - **<u>Wind</u>**: Bayraktar Z, Komurcu M, Werner DH (2010). “Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics.” In _2010 IEEE Antennas and Propagation Society International Symposium_. doi: [10.1109/aps.2010.5562213 ](https://doi.org/10.1109/aps.2010.5562213 )
 - **<u>Wolves: Grey Wolves</u>**: Mirjalili S, Mirjalili SM, Lewis A (2014). “Grey Wolf Optimizer.” _Advances in Engineering Software_, *69*, 46-61. doi: [10.1016/j.advengsoft.2013.12.007 ](https://doi.org/10.1016/j.advengsoft.2013.12.007 )
 - **<u>Wolves: Wolves</u>**: Tang R, Fong S, Yang X, Deb S (2012). “Wolf search algorithm with ephemeral memory.” In _Seventh International Conference on Digital Information Management (ICDIM 2012)_. doi: [10.1109/icdim.2012.6360147 ](https://doi.org/10.1109/icdim.2012.6360147 )
