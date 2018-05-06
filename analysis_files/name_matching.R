@@ -1,8 +1,11 @@
 # Load consolidated data and alias list
 all.papers    <- readRDS("./2018-05-02_journal_paper_titles/01_consolidated_data.rds")
+all.papers$title <- tolower(all.papers$title)
+
 alias.list    <- read.csv("metaphor_aliases.csv", header = TRUE, sep = ";", 
                           stringsAsFactors = FALSE)
 
+# ==========
 # Get matches for each entry (based on the alias list)
 title.matches <- vector(mode = "list", length = nrow(alias.list))
 for (i in seq(title.matches)){
@@ -13,15 +16,17 @@ for (i in seq(title.matches)){
   # Target aliases for the i-th metaphor
   targets.alias <- unlist(strsplit(gsub(", ", ",", alias.list$aliases[i]), 
                                    split = ","))
-  if(length(targets.alias)){
-    # for each alias
-    for (j in seq(targets.alias)){
-      # get paper titles that match the alias
-      matches <- c(matches, grep(pattern = targets.alias[j], 
-                                 x = all.papers$title, 
-                                 ignore.case = TRUE))
-    }
+  # Include the original paper title as its own alias
+  targets.alias <- tolower(c(alias.list$paper[i], targets.alias))
+  
+  # for each alias
+  for (j in seq(targets.alias)){
+    # get paper titles that match the alias
+    matches <- c(matches, grep(pattern = targets.alias[j], 
+                               x = all.papers$title,
+                               fixed = TRUE))
   }
+  
   
   # # Target acronyms for the i-th metaphor
   # targets.acronym <- unlist(strsplit(gsub(", ", ",", alias.list$acronyms[i]), 
@@ -58,3 +63,4 @@ title.matches <- lapply(title.matches,
                         }, 
                         all.papers = all.papers)
 names(title.matches) <- alias.list$metaphor
+
