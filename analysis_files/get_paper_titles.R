@@ -33,34 +33,46 @@ journal <- gsub(pattern = "\\&", replacement = "&", x = journal,
                 fixed = TRUE)
 journal <- gsub(pattern = "{IEEE}", replacement = "IEEE", x = journal, 
                 fixed = TRUE)
-journals <- table(journal[!is.na(journal)])
-journals <- names(sort(journals, decreasing = TRUE))
 
 
 # ==========
 # Manual fix of some journal names with corrupted/outdated IDs
 # (performed after a preliminary run and manual verification of empty records)
-i1 <- which(journals == "J Circuits Systems")
-i2 <- which(journals == "Iranian Journal of Science and Technology,  Transactions of Civil Engineering")
-i3 <- which(journals == "Journal of Control,  Automation and Electrical Systems")
-i4 <- which(journals == "ORSA Journal on Computing")
+i1 <- which(journal == "J Circuits Systems")
+i2 <- which(journal == "Iranian Journal of Science and Technology,  Transactions of Civil Engineering")
+i3 <- which(journal == "Journal of Control,  Automation and Electrical Systems")
+i4 <- which(journal == "ORSA Journal on Computing")
 
-journals[i1] <- "Journal of Circuits, Systems and Computers"
-journals[i2] <- "Iranian Journal of Science and Technology, Transactions of Civil Engineering"
-journals[i3] <- "Journal of Control, Automation and Electrical Systems"
-journals[i4] <- "INFORMS Journal on Computing"
+journal[i1] <- "Journal of Circuits, Systems and Computers"
+journal[i2] <- "Iranian Journal of Science and Technology, Transactions of Civil Engineering"
+journal[i3] <- "Journal of Control, Automation and Electrical Systems"
+journal[i4] <- "INFORMS Journal on Computing"
+# ==========
+
+# Assemble data frame and save for future reference
+saveRDS(data.frame(metaphor = gsub(".", " ", names(entry.list), fixed = TRUE), 
+                   year = as.numeric(lapply(entry.list, 
+                                            function(x){x$year})), 
+                   journal = journal, 
+                   title = sapply(entry.list, 
+                                  function(x){x$title}),
+                   stringsAsFactors = FALSE), 
+        "./data/00_bestiaryDF.rds")
 
 # ==========
+
+# Assemble journal table
+journals <- table(journal[!is.na(journal)])
+journals <- names(sort(journals, decreasing = TRUE))
+
 # Set years for scraping
 years    <- 2000:2018
-
 
 # ==========
 # Perform scraping
 
 ## Create directory
-my.dir <- paste0(as.character(Sys.Date()), "_journal_paper_titles")
-if(!dir.exists(my.dir)) dir.create(my.dir)
+if(!dir.exists("./data")) dir.create("./data")
 
 # Initialize data frame for storing empty queries
 empty_queries <- data.frame(journal = character(),
@@ -172,9 +184,10 @@ for (i in seq_along(journals)){
   # Save results
   if (nrow(journal_papers)){
     saveRDS(journal_papers, 
-            file = paste0(my.dir, "/journal", sprintf("%02d", i), "_papers.rds"))
+            file = paste0("./data/journal", 
+                          sprintf("%02d", i), "_papers.rds"))
   }
-  saveRDS(empty_queries, file = paste0(my.dir, "/00_empty_queries.rds"))
+  saveRDS(empty_queries, file = "./data/01_empty_queries.rds")
 }
 
 
@@ -200,7 +213,8 @@ for (j in 1:ncol(all.papers)){
   }
 }
 
-saveRDS(object = all.papers, paste0(my.dir, "/00_consolidated_data.rds"))
+saveRDS(object = all.papers, 
+        file   ="./data/00_consolidated_data.rds")
 
 
 # Retrieve citations for papers with DOI
@@ -220,28 +234,7 @@ for (i in seq(citations)){
   }
 }
 
-
 all.papers$citations <- citations
-saveRDS(object = all.papers, paste0(my.dir, "01_consolidated_data.rds"))
 
-
-
-
-
-
-# ==============================================================================
-# # Manual editing performed on empty_queries data frame after correcting some journal names
-# # (for records only: no need to uncomment it after the changes introduced in the 
-# script above - code block starting at line 40)
-#
-# empty_queries2 <- readRDS("2018-05-02_journal_paper_titles/00_empty_queries.rds")
-# names.to.remove <- c("J Circuits Systems", 
-#                      "Iranian Journal of Science and Technology,  Transactions of Civil Engineering",
-#                      "Journal of Control,  Automation and Electrical Systems",
-#                      "ORSA Journal on Computing")
-# indx <- which(empty_queries2$journal %in% names.to.remove)
-# empty_queries2 <- empty_queries2[-indx, ]
-# saveRDS(empty_queries2, file = paste0(my.dir, "/00_empty_queries.rds"))
-
-
-
+saveRDS(object = all.papers, 
+        file   = "./data/02_consolidated_data.rds")

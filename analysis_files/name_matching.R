@@ -1,9 +1,9 @@
 # Load consolidated data and alias list
-all.papers    <- readRDS("./2018-05-02_journal_paper_titles/01_consolidated_data.rds")
+all.papers       <- readRDS("./data/02_consolidated_data.rds")
 all.papers$title <- tolower(all.papers$title)
-
-alias.list    <- read.csv("metaphor_aliases.csv", header = TRUE, sep = ";", 
-                          stringsAsFactors = FALSE)
+alias.list       <- read.csv("metaphor_aliases.csv", 
+                             header = TRUE, sep = ";", 
+                             stringsAsFactors = FALSE)
 
 # ==========
 # Get matches for each entry (based on the alias list)
@@ -23,24 +23,26 @@ for (i in seq(title.matches)){
   for (j in seq(targets.alias)){
     # get paper titles that match the alias
     matches <- c(matches, grep(pattern = targets.alias[j], 
-                               x = all.papers$title,
-                               fixed = TRUE))}
+                               x       = all.papers$title,
+                               fixed   = TRUE))}
 
   # Target acronyms for the i-th metaphor
   # Using the Regexp: [^a-zA-Z0-9]acronym[^a-zA-Z0-9]
-  # For some reason grep does not like "lowecase = TRUE" when using regexp, 
-  # so I manually tolower the acronym.
+  # For some reason grep does not like "lowecase = TRUE" when using regexp,
+  # so I manually tolower() the acronym.
 
-  targets.acronym <- unlist(strsplit(gsub(", ", ",", alias.list$acronyms[i]), 
+  targets.acronym <- unlist(strsplit(gsub(", ", ",", 
+                                          alias.list$acronyms[i]), 
                             split = ","))
   if(length(targets.acronym)){
     # for each alias
     for (j in seq(targets.acronym)){
       # get paper titles that match the acronym
-  
-      my.pattern <- paste0("[^a-zA-Z0-9]",tolower(targets.acronym[j]),"[^a-zA-Z0-9]")
+      my.pattern <- paste0("[^a-zA-Z0-9]",
+                           tolower(targets.acronym[j]),
+                           "[^a-zA-Z0-9]")
       matches <- c(matches, grep(pattern = my.pattern, 
-                                 x = all.papers$title))
+                                 x       = all.papers$title))
       }
   }
   
@@ -52,12 +54,15 @@ for (i in seq(title.matches)){
 # For each entry, get distribution of citations per year
 title.matches <- lapply(title.matches,
                         function(x, all.papers){
-                          pub.years <- all.papers$year[x]
+                          pub.years <- sort(all.papers$year[x])
+                          ord <- order(pub.years)
                           pubs.by.year  <- table(pub.years)
-                          return(list(match.indx = x,
-                                      pub.years = pub.years,
-                                      pubs.by.year  = pubs.by.year))
+                          return(list(match.indx = x[ord],
+                                      pub.years = pub.years[ord],
+                                      pubs.by.year  = pubs.by.year[ord]))
                         }, 
                         all.papers = all.papers)
 names(title.matches) <- alias.list$metaphor
 
+saveRDS(title.matches, 
+     "./data/03_title_matches.rds")

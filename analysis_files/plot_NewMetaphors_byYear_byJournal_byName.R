@@ -74,23 +74,24 @@ p3 +
 
 
 
-# Extract all metaphor names and set up alias table for manual editing
-npap <- length(entry.list)
-metaphor.aliases <- data.frame(metaphor = character(npap),
-                               paper    = character(npap),
-                               stringsAsFactors = FALSE)
 
-for (i in seq_along(entry.list)){
-  metaphor.aliases$metaphor[i] <- gsub("[.]", " ", 
-                                       attr(entry.list[[i]],
-                                            "key"))
-  metaphor.aliases$paper[i]   <- entry.list[[i]]$title
-}
 
-metaphor.aliases$aliases <- metaphor.aliases$metaphor
-
-write.table(x    = metaphor.aliases, 
-            file = "metaphor_aliases.csv", 
-            row.names = FALSE,
-            quote     = FALSE, 
-            sep       = ";")
+# === (DO NOT RUN) === #
+# This was run once to generate the initial structure for the alias table.
+# Not needed anymore
+#
+# # Extract all metaphor names and set up alias table for manual editing
+# npap <- length(entry.list)
+# metaphor.aliases <- data.frame(metaphor = character(npap),
+#                                paper    = character(npap),
+#                                stringsAsFactors = FALSE)
+# 
+# for (i in seq_along(entry.list)){
+#   metaphor.aliases$metaphor[i] <- gsub("[.]", " ", 
+#                                        attr(entry.list[[i]],
+#                                             "key"))
+#   metaphor.aliases$paper[i]   <- entry.list[[i]]$title
+# }
+# 
+# metaphor.aliases$aliases <- metaphor.aliases$metaphor
+# 
