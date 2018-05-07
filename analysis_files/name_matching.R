@@ -24,28 +24,25 @@ for (i in seq(title.matches)){
     # get paper titles that match the alias
     matches <- c(matches, grep(pattern = targets.alias[j], 
                                x = all.papers$title,
-                               fixed = TRUE))
+                               fixed = TRUE))}
+
+  # Target acronyms for the i-th metaphor
+  # Using the Regexp: [^a-zA-Z0-9]acronym[^a-zA-Z0-9]
+  # For some reason grep does not like "lowecase = TRUE" when using regexp, 
+  # so I manually tolower the acronym.
+
+  targets.acronym <- unlist(strsplit(gsub(", ", ",", alias.list$acronyms[i]), 
+                            split = ","))
+  if(length(targets.acronym)){
+    # for each alias
+    for (j in seq(targets.acronym)){
+      # get paper titles that match the acronym
+  
+      my.pattern <- paste0("[^a-zA-Z0-9]",tolower(targets.acronym[j]),"[^a-zA-Z0-9]")
+      matches <- c(matches, grep(pattern = my.pattern, 
+                                 x = all.papers$title))
+      }
   }
-  
-  
-  # # Target acronyms for the i-th metaphor
-  # targets.acronym <- unlist(strsplit(gsub(", ", ",", alias.list$acronyms[i]), 
-  #                                  split = ","))
-  # if(length(targets.acronym)){
-  #   # for each alias
-  #   for (j in seq(targets.acronym)){
-  #     # get paper titles that match the acronym
-  #     #
-  #     # Claus, what is the regexp to match the following query?
-  #     # "targets.acronym[j], surrounded by non-alphanumeric characters"
-  #     # 
-  #     # my.pattern <- 
-  #     # matches <- c(matches, grep(pattern = my.pattern, 
-  #     #                            x = all.papers$title, 
-  #     #                            ignore.case = TRUE))
-  #   }
-  # }
-  
   
   # Remove possible double matches and collapse everything into a single string
   title.matches[[i]] <- unique(matches)
