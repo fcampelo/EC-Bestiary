@@ -3,8 +3,9 @@ require(bibtex)
 # Open md file for creating page
 md.file  <- file("../README.md", open = "wt", encoding = "UTF-8")
 
-# Write to md file: title and date
+# Write to md file: title, DOI badge, and update date
 writeLines("# Evolutionary Computation Bestiary  ", con = md.file)
+writeLines("[![DOI](https://zenodo.org/badge/54759561.svg)](https://zenodo.org/badge/latestdoi/54759561)\n", con = md.file)
 writeLines(paste("Updated", as.character(Sys.Date()), "  \n***  "), con = md.file)
 
 # Write to md file: openings
