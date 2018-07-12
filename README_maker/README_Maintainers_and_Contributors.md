@@ -37,3 +37,4 @@
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
+- James Brookhouse - University of Kent, England UK

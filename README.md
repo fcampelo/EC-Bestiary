@@ -1,7 +1,7 @@
 # Evolutionary Computation Bestiary  
 [![DOI](https://zenodo.org/badge/54759561.svg)](https://zenodo.org/badge/latestdoi/54759561)
 
-Updated 2018-06-19   
+Updated 2018-07-12   
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -172,6 +172,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Moths</u>**: Mirjalili S (2015). “Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm.” _Knowledge-Based Systems_, *89*, 228-249. doi: [10.1016/j.knosys.2015.07.006 ](https://doi.org/10.1016/j.knosys.2015.07.006 )
 - **<u>Mountain Climbers</u>**: Zhang LM, Dahlmann C, Zhang Y (2009). “Human-Inspired Algorithms for continuous function optimization.” In _2009 IEEE International Conference on Intelligent Computing and Intelligent Systems_. doi: [10.1109/icicisys.2009.5357838 ](https://doi.org/10.1109/icicisys.2009.5357838 )
 - **<u>Multiverse</u>**: Mirjalili S, Mirjalili SM, Hatamlou A (2015). “Multi-Verse Optimizer: a nature-inspired algorithm for global optimization.” _Neural Computing and Applications_, *27*(2), 495-513. doi: [10.1007/s00521-015-1870-7 ](https://doi.org/10.1007/s00521-015-1870-7 )
+- **<u>Mushroom Reproduction</u>**: Bidar M, Kanan HR, Mouhoub M, Sadaoui S (2018). “Mushroom Reproduction Optimization (MRO): A Novel Nature-Inspired Evolutionary Algorithm.” In _2018 IEEE Congress on Evolutionary Computation_.
 - **<u>Musicians</u>**: Geem ZW, Kim JH, Loganathan G (2001). “A New Heuristic Optimization Algorithm: Harmony Search.” _SIMULATION_, *76*(2), 60-68. doi: [10.1177/003754970107600201 ](https://doi.org/10.1177/003754970107600201 )
 
 ### N
@@ -312,6 +313,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
+- James Brookhouse - University of Kent, England UK
 
 ***
 
