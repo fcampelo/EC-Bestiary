@@ -22,6 +22,7 @@
 - Iago A. de Carvalho - UFMG, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
+- James Brookhouse - University of Kent, England UK
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
 - Marc Sevaux - Université de Bretagne-Sud, France
@@ -38,4 +39,4 @@
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
-- James Brookhouse - University of Kent, England UK
+- Tushar Semwal - IIT Guwahati, India

@@ -93,6 +93,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### D
 - **<u>Deer: Scottish Red Deer</u>**: Fard AF, Hajiaghaei-Keshteli M (2016). “Red Deer Algorithm (RDA); A New Optimization Algorithm Inspired by Red Deers’ Mating.” In _International Conference on Industrial Engineering, IEEE.,(2016 e)_, 33-34.
+- **<u>Dendritic Cells</u>**: Greensmith J, Aickelin U, Cayzer S (2005). “Introducing dendritic cells as a novel immune-inspired algorithm for anomaly detection.” In _International Conference on Artificial Immune Systems_, 153-167. Springer.
 - **<u>Dogs</u>**: Subramanian C, Sekar A, Subramanian K (2013). “A New Engineering Optimization Method: African Wild Dog Algorithm.” _International Journal of Soft Computing_, *8*(3).
 - **<u>Dolphins: Dolphin Echolocation</u>**: Kaveh A, Farhoudi N (2013). “A new optimization method: Dolphin echolocation.” _Advances in Engineering Software_, *59*, 53-70. doi: [10.1016/j.advengsoft.2013.03.004 ](https://doi.org/10.1016/j.advengsoft.2013.03.004 )
 - **<u>Dolphins: Dolphin Partners</u>**: Shiqin Y, Jianjun J, Guangxing Y (2009). “A Dolphin Partner Optimization.” In _2009 WRI Global Congress on Intelligent Systems_. doi: [10.1109/gcis.2009.464 ](https://doi.org/10.1109/gcis.2009.464 )
@@ -142,6 +143,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Group Decision-Making</u>**: Zhang Q, Wang R, Yang J, Ding K, Li Y, Hu J (2017). “Collective decision optimization algorithm: A new heuristic optimization method.” _Neurocomputing_, *221*, 123-137. doi: [10.1016/j.neucom.2016.09.068 ](https://doi.org/10.1016/j.neucom.2016.09.068 )
 
 ### H
+- **<u>Hawks: Harris's Hawk</u>**: DeBruyne AS, Kaur BD (2016). “Harris's Hawk Multi-Objective Optimizer for Reference Point Problems.” In _Proceedings on the International Conference on Artificial Intelligence (ICAI)_, 287-292.
 - **<u>Heart</u>**: Hatamlou A (2014). “Heart: a novel optimization algorithm for cluster analysis.” _Progress in Artificial Intelligence_, *2*(2-3), 167-173. doi: [10.1007/s13748-014-0046-5 ](https://doi.org/10.1007/s13748-014-0046-5 )
 - **<u>Hoopoe</u>**: El-Dosuky M, El-Bassiouny A, Hamza T, Rashad M (2012). “New Hoopoe Heuristic Optimization.” _International Journal of Science and Advanced Technology_, *2*(9), 85-90.
 - **<u>Hyenas</u>**: Dhiman G, Kumar V (2017). “Spotted hyena optimizer: A novel bio-inspired based metaheuristic technique for engineering applications.” _Advances in Engineering Software_, *114*, 48-70. doi: [10.1016/j.advengsoft.2017.05.014 ](https://doi.org/10.1016/j.advengsoft.2017.05.014 )
@@ -170,6 +172,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Mine Explosions</u>**: Sadollah A, Bahreininejad A, Eskandar H, Hamdi M (2012). “Mine blast algorithm for optimization of truss structures with discrete variables.” _Computers \& Structures_, *102-103*, 49-63. doi: [10.1016/j.compstruc.2012.03.013 ](https://doi.org/10.1016/j.compstruc.2012.03.013 )
 - **<u>Monkeys: Monkey Foraging</u>**: Mucherino A, Seref O, Seref O, Kundakcioglu OE, Pardalos P (2007). “Monkey search: a novel metaheuristic search for global optimization.” In _AIP Conference Proceedings_. doi: [10.1063/1.2817338 ](https://doi.org/10.1063/1.2817338 )
 - **<u>Monkeys: Spider Monkeys</u>**: Bansal JC, Sharma H, Jadon SS, Clerc M (2014). “Spider Monkey Optimization algorithm for numerical optimization.” _Memetic Computing_, *6*(1), 31-47. doi: [10.1007/s12293-013-0128-0 ](https://doi.org/10.1007/s12293-013-0128-0 )
+- **<u>Mosquitos: Egg-laying Behavior</u>**: ul Amir Afsar Minhas F, Arif M (2011). “MOX: A novel global optimization algorithm inspired from Oviposition site selection and egg hatching inhibition in mosquitoes.” _Applied Soft Computing_, *11*(8), 4614-4625. doi: [10.1016/j.asoc.2011.07.020 ](https://doi.org/10.1016/j.asoc.2011.07.020 )
+- **<u>Mosquitos: Flying Behavior</u>**: Alauddin M (2016). “Mosquito flying optimization (MFO).” In _2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT)_. doi: [10.1109/iceeot.2016.7754783 ](https://doi.org/10.1109/iceeot.2016.7754783 )
 - **<u>Moths</u>**: Mirjalili S (2015). “Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm.” _Knowledge-Based Systems_, *89*, 228-249. doi: [10.1016/j.knosys.2015.07.006 ](https://doi.org/10.1016/j.knosys.2015.07.006 )
 - **<u>Mountain Climbers</u>**: Zhang LM, Dahlmann C, Zhang Y (2009). “Human-Inspired Algorithms for continuous function optimization.” In _2009 IEEE International Conference on Intelligent Computing and Intelligent Systems_. doi: [10.1109/icicisys.2009.5357838 ](https://doi.org/10.1109/icicisys.2009.5357838 )
 - **<u>Multiverse</u>**: Mirjalili S, Mirjalili SM, Hatamlou A (2015). “Multi-Verse Optimizer: a nature-inspired algorithm for global optimization.” _Neural Computing and Applications_, *27*(2), 495-513. doi: [10.1007/s00521-015-1870-7 ](https://doi.org/10.1007/s00521-015-1870-7 )
@@ -300,6 +304,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Iago A. de Carvalho - UFMG, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
+- James Brookhouse - University of Kent, England UK
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
 - Marc Sevaux - Université de Bretagne-Sud, France
@@ -316,7 +321,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
-- James Brookhouse - University of Kent, England UK
+- Tushar Semwal - IIT Guwahati, India
 
 ***
 
