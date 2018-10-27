@@ -71,6 +71,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Blind Naked Mole Rats</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). “A robust clustering method based on blind, naked mole-rats (BNMR) algorithm.” _Swarm and Evolutionary Computation_, *10*, 1-11. doi: [10.1016/j.swevo.2013.01.001 ](https://doi.org/10.1016/j.swevo.2013.01.001 )
 - **<u>Brainstorming</u>**: Shi Y (2011). “An Optimization Algorithm Based on Brainstorming Process.” _International Journal of Swarm Intelligence Research_, *2*(4), 35-62. doi: [10.4018/ijsir.2011100103 ](https://doi.org/10.4018/ijsir.2011100103 )
 - **<u>Butterflies: Monarch Butterflies</u>**: Wang G, Deb S, Cui Z (2015). “Monarch butterfly optimization.” _Neural Computing and Applications_. doi: [10.1007/s00521-015-1923-y ](https://doi.org/10.1007/s00521-015-1923-y )
+- **<u>Butterflies: Regular Butterflies</u>**: Arora S, Singh S (2018). “Butterfly optimization algorithm: a novel approach for global optimization.” _Soft Computing_. doi: [10.1007/s00500-018-3102-4 ](https://doi.org/10.1007/s00500-018-3102-4 )
 
 ### C
 - **<u>Camels</u>**: M. K. Ibrahim RSA (2016). “Novel Optimization Algorithm Inspired by Camel Traveling Behavior.” _Iraq J. Electrical and Electronic Engineering_, *12*(2). doi: [10.1007/s00707-009-0270-4 ](https://doi.org/10.1007/s00707-009-0270-4 )
