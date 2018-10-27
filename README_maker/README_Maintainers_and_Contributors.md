@@ -18,6 +18,7 @@
 - Fernando Otero - University of Kent, England UK
 - Fillipe Goulart - UFMG, Brazil
 - Federico Pagnozzi - Université Libre de Bruxelles, Belgium
+- Krystian Lapa - Institute of Computational Intelligence, Poland
 - Iago A. de Carvalho - UFMG, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland

@@ -1,7 +1,7 @@
 # Evolutionary Computation Bestiary  
 [![DOI](https://zenodo.org/badge/54759561.svg)](https://zenodo.org/badge/latestdoi/54759561)
 
-Updated 2018-07-12   
+Updated 2018-10-27   
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -66,6 +66,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Biogeography</u>**: Simon D (2008). “Biogeography-Based Optimization.” _IEEE Transactions on Evolutionary Computation_, *12*(6), 702-713. doi: [10.1109/tevc.2008.919004 ](https://doi.org/10.1109/tevc.2008.919004 )
 - **<u>Birds: Bird Migrations</u>**: Duman E, Uysal M, Alkaya AF (2012). “Migrating Birds Optimization: A new metaheuristic approach and its performance on quadratic assignment problem.” _Information Sciences_, *217*, 65-77. doi: [10.1016/j.ins.2012.06.032 ](https://doi.org/10.1016/j.ins.2012.06.032 )
 - **<u>Birds: Birds Mating</u>**: Askarzadeh A (2014). “Bird mating optimizer: An optimization algorithm inspired by bird mating strategies.” _Communications in Nonlinear Science and Numerical Simulation_, *19*(4), 1213-1228. doi: [10.1016/j.cnsns.2013.08.027 ](https://doi.org/10.1016/j.cnsns.2013.08.027 )
+- **<u>Bison</u>**: Kazikova A, Pluhacek M, Senkerik R, Viktorin A (2018). “Proposal of a New Swarm Optimization Method Inspired in Bison Behavior.” In _Recent Advances in Soft Computing_, 146-156. Springer International Publishing. doi: [10.1007/978-3-319-97888-8_13 ](https://doi.org/10.1007/978-3-319-97888-8_13 )
 - **<u>Black Holes</u>**: Hatamlou A (2013). “Black hole: A new heuristic optimization approach for data clustering.” _Information Sciences_, *222*, 175-184. doi: [10.1016/j.ins.2012.08.023 ](https://doi.org/10.1016/j.ins.2012.08.023 )
 - **<u>Blind Naked Mole Rats</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). “A robust clustering method based on blind, naked mole-rats (BNMR) algorithm.” _Swarm and Evolutionary Computation_, *10*, 1-11. doi: [10.1016/j.swevo.2013.01.001 ](https://doi.org/10.1016/j.swevo.2013.01.001 )
 - **<u>Brainstorming</u>**: Shi Y (2011). “An Optimization Algorithm Based on Brainstorming Process.” _International Journal of Swarm Intelligence Research_, *2*(4), 35-62. doi: [10.4018/ijsir.2011100103 ](https://doi.org/10.4018/ijsir.2011100103 )
@@ -213,7 +214,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Sharks</u>**: Abedinia O, Amjady N, Ghasemi A (2014). “A new metaheuristic algorithm based on shark smell optimization.” _Complexity_, *21*(5), 97-116. doi: [10.1002/cplx.21634 ](https://doi.org/10.1002/cplx.21634 )
 - **<u>Sheep Flocks</u>**: Kim H, Ahn B (2001). “A new evolutionary algorithm based on sheep flocks heredity model.” In _2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)_. doi: [10.1109/pacrim.2001.953683 ](https://doi.org/10.1109/pacrim.2001.953683 )
 - **<u>Small World</u>**: Du H, Wu X, Zhuang J (2006). “Small-World Optimization Algorithm for Function Optimization.” In _Lecture Notes in Computer Science_, 264-273. Springer Berlin Heidelberg. doi: [10.1007/11881223_33 ](https://doi.org/10.1007/11881223_33 )
-- **<u>Soccer Games</u>**: Purnomo HD, Wee H (2013). “Soccer Game Optimization.” In _Meta-Heuristics Optimization Algorithms in Engineering, Business, Economics, and Finance_, 386-420. IGI Global. doi: [10.4018/978-1-4666-2086-5.ch013 ](https://doi.org/10.4018/978-1-4666-2086-5.ch013 )
+- **<u>Soccer: Soccer Games</u>**: Purnomo HD, Wee H (2013). “Soccer Game Optimization.” In _Meta-Heuristics Optimization Algorithms in Engineering, Business, Economics, and Finance_, 386-420. IGI Global. doi: [10.4018/978-1-4666-2086-5.ch013 ](https://doi.org/10.4018/978-1-4666-2086-5.ch013 )
+- **<u>Soccer: Soccer Tournaments</u>**: Osaba E, Diaz F, Onieva E (2014). “Golden ball: a novel meta-heuristic to solve combinatorial optimization problems based on soccer concepts.” _Applied Intelligence_, *41*(1), 145-166. doi: [10.1007/s10489-013-0512-y ](https://doi.org/10.1007/s10489-013-0512-y )
 - **<u>Social Behavior</u>**: Ray T, Liew K (2003). “Society and civilization: an optimization algorithm based on the simulation of social behavior.” _IEEE Transactions on Evolutionary Computation_, *7*(4), 386-396. doi: [10.1109/tevc.2003.814902 ](https://doi.org/10.1109/tevc.2003.814902 )
 - **<u>Social Engineering</u>**: Fard AMF, Hajiaghaei-Keshteli M (2017). “Social Engineering Optimization (SEO); A New Single-Solution Meta-heuristic Inspired by Social Engineering.” In _International Conference on Industrial Engineering_.
 - **<u>Social Spiders</u>**: Cuevas E, Cienfuegos M, Zald\'\ivar D, Pérez-Cisneros M (2013). “A swarm optimization algorithm inspired in the behavior of the social-spider.” _Expert Systems with Applications_, *40*(16), 6374-6384. doi: [10.1016/j.eswa.2013.05.041 ](https://doi.org/10.1016/j.eswa.2013.05.041 )
@@ -294,6 +296,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Fernando Otero - University of Kent, England UK
 - Fillipe Goulart - UFMG, Brazil
 - Federico Pagnozzi - Université Libre de Bruxelles, Belgium
+- Krystian Lapa - Institute of Computational Intelligence, Poland
 - Iago A. de Carvalho - UFMG, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
