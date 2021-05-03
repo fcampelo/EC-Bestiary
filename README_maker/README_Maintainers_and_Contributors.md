@@ -26,6 +26,7 @@
 - James Brookhouse - University of Kent, England UK
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
+- Leandro Santos Coelho - UFPR, Brazil
 - Marc Sevaux - Université de Bretagne-Sud, France
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy

@@ -119,6 +119,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Experts</u>**: Melo VVD (2014). “Kaizen programming.” In _Proceedings of the 2014 conference on Genetic and evolutionary computation - GECCO \textquotesingle14_. doi: [10.1145/2576768.2598264 ](https://doi.org/10.1145/2576768.2598264 )
 
 ### F
+- **<u>Falcons</u>**: de Vasconcelos Segundo EH, Mariani VC, dos Santos Coelho L (2019). “Design of heat exchangers using Falcon Optimization Algorithm.” _Applied Thermal Engineering_, *156*, 119-144. doi: [10.1016/j.applthermaleng.2019.04.038 ](https://doi.org/10.1016/j.applthermaleng.2019.04.038 )
 - **<u>FIFA World Cup</u>**: Razmjooy N, Khalilpour M, Ramezani M (2016). “A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System.” _Journal of Control, Automation and Electrical Systems_, *27*(4), 419-440. doi: [10.1007/s40313-016-0242-6 ](https://doi.org/10.1007/s40313-016-0242-6 )
 - **<u>Fireflies</u>**: Yang X (2009). “Firefly Algorithms for Multimodal Optimization.” In _Stochastic Algorithms: Foundations and Applications_, 169-178. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-04944-6_14 ](https://doi.org/10.1007/978-3-642-04944-6_14 )
 - **<u>Fireworks</u>**: Tan Y, Zhu Y (2010). “Fireworks Algorithm for Optimization.” In _Lecture Notes in Computer Science_, 355-364. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-13495-1_44 ](https://doi.org/10.1007/978-3-642-13495-1_44 )
@@ -203,6 +204,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### P
 - **<u>Paddy Fields</u>**: Premaratne U, Samarabandu J, Sidhu T (2009). “A new biologically inspired optimization algorithm.” In _2009 International Conference on Industrial and Information Systems (ICIIS)_. doi: [10.1109/iciinfs.2009.5429852 ](https://doi.org/10.1109/iciinfs.2009.5429852 )
 - **<u>Penguins</u>**: Gheraibia Y, Moussaoui A (2013). “Penguins Search Optimization Algorithm (PeSOA).” In _Recent Trends in Applied Artificial Intelligence_, 222-231. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-38577-3_23 ](https://doi.org/10.1007/978-3-642-38577-3_23 )
+- **<u>Penguins: Emperor Penguins</u>**: Dhiman G, Kumar V (2018). “Emperor penguin optimizer: A bio-inspired algorithm for engineering problems.” _Knowledge-Based Systems_, *159*, 20-50. doi: [10.1016/j.knosys.2018.06.001 ](https://doi.org/10.1016/j.knosys.2018.06.001 )
 - **<u>Peral Hunting</u>**: Chan CY, Xue F, Ip WH, Cheung CF (2012). “A Hyper-Heuristic Inspired by Pearl Hunting.” In _Lecture Notes in Computer Science_, 349-353. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-34413-8_26 ](https://doi.org/10.1007/978-3-642-34413-8_26 )
 - **<u>Pigeons</u>**: Duan H, Qiao P (2014). “Pigeon-inspired optimization: a new swarm intelligence optimizer for air robot path planning.” _International Journal of Intelligent Computing and Cybernetics_, *7*(1), 24-37.
 - **<u>Plants: Plant Growth</u>**: Li J, Cui Z, Shi Z (2012). “An Improved Artificial Plant Optimization Algorithm for Coverage Problem in WSN.” _Sensor Letters_, *10*(8), 1874-1878. doi: [10.1166/sl.2012.2627 ](https://doi.org/10.1166/sl.2012.2627 )
@@ -229,6 +231,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Salmon Migrations</u>**: Mozaffari A, Fathi A, Behzadipour S (2012). “The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation.” _International Journal of Bio-Inspired Computation_, *4*(5), 286-301.
 - **<u>Salp Planktons</u>**: Mirjalili S, Gandomi AH, Mirjalili SZ, Saremi S, Faris H, Mirjalili SM (2017). “Salp Swarm Algorithm: A bio-inspired optimizer for engineering design problems.” _Advances in Engineering Software_, *114*, 163-191. doi: [10.1016/j.advengsoft.2017.07.002 ](https://doi.org/10.1016/j.advengsoft.2017.07.002 )
 - **<u>Scientific Method</u>**: Felipe D, Goldbarg EFG, Goldbarg MC (2014). “Scientific algorithms for the Car Renter Salesman Problem.” In _2014 IEEE Congress on Evolutionary Computation (CEC)_. doi: [10.1109/cec.2014.6900556 ](https://doi.org/10.1109/cec.2014.6900556 )
+- **<u>Seagulls</u>**: Dhiman G, Kumar V (2019). “Seagull optimization algorithm: Theory and its applications for large-scale industrial engineering problems.” _Knowledge-Based Systems_, *165*, 169-196. doi: [10.1016/j.knosys.2018.11.024 ](https://doi.org/10.1016/j.knosys.2018.11.024 )
 - **<u>See-See Partridges</u>**: Omidvar R, Parvin H, Rad F (2015). “SSPCO Optimization Algorithm (See-See Partridge Chicks Optimization).” In _2015 Fourteenth Mexican International Conference on Artificial Intelligence (MICAI)_. doi: [10.1109/micai.2015.22 ](https://doi.org/10.1109/micai.2015.22 )
 - **<u>Sharks</u>**: Abedinia O, Amjady N, Ghasemi A (2014). “A new metaheuristic algorithm based on shark smell optimization.” _Complexity_, *21*(5), 97-116. doi: [10.1002/cplx.21634 ](https://doi.org/10.1002/cplx.21634 )
 - **<u>Sheep Flocks</u>**: Kim H, Ahn B (2001). “A new evolutionary algorithm based on sheep flocks heredity model.” In _2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)_. doi: [10.1109/pacrim.2001.953683 ](https://doi.org/10.1109/pacrim.2001.953683 )
@@ -329,6 +332,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - James Brookhouse - University of Kent, England UK
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
+- Leandro Santos Coelho - UFPR, Brazil
 - Marc Sevaux - Université de Bretagne-Sud, France
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
