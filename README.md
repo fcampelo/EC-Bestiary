@@ -199,6 +199,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Locusts</u>**: Chen S (2009). “An Analysis of Locust Swarms on Large Scale Global Optimization Problems.” In _Artificial Life: Borrowing from Biology_, 211-220. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-10427-5_21 ](https://doi.org/10.1007/978-3-642-10427-5_21 )
 
 ### M
+- **<u>Marine Predators</u>**: Faramarzi A, Heidarinejad M, Mirjalili S, Gandomi AH (2020). “Marine Predators Algorithm: A nature-inspired metaheuristic.” _Expert Systems with Applications_, *152*, 113377. doi: [10.1016/j.eswa.2020.113377 ](https://doi.org/10.1016/j.eswa.2020.113377 )
 - **<u>Markets</u>**: Ghorbani N, Babaei E (2014). “Exchange market algorithm.” _Applied Soft Computing_, *19*, 177-187. doi: [10.1016/j.asoc.2014.02.006 ](https://doi.org/10.1016/j.asoc.2014.02.006 )
 - **<u>Mayflies</u>**: Zervoudakis K, Tsafarakis S (2020). “A mayfly optimization algorithm.” _Computers \& Industrial Engineering_, *145*, 106559. doi: [10.1016/j.cie.2020.106559 ](https://doi.org/10.1016/j.cie.2020.106559 )
 - **<u>Meerkats</u>**: Klein CE, dos Santos Coelho L (2018). “Meerkats-inspired Algorithm for Global Optimization Problems.” In _Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning_.
