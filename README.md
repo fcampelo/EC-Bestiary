@@ -74,7 +74,9 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Birds: Hitchcock Birds</u>**: Morais RG, Nedjah N, Mourelle LM (2019). “A novel metaheuristic inspired by Hitchcock birds' behavior for efficient optimization of large search spaces of high dimensionality.” _Soft Computing_, *24*(8), 5633-5655. doi: [10.1007/s00500-019-04102-3 ](https://doi.org/10.1007/s00500-019-04102-3 )
 - **<u>Bison</u>**: Kazikova A, Pluhacek M, Senkerik R, Viktorin A (2018). “Proposal of a New Swarm Optimization Method Inspired in Bison Behavior.” In _Recent Advances in Soft Computing_, 146-156. Springer International Publishing. doi: [10.1007/978-3-319-97888-8_13 ](https://doi.org/10.1007/978-3-319-97888-8_13 )
 - **<u>Black Holes</u>**: Hatamlou A (2013). “Black hole: A new heuristic optimization approach for data clustering.” _Information Sciences_, *222*, 175-184. doi: [10.1016/j.ins.2012.08.023 ](https://doi.org/10.1016/j.ins.2012.08.023 )
+- **<u>Black Widow</u>**: Hayyolalam V, Kazem AAP (2020). “Black Widow Optimization Algorithm: A novel meta-heuristic approach for solving engineering optimization problems.” _Engineering Applications of Artificial Intelligence_, *87*, 103249. doi: [10.1016/j.engappai.2019.103249 ](https://doi.org/10.1016/j.engappai.2019.103249 )
 - **<u>Blind Naked Mole Rats</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). “A robust clustering method based on blind, naked mole-rats (BNMR) algorithm.” _Swarm and Evolutionary Computation_, *10*, 1-11. doi: [10.1016/j.swevo.2013.01.001 ](https://doi.org/10.1016/j.swevo.2013.01.001 )
+- **<u>Bonobos</u>**: Das AK, Nikum AK, Krishnan SV, Pratihar DK (2020). “Multi-objective Bonobo Optimizer (MOBO): an intelligent heuristic for multi-criteria optimization.” _Knowledge and Information Systems_, *62*(11), 4407-4444. doi: [10.1007/s10115-020-01503-x ](https://doi.org/10.1007/s10115-020-01503-x )
 - **<u>Brainstorming</u>**: Shi Y (2011). “An Optimization Algorithm Based on Brainstorming Process.” _International Journal of Swarm Intelligence Research_, *2*(4), 35-62. doi: [10.4018/ijsir.2011100103 ](https://doi.org/10.4018/ijsir.2011100103 )
 - **<u>BrunsVigia Flower</u>**: Ghaemidizaji M, Dadkhah C, Leung H (2018). “A New Optimization Algorithm Based on the Behavior of BrunsVigia Flower.” In _2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_. doi: [10.1109/smc.2018.00055 ](https://doi.org/10.1109/smc.2018.00055 )
 - **<u>Buses</u>**: Bodaghi M, Samieefar K (2018). “Meta-heuristic bus transportation algorithm.” _Iran Journal of Computer Science_. doi: [10.1007/s42044-018-0025-2 ](https://doi.org/10.1007/s42044-018-0025-2 )
@@ -98,6 +100,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Community of scientists</u>**: Alfredo M, Valentino S (2012). “Community of scientist optimization: An autonomy oriented approach to distributed optimization.” _AI Communications_, *25*(2), 157–172. ISSN 0921-7126, doi: [10.3233/AIC-2012-0526 ](https://doi.org/10.3233/AIC-2012-0526 )
 - **<u>Consultants</u>**: Iordache S (2010). “Consultant-guided search.” In _Proceedings of the 12th annual conference on Genetic and evolutionary computation - GECCO \textquotesingle10_. doi: [10.1145/1830483.1830526 ](https://doi.org/10.1145/1830483.1830526 )
 - **<u>Coral Reefs</u>**: Salcedo-Sanz S, Ser JD, Landa-Torres I, Gil-López S, Portilla-Figueras JA (2014). “The Coral Reefs Optimization Algorithm: A Novel Metaheuristic for Efficiently Solving Optimization Problems.” _The Scientific World Journal_, *2014*, 1-15. doi: [10.1155/2014/739768 ](https://doi.org/10.1155/2014/739768 )
+- **<u>COVID19</u>**: Hosseini E, Ghafoor KZ, Sadiq AS, Guizani M, Emrouznejad A (2020). “COVID-19 Optimizer Algorithm, Modeling and Controlling of Coronavirus Distribution Process.” _IEEE Journal of Biomedical and Health Informatics_, *24*(10), 2765-2775. doi: [10.1109/jbhi.2020.3012487 ](https://doi.org/10.1109/jbhi.2020.3012487 )
 - **<u>Coyotes</u>**: Pierezan J, Coelho LDS (2018). “Coyote Optimization Algorithm: A New Metaheuristic for Global Optimization Problems.” In _2018 IEEE Congress on Evolutionary Computation (CEC)_, 1-8. IEEE.
 - **<u>Crows</u>**: Askarzadeh A (2016). “A novel metaheuristic method for solving constrained engineering optimization problems: Crow search algorithm.” _Computers \& Structures_, *169*, 1-12. doi: [10.1016/j.compstruc.2016.03.001 ](https://doi.org/10.1016/j.compstruc.2016.03.001 )
 - **<u>Crows: Chaotic</u>**: Rizk-Allah RM, Hassanien AE, Bhattacharyya S (2018). “Chaotic crow search algorithm for fractional optimization problems.” _Applied Soft Computing_, *71*, 1161-1175. doi: [10.1016/j.asoc.2018.03.019 ](https://doi.org/10.1016/j.asoc.2018.03.019 )
@@ -223,6 +226,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### O
 - **<u>Optics</u>**: Kashan AH (2015). “A new metaheuristic for optimization: Optics inspired optimization (OIO).” _Computers \& Operations Research_, *55*, 99-125. doi: [10.1016/j.cor.2014.10.011 ](https://doi.org/10.1016/j.cor.2014.10.011 )
+- **<u>Owls</u>**: de Vasconcelos Segundo EH, Mariani VC, dos Santos Coelho L (2019). “Metaheuristic inspired on owls behavior applied to heat exchangers design.” _Thermal Science and Engineering Progress_, *14*, 100431. doi: [10.1016/j.tsep.2019.100431 ](https://doi.org/10.1016/j.tsep.2019.100431 )
 
 ### P
 - **<u>Paddy Fields</u>**: Premaratne U, Samarabandu J, Sidhu T (2009). “A new biologically inspired optimization algorithm.” In _2009 International Conference on Industrial and Information Systems (ICIIS)_. doi: [10.1109/iciinfs.2009.5429852 ](https://doi.org/10.1109/iciinfs.2009.5429852 )
@@ -248,6 +252,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Rays of Light</u>**: Kaveh A, Khayatazad M (2012). “A new meta-heuristic method: Ray Optimization.” _Computers \& Structures_, *112-113*, 283-294. doi: [10.1016/j.compstruc.2012.09.003 ](https://doi.org/10.1016/j.compstruc.2012.09.003 )
 - **<u>Reincarnation</u>**: Sharma A (2010). “A new optimizing algorithm using reincarnation concept.” In _2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)_. doi: [10.1109/cinti.2010.5672231 ](https://doi.org/10.1109/cinti.2010.5672231 )
 - **<u>Rhinoceros</u>**: Wang G, Gao X, Zenger K, Coelho LdS (2016). “A novel metaheuristic algorithm inspired by rhino herd behavior.” In _Proceedings of The 9th EUROSIM Congress on Modelling and Simulation, EUROSIM 2016, The 57th SIMS Conference on Simulation and Modelling SIMS 2016_, number 142, 1026-1033. Linköping University Electronic Press.
+- **<u>Rice: Hybrid</u>**: Ye Z, Ma L, Chen H (2016). “A hybrid rice optimization algorithm.” In _2016 11th International Conference on Computer Science \& Education (ICCSE)_. doi: [10.1109/iccse.2016.7581575 ](https://doi.org/10.1109/iccse.2016.7581575 )
 - **<u>River Formation</u>**: Rabanal P, Rodr\'\iguez I, Rubio F (2007). “Using River Formation Dynamics to Design Heuristic Algorithms.” In _Lecture Notes in Computer Science_, 163-177. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-73554-0_16 ](https://doi.org/10.1007/978-3-540-73554-0_16 )
 - **<u>Roach Infestations</u>**: Havens TC, Spain CJ, Salmon NG, Keller JM (2008). “Roach Infestation Optimization.” In _2008 IEEE Swarm Intelligence Symposium_. doi: [10.1109/sis.2008.4668317 ](https://doi.org/10.1109/sis.2008.4668317 )
 - **<u>Roots</u>**: Merrikh-Bayat F (2015). “The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature.” _Applied Soft Computing_, *33*, 292-303. doi: [10.1016/j.asoc.2015.04.048 ](https://doi.org/10.1016/j.asoc.2015.04.048 )
@@ -274,6 +279,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Social Behavior: Queuing</u>**: Zhang J, Xiao M, Gao L, Pan Q (2018). “Queuing search algorithm: A novel metaheuristic algorithm for solving engineering optimization problems.” _Applied Mathematical Modelling_, *63*, 464-490.
 - **<u>Social Behavior: Seeking</u>**: Dai C, Chen W, Zhu Y (2010). “Seeker Optimization Algorithm for Digital IIR Filter Design.” _IEEE Transactions on Industrial Electronics_, *57*(5), 1710-1718. doi: [10.1109/tie.2009.2031194 ](https://doi.org/10.1109/tie.2009.2031194 )
 - **<u>Social Behavior: Thieves and Police</u>**: Bagheri H, Ara AL, Hosseini R (2019). “Thieves and Police, a New Optimization Algorithm: Theory and Application in Probabilistic Power Flow.” _IETE Journal of Research_, 1-18. doi: [10.1080/03772063.2019.1672586 ](https://doi.org/10.1080/03772063.2019.1672586 )
+- **<u>Social Behavior: Urbanization</u>**: Ghasemian H, Ghasemian F, Vahdat-Nejad H (2020). “Human urbanization algorithm: A novel metaheuristic approach.” _Mathematics and Computers in Simulation_, *178*, 1-15. doi: [10.1016/j.matcom.2020.05.023 ](https://doi.org/10.1016/j.matcom.2020.05.023 )
 - **<u>Social Engineering</u>**: Fard AMF, Hajiaghaei-Keshteli M (2017). “Social Engineering Optimization (SEO); A New Single-Solution Meta-heuristic Inspired by Social Engineering.” In _International Conference on Industrial Engineering_.
 - **<u>Social Spiders</u>**: Cuevas E, Cienfuegos M, Zald\'\ivar D, Pérez-Cisneros M (2013). “A swarm optimization algorithm inspired in the behavior of the social-spider.” _Expert Systems with Applications_, *40*(16), 6374-6384. doi: [10.1016/j.eswa.2013.05.041 ](https://doi.org/10.1016/j.eswa.2013.05.041 )
 - **<u>Sonar</u>**: Tzanetos A, Dounias G (2017). “A New Metaheuristic Method for Optimization: Sonar Inspired Optimization.” In Boracchi G, Iliadis L, Jayne C, Likas A (eds.), _Engineering Applications of Neural Networks_, 417-428. ISBN 978-3-319-65172-9.
@@ -367,8 +373,11 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Jakub Grabski - Poznan University of Technology, Poland
 - James Brookhouse - University of Kent, England UK
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
+- Joao Duro - University of Sheffield, England UK
+- Joaquin A. Pacheco - University of Burgos, Spain
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Konstantinos Zervoudakis - Technical University of Crete, Greece
+- Koen van der Blom - Leiden University, Netherlands
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
 - Marc Sevaux - Université de Bretagne-Sud, France

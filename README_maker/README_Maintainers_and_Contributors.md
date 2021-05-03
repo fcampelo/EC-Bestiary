@@ -26,8 +26,11 @@
 - Jakub Grabski - Poznan University of Technology, Poland
 - James Brookhouse - University of Kent, England UK
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
+- Joao Duro - University of Sheffield, England UK
+- Joaquin A. Pacheco - University of Burgos, Spain
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Konstantinos Zervoudakis - Technical University of Crete, Greece
+- Koen van der Blom - Leiden University, Netherlands
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
 - Marc Sevaux - Université de Bretagne-Sud, France
