@@ -150,6 +150,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Flower Pollination</u>**: Yang X (2012). “Flower Pollination Algorithm for Global Optimization.” In _Unconventional Computation and Natural Computation_, 240-249. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-32894-7_27 ](https://doi.org/10.1007/978-3-642-32894-7_27 )
 - **<u>Forests: Forest Regeneration</u>**: Moez H, Kaveh A, Taghizadieh N (2016). “Natural Forest Regeneration Algorithm: A New Meta-Heuristic.” _Iranian Journal of Science and Technology, Transactions of Civil Engineering_, *40*(4), 311-326. doi: [10.1007/s40996-016-0042-z ](https://doi.org/10.1007/s40996-016-0042-z )
 - **<u>Forests: Tree Survival</u>**: Ghaemi M, Feizi-Derakhshi M (2014). “Forest Optimization Algorithm.” _Expert Systems with Applications_, *41*(15), 6676-6687. doi: [10.1016/j.eswa.2014.05.009 ](https://doi.org/10.1016/j.eswa.2014.05.009 )
+- **<u>Fox: Red Fox</u>**: Połap D, Woźniak M (2021). “Red fox optimization algorithm.” _Expert Systems with Applications_, *166*, 114107. doi: [10.1016/j.eswa.2020.114107 ](https://doi.org/10.1016/j.eswa.2020.114107 )
 - **<u>Fractals</u>**: Salimi H (2015). “Stochastic Fractal Search: A powerful metaheuristic algorithm.” _Knowledge-Based Systems_, *75*, 1-18. doi: [10.1016/j.knosys.2014.07.025 ](https://doi.org/10.1016/j.knosys.2014.07.025 )
 - **<u>Frogs: Japanese Tree Frogs</u>**: Hernández H, Blum C (2012). “Distributed graph coloring: an approach based on the calling behavior of Japanese tree frogs.” _Swarm Intelligence_, *6*(2), 117-150. doi: [10.1007/s11721-012-0067-2 ](https://doi.org/10.1007/s11721-012-0067-2 )
 - **<u>Frogs: Leaping</u>**: Eusuff MM, Lansey KE (2003). “Optimization of Water Distribution Network Design Using the Shuffled Frog Leaping Algorithm.” _Journal of Water Resources Planning and Management_, *129*(3), 210-225. doi: 10.1061/(asce)0733-9496(2003)129:3(210) 
@@ -243,6 +244,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Plants: Plant Intelligence</u>**: Akyol S, Alatas B (2016). “Plant intelligence based metaheuristic optimization algorithms.” _Artificial Intelligence Review_, *47*(4), 417-462. doi: [10.1007/s10462-016-9486-6 ](https://doi.org/10.1007/s10462-016-9486-6 )
 - **<u>Plants: Plant Propagation</u>**: Sulaiman M, Salhi A, Selamoglu BI, Kirikchi OB (2014). “A Plant Propagation Algorithm for Constrained Engineering Optimisation Problems.” _Mathematical Problems in Engineering_, *2014*, 1-10. doi: [10.1155/2014/627416 ](https://doi.org/10.1155/2014/627416 )
 - **<u>Plants: Sapling Growth</u>**: Karci A, Alatas B (2006). “Thinking capability of saplings growing up algorithm.” In _International Conference on Intelligent Data Engineering and Automated Learning_, 386-393. Springer.
+- **<u>Polar Bears</u>**: Połap D, Woz\textasciiacuteniak M (2017). “Polar Bear Optimization Algorithm: Meta-Heuristic with Fast Population Movement and Dynamic Birth and Death Mechanism.” _Symmetry_, *9*(10), 203. doi: [10.3390/sym9100203 ](https://doi.org/10.3390/sym9100203 )
 - **<u>Politics: Imperialism</u>**: Atashpaz-Gargari E, Lucas C (2007). “Imperialist competitive algorithm: An algorithm for optimization inspired by imperialistic competition.” In _2007 IEEE Congress on Evolutionary Computation_. doi: [10.1109/cec.2007.4425083 ](https://doi.org/10.1109/cec.2007.4425083 )
 - **<u>Politics: Parliamentarist Elections</u>**: Borji A (2007). “A New Global Optimization Algorithm Inspired by Parliamentary Political Competitions.” In _MICAI 2007: Advances in Artificial Intelligence_, 61-71. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-76631-5_7 ](https://doi.org/10.1007/978-3-540-76631-5_7 )
 - **<u>Politics: Presidential Elections</u>**: Emami H, Derakhshan F (2015). “Election algorithm: A new socio-politically inspired strategy.” _AI Communications_, *28*(3), 591–603. ISSN 18758452, 09217126, doi: [10.3233/AIC-140652 ](https://doi.org/10.3233/AIC-140652 )
@@ -390,6 +392,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
+- Michał Okulewicz - Politechnika Warszawska, Poland
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Nguyen Tri Hai - Chung-Ang University, South Korea
 - Paul Rubin - Michigan State University, USA

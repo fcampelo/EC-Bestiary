@@ -37,6 +37,7 @@
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
+- Michał Okulewicz - Politechnika Warszawska, Poland
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Nguyen Tri Hai - Chung-Ang University, South Korea
 - Paul Rubin - Michigan State University, USA
