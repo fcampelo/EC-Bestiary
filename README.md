@@ -162,6 +162,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Herds: Selfish</u>**: Fausto F, Cuevas E, Valdivia A, González A (2017). “A global optimization algorithm inspired in the behavior of selfish herds.” _Biosystems_, *160*, 39-55. doi: [10.1016/j.biosystems.2017.07.010 ](https://doi.org/10.1016/j.biosystems.2017.07.010 )
 - **<u>Hoopoe</u>**: El-Dosuky M, El-Bassiouny A, Hamza T, Rashad M (2012). “New Hoopoe Heuristic Optimization.” _International Journal of Science and Advanced Technology_, *2*(9), 85-90.
 - **<u>Hormones</u>**: Zheng K, Tang D, Giret A, Salido MA, Sang Z (2016). “A hormone regulation\textendashbased approach for distributed and on-line scheduling of machines and automated guided vehicles.” _Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture_, *232*(1), 99-113. doi: [10.1177/0954405416662078 ](https://doi.org/10.1177/0954405416662078 )
+- **<u>Humans: Life Choices</u>**: Khatri A, Gaba A, Rana KPS, Kumar V (2019). “A novel life choice-based optimizer.” _Soft Computing_, *24*(12), 9121-9141. doi: [10.1007/s00500-019-04443-z ](https://doi.org/10.1007/s00500-019-04443-z )
 - **<u>Hyenas</u>**: Dhiman G, Kumar V (2017). “Spotted hyena optimizer: A novel bio-inspired based metaheuristic technique for engineering applications.” _Advances in Engineering Software_, *114*, 48-70. doi: [10.1016/j.advengsoft.2017.05.014 ](https://doi.org/10.1016/j.advengsoft.2017.05.014 )
 
 ### I
