@@ -61,6 +61,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Bacteria: Magnetotactic Bacteria</u>**: Mo H, Xu L (2013). “Magnetotactic bacteria optimization algorithm for multimodal optimization.” In _2013 IEEE Symposium on Swarm Intelligence (SIS)_. doi: [10.1109/sis.2013.6615185 ](https://doi.org/10.1109/sis.2013.6615185 )
 - **<u>Barnacles Mating</u>**: Sulaiman MH, Mustaffa Z, Saari MM, Daniyal H, Mohamad AJ, Othman MR, Mohamed MR (2019). “Barnacles Mating Optimizer Algorithm for Optimization.” In _Proceedings of the 10th National Technical Seminar on Underwater System Technology 2018_, 211-218. Springer Singapore. doi: [10.1007/978-981-13-3708-6_18 ](https://doi.org/10.1007/978-981-13-3708-6_18 )
 - **<u>Bats</u>**: Yang X (2010). “A new metaheuristic bat-inspired algorithm.” In _Nature inspired cooperative strategies for optimization (NICSO 2010)_, 65-74. Springer.
+- **<u>Battle Royale Game</u>**: Farshi TR (2020). “Battle royale optimization algorithm.” _Neural Computing and Applications_, *33*(4), 1139-1157. doi: [10.1007/s00521-020-05004-4 ](https://doi.org/10.1007/s00521-020-05004-4 )
 - **<u>Bees: Bee Colonies</u>**: Teodorovic D, Lucic P, Markovic G, Orco MD (2006). “Bee Colony Optimization: Principles and Applications.” In _2006 8th Seminar on Neural Network Applications in Electrical Engineering_. doi: [10.1109/neurel.2006.341200 ](https://doi.org/10.1109/neurel.2006.341200 )
 - **<u>Bees: Bumblebees</u>**: Comellas F, Martinez-Navarro J (2009). “Bumblebees.” In _Proceedings of the first ACM/SIGEVO Summit on Genetic and Evolutionary Computation - GEC \textquotesingle09_. doi: [10.1145/1543834.1543949 ](https://doi.org/10.1145/1543834.1543949 )
 - **<u>Bees: Honey Bee Marriages</u>**: Abbass H (2001). “MBO: marriage in honey bees optimization-a Haplometrosis polygynous swarming approach.” In _Proceedings of the 2001 Congress on Evolutionary Computation (IEEE Cat. No.01TH8546)_. doi: [10.1109/cec.2001.934391 ](https://doi.org/10.1109/cec.2001.934391 )
@@ -378,6 +379,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Sara Silva - University of Lisbon
 - Sander - Leiden University, Netherlands
+- senorramirez
 - Sergio A. Rojas - Universidad Distrital de Bogotá, Colombia
 - Silvano Martello - University of Bologna, Italy
 - Stefan Voß - Universität Hamburg, Germany
