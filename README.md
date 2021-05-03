@@ -220,6 +220,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Plants: Sapling Growth</u>**: Karci A, Alatas B (2006). “Thinking capability of saplings growing up algorithm.” In _International Conference on Intelligent Data Engineering and Automated Learning_, 386-393. Springer.
 - **<u>Politics: Imperialism</u>**: Atashpaz-Gargari E, Lucas C (2007). “Imperialist competitive algorithm: An algorithm for optimization inspired by imperialistic competition.” In _2007 IEEE Congress on Evolutionary Computation_. doi: [10.1109/cec.2007.4425083 ](https://doi.org/10.1109/cec.2007.4425083 )
 - **<u>Politics: Parliamentarist Elections</u>**: Borji A (2007). “A New Global Optimization Algorithm Inspired by Parliamentary Political Competitions.” In _MICAI 2007: Advances in Artificial Intelligence_, 61-71. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-76631-5_7 ](https://doi.org/10.1007/978-3-540-76631-5_7 )
+- **<u>Politics: Presidential Elections</u>**: Emami H, Derakhshan F (2015). “Election algorithm: A new socio-politically inspired strategy.” _AI Communications_, *28*(3), 591–603. ISSN 18758452, 09217126, doi: [10.3233/AIC-140652 ](https://doi.org/10.3233/AIC-140652 )
 - **<u>Politics: Strategies</u>**: Melvix JL (2014). “Greedy Politics Optimization: Metaheuristic inspired by political strategies adopted during state assembly elections.” In _2014 IEEE International Advance Computing Conference (IACC)_. doi: [10.1109/iadcc.2014.6779490 ](https://doi.org/10.1109/iadcc.2014.6779490 )
 
 ### Q
@@ -340,6 +341,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
 - James Brookhouse - University of Kent, England UK
+- Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
