@@ -9,6 +9,7 @@
 
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
+- Anand Subramanian - UFPB, Brazil
 - André Maravilha - UFMG, Brazil
 - Carlos Fonseca - University of Coimbra, Portugal
 - Ciniro Nametala - UFMG, Brazil
