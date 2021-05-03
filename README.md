@@ -115,6 +115,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Ecogeography</u>**: Zheng Y, Ling H, Xue J (2014). “Ecogeography-based optimization: Enhancing biogeography-based optimization with ecogeographic barriers and differentiations.” _Computers \& Operations Research_, *50*, 115-127. doi: [10.1016/j.cor.2014.04.013 ](https://doi.org/10.1016/j.cor.2014.04.013 )
 - **<u>Ecology</u>**: Parpinelli RS, Lopes HS (2011). “An eco-inspired evolutionary algorithm applied to numerical optimization.” In _2011 Third World Congress on Nature and Biologically Inspired Computing_. doi: [10.1109/nabic.2011.6089631 ](https://doi.org/10.1109/nabic.2011.6089631 )
 - **<u>Electromagnetism</u>**: Cuevas E, Oliva D, Zaldivar D, Pérez-Cisneros M, Sossa H (2012). “Circle detection using electro-magnetism optimization.” _Information Sciences_, *182*(1), 40-55. doi: [10.1016/j.ins.2010.12.024 ](https://doi.org/10.1016/j.ins.2010.12.024 )
+- **<u>Electron discharge</u>**: Rahmanzadeh S, Pishvaee MS (2019). “Electron radar search algorithm: a novel developed meta-heuristic algorithm.” _Soft Computing_, *24*(11), 8443-8465. doi: [10.1007/s00500-019-04410-8 ](https://doi.org/10.1007/s00500-019-04410-8 )
 - **<u>Elephants: Elephant Herds</u>**: Wang G, Deb S, dos S. Coelho L (2015). “Elephant Herding Optimization.” In _2015 3rd International Symposium on Computational and Business Intelligence (ISCBI)_. doi: [10.1109/iscbi.2015.8 ](https://doi.org/10.1109/iscbi.2015.8 )
 - **<u>Elephants: Regular Elephants</u>**: Deb S, Fong S, Tian Z (2015). “Elephant Search Algorithm for optimization problems.” In _2015 Tenth International Conference on Digital Information Management (ICDIM)_. doi: [10.1109/icdim.2015.7381893 ](https://doi.org/10.1109/icdim.2015.7381893 )
 - **<u>Emotions</u>**: Xu Y, Cui Z, Zeng J (2010). “Social Emotional Optimization Algorithm for Nonlinear Constrained Optimization Problems.” In _Swarm, Evolutionary, and Memetic Computing_, 583-590. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-17563-3_68 ](https://doi.org/10.1007/978-3-642-17563-3_68 )
@@ -211,6 +212,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Penguins: Emperor Penguins</u>**: Dhiman G, Kumar V (2018). “Emperor penguin optimizer: A bio-inspired algorithm for engineering problems.” _Knowledge-Based Systems_, *159*, 20-50. doi: [10.1016/j.knosys.2018.06.001 ](https://doi.org/10.1016/j.knosys.2018.06.001 )
 - **<u>Peral Hunting</u>**: Chan CY, Xue F, Ip WH, Cheung CF (2012). “A Hyper-Heuristic Inspired by Pearl Hunting.” In _Lecture Notes in Computer Science_, 349-353. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-34413-8_26 ](https://doi.org/10.1007/978-3-642-34413-8_26 )
 - **<u>Pigeons</u>**: Duan H, Qiao P (2014). “Pigeon-inspired optimization: a new swarm intelligence optimizer for air robot path planning.” _International Journal of Intelligent Computing and Cybernetics_, *7*(1), 24-37.
+- **<u>Pigeons: Feeding</u>**: Lamy J (2018). “Artificial Feeding Birds (AFB): A New Metaheuristic Inspired by the Behavior of Pigeons.” In _Advances in Nature-Inspired Computing and Applications_, 43-60. Springer International Publishing. doi: [10.1007/978-3-319-96451-5_3 ](https://doi.org/10.1007/978-3-319-96451-5_3 )
 - **<u>Plants: Plant Growth</u>**: Li J, Cui Z, Shi Z (2012). “An Improved Artificial Plant Optimization Algorithm for Coverage Problem in WSN.” _Sensor Letters_, *10*(8), 1874-1878. doi: [10.1166/sl.2012.2627 ](https://doi.org/10.1166/sl.2012.2627 )
 - **<u>Plants: Plant Intelligence</u>**: Akyol S, Alatas B (2016). “Plant intelligence based metaheuristic optimization algorithms.” _Artificial Intelligence Review_, *47*(4), 417-462. doi: [10.1007/s10462-016-9486-6 ](https://doi.org/10.1007/s10462-016-9486-6 )
 - **<u>Plants: Plant Propagation</u>**: Sulaiman M, Salhi A, Selamoglu BI, Kirikchi OB (2014). “A Plant Propagation Algorithm for Constrained Engineering Optimisation Problems.” _Mathematical Problems in Engineering_, *2014*, 1-10. doi: [10.1155/2014/627416 ](https://doi.org/10.1155/2014/627416 )
@@ -321,6 +323,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
+- Anand Subramanian - UFPB, Brazil
 - André Maravilha - UFMG, Brazil
 - Carlos Fonseca - University of Coimbra, Portugal
 - Ciniro Nametala - UFMG, Brazil
