@@ -50,6 +50,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Ant Colony</u>**: Maniezzo A (1992). “Distributed optimization by ant colonies.” In _Toward a Practice of Autonomous Systems: Proceedings of the First European Conference on Artificial Life_, 134. Mit Press.
 - **<u>Ant Lion</u>**: Mirjalili S (2015). “The Ant Lion Optimizer.” _Advances in Engineering Software_, *83*, 80-98. doi: [10.1016/j.advengsoft.2015.01.010 ](https://doi.org/10.1016/j.advengsoft.2015.01.010 )
 - **<u>Antibodies</u>**: De Castro LN, Von Zuben FJ (2000). “The clonal selection algorithm with engineering applications.” In _Proceedings of GECCO_, volume 2000, 36-39.
+- **<u>Artillery</u>**: Pijarski P, Kacejko P (2019). “A new metaheuristic optimization method: the algorithm of the innovative gunner (AIG).” _Engineering Optimization_, *51*(12), 2049-2068. doi: [10.1080/0305215x.2019.1565282 ](https://doi.org/10.1080/0305215x.2019.1565282 )
 
 ### B
 - **<u>Bachelors</u>**: Hu TC, Kahng AB, Tsao CA (1995). “Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods.” _ORSA Journal on Computing_, *7*(4), 417-425. doi: [10.1287/ijoc.7.4.417 ](https://doi.org/10.1287/ijoc.7.4.417 )
