@@ -73,6 +73,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Black Holes</u>**: Hatamlou A (2013). “Black hole: A new heuristic optimization approach for data clustering.” _Information Sciences_, *222*, 175-184. doi: [10.1016/j.ins.2012.08.023 ](https://doi.org/10.1016/j.ins.2012.08.023 )
 - **<u>Blind Naked Mole Rats</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). “A robust clustering method based on blind, naked mole-rats (BNMR) algorithm.” _Swarm and Evolutionary Computation_, *10*, 1-11. doi: [10.1016/j.swevo.2013.01.001 ](https://doi.org/10.1016/j.swevo.2013.01.001 )
 - **<u>Brainstorming</u>**: Shi Y (2011). “An Optimization Algorithm Based on Brainstorming Process.” _International Journal of Swarm Intelligence Research_, *2*(4), 35-62. doi: [10.4018/ijsir.2011100103 ](https://doi.org/10.4018/ijsir.2011100103 )
+- **<u>BrunsVigia Flower</u>**: Ghaemidizaji M, Dadkhah C, Leung H (2018). “A New Optimization Algorithm Based on the Behavior of BrunsVigia Flower.” In _2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_. doi: [10.1109/smc.2018.00055 ](https://doi.org/10.1109/smc.2018.00055 )
 - **<u>Buses</u>**: Bodaghi M, Samieefar K (2018). “Meta-heuristic bus transportation algorithm.” _Iran Journal of Computer Science_. doi: [10.1007/s42044-018-0025-2 ](https://doi.org/10.1007/s42044-018-0025-2 )
 - **<u>Butterflies: Monarch Butterflies</u>**: Wang G, Deb S, Cui Z (2015). “Monarch butterfly optimization.” _Neural Computing and Applications_. doi: [10.1007/s00521-015-1923-y ](https://doi.org/10.1007/s00521-015-1923-y )
 - **<u>Butterflies: Regular Butterflies</u>**: Arora S, Singh S (2018). “Butterfly optimization algorithm: a novel approach for global optimization.” _Soft Computing_. doi: [10.1007/s00500-018-3102-4 ](https://doi.org/10.1007/s00500-018-3102-4 )
@@ -352,6 +353,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
 - Tushar Semwal - IIT Guwahati, India
+- Yuri Lavinas - University of Tsukuba, Brazil
 
 ***
 

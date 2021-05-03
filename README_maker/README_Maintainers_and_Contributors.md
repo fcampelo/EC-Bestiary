@@ -42,3 +42,4 @@
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
 - Tushar Semwal - IIT Guwahati, India
+- Yuri Lavinas - University of Tsukuba, Brazil
