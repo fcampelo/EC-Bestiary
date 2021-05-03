@@ -251,6 +251,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Sharks</u>**: Abedinia O, Amjady N, Ghasemi A (2014). “A new metaheuristic algorithm based on shark smell optimization.” _Complexity_, *21*(5), 97-116. doi: [10.1002/cplx.21634 ](https://doi.org/10.1002/cplx.21634 )
 - **<u>Sheep Flocks</u>**: Kim H, Ahn B (2001). “A new evolutionary algorithm based on sheep flocks heredity model.” In _2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)_. doi: [10.1109/pacrim.2001.953683 ](https://doi.org/10.1109/pacrim.2001.953683 )
 - **<u>Sine Waves</u>**: Tanyildizi E, Demir G (2017). “Golden sine algorithm: a novel math-inspired algorithm.” _Advances in Electrical and Computer Engineering_, *17*(2), 71-79.
+- **<u>Slime Mold</u>**: Monismith DR, Mayfield BE (2008). “Slime Mold as a model for numerical optimization.” In _2008 IEEE Swarm Intelligence Symposium_. doi: [10.1109/sis.2008.4668295 ](https://doi.org/10.1109/sis.2008.4668295 )
 - **<u>Small World</u>**: Du H, Wu X, Zhuang J (2006). “Small-World Optimization Algorithm for Function Optimization.” In _Lecture Notes in Computer Science_, 264-273. Springer Berlin Heidelberg. doi: [10.1007/11881223_33 ](https://doi.org/10.1007/11881223_33 )
 - **<u>Soccer: League</u>**: Moosavian N, Roodsari BK (2014). “Soccer League Competition Algorithm, a New Method for Solving Systems of Nonlinear Equations.” _International Journal of Intelligence Science_, *04*(01), 7-16. doi: [10.4236/ijis.2014.41002 ](https://doi.org/10.4236/ijis.2014.41002 )
 - **<u>Soccer: Soccer Games</u>**: Purnomo HD, Wee H (2013). “Soccer Game Optimization.” In _Meta-Heuristics Optimization Algorithms in Engineering, Business, Economics, and Finance_, 386-420. IGI Global. doi: [10.4018/978-1-4666-2086-5.ch013 ](https://doi.org/10.4018/978-1-4666-2086-5.ch013 )
@@ -358,13 +359,14 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
 - Nadarajen Veerapen - University of Stirling, Scotland UK
+- Paul Rubin - Michigan State University, USA
 - Robin Purshouse - University of Sheffield, England UK
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Sara Silva - University of Lisbon
 - Sander - Leiden University, Netherlands
 - Sergio A. Rojas - Universidad Distrital de Bogotá, Colombia
-- Silvano Martello - University of Bologna
+- Silvano Martello - University of Bologna, Italy
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium

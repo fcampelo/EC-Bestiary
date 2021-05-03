@@ -34,13 +34,14 @@
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
 - Nadarajen Veerapen - University of Stirling, Scotland UK
+- Paul Rubin - Michigan State University, USA
 - Robin Purshouse - University of Sheffield, England UK
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Sara Silva - University of Lisbon
 - Sander - Leiden University, Netherlands
 - Sergio A. Rojas - Universidad Distrital de Bogotá, Colombia
-- Silvano Martello - University of Bologna
+- Silvano Martello - University of Bologna, Italy
 - Stefan Voß - Universität Hamburg, Germany
 - Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
 - Thomas Stützle - Université Libre de Bruxelles, Belgium
