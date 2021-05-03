@@ -78,6 +78,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Buses</u>**: Bodaghi M, Samieefar K (2018). “Meta-heuristic bus transportation algorithm.” _Iran Journal of Computer Science_. doi: [10.1007/s42044-018-0025-2 ](https://doi.org/10.1007/s42044-018-0025-2 )
 - **<u>Butterflies: Monarch Butterflies</u>**: Wang G, Deb S, Cui Z (2015). “Monarch butterfly optimization.” _Neural Computing and Applications_. doi: [10.1007/s00521-015-1923-y ](https://doi.org/10.1007/s00521-015-1923-y )
 - **<u>Butterflies: Regular Butterflies</u>**: Arora S, Singh S (2018). “Butterfly optimization algorithm: a novel approach for global optimization.” _Soft Computing_. doi: [10.1007/s00500-018-3102-4 ](https://doi.org/10.1007/s00500-018-3102-4 )
+- **<u>Buzzards</u>**: Arshaghi A, Ashourian M, Ghabeli L (2019). “Buzzard Optimization Algorithm: A Nature-Inspired Metaheuristic Algorithm.” _Majlesi Journal of Electrical Engineering_, *13*(3), 83-98. <URL: http://mjee.iaumajlesi.ac.ir/index/index.php/ee/article/view/3363>.
 
 ### C
 - **<u>Camels</u>**: M. K. Ibrahim RSA (2016). “Novel Optimization Algorithm Inspired by Camel Traveling Behavior.” _Iraq J. Electrical and Electronic Engineering_, *12*(2), 167-177. ISSN 18145892, <URL: https://www.iasj.net/iasj?func=article&aId=118375>.
@@ -97,6 +98,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Coral Reefs</u>**: Salcedo-Sanz S, Ser JD, Landa-Torres I, Gil-López S, Portilla-Figueras JA (2014). “The Coral Reefs Optimization Algorithm: A Novel Metaheuristic for Efficiently Solving Optimization Problems.” _The Scientific World Journal_, *2014*, 1-15. doi: [10.1155/2014/739768 ](https://doi.org/10.1155/2014/739768 )
 - **<u>Coyotes</u>**: Pierezan J, Coelho LDS (2018). “Coyote Optimization Algorithm: A New Metaheuristic for Global Optimization Problems.” In _2018 IEEE Congress on Evolutionary Computation (CEC)_, 1-8. IEEE.
 - **<u>Crows</u>**: Askarzadeh A (2016). “A novel metaheuristic method for solving constrained engineering optimization problems: Crow search algorithm.” _Computers \& Structures_, *169*, 1-12. doi: [10.1016/j.compstruc.2016.03.001 ](https://doi.org/10.1016/j.compstruc.2016.03.001 )
+- **<u>Crows: Chaotic</u>**: Rizk-Allah RM, Hassanien AE, Bhattacharyya S (2018). “Chaotic crow search algorithm for fractional optimization problems.” _Applied Soft Computing_, *71*, 1161-1175. doi: [10.1016/j.asoc.2018.03.019 ](https://doi.org/10.1016/j.asoc.2018.03.019 )
 - **<u>Crystal Energy</u>**: Feng X, Ma M, Yu H (2014). “Crystal Energy Optimization Algorithm.” _Computational Intelligence_, *32*(2), 284-322. doi: [10.1111/coin.12053 ](https://doi.org/10.1111/coin.12053 )
 - **<u>Cuckoos</u>**: Yang X, Deb S (2009). “Cuckoo Search via L\&\#x00E9$\mathsemicolon$vy flights.” In _2009 World Congress on Nature \& Biologically Inspired Computing (NaBIC)_. doi: [10.1109/nabic.2009.5393690 ](https://doi.org/10.1109/nabic.2009.5393690 )
 
@@ -124,6 +126,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### F
 - **<u>Falcons</u>**: de Vasconcelos Segundo EH, Mariani VC, dos Santos Coelho L (2019). “Design of heat exchangers using Falcon Optimization Algorithm.” _Applied Thermal Engineering_, *156*, 119-144. doi: [10.1016/j.applthermaleng.2019.04.038 ](https://doi.org/10.1016/j.applthermaleng.2019.04.038 )
+- **<u>Farmland Fertility</u>**: Shayanfar H, Gharehchopogh FS (2018). “Farmland fertility: A new metaheuristic algorithm for solving continuous optimization problems.” _Applied Soft Computing_, *71*, 728-746. doi: [10.1016/j.asoc.2018.07.033 ](https://doi.org/10.1016/j.asoc.2018.07.033 )
 - **<u>FIFA World Cup</u>**: Razmjooy N, Khalilpour M, Ramezani M (2016). “A New Meta-Heuristic Optimization Algorithm Inspired by FIFA World Cup Competitions: Theory and Its Application in PID Designing for AVR System.” _Journal of Control, Automation and Electrical Systems_, *27*(4), 419-440. doi: [10.1007/s40313-016-0242-6 ](https://doi.org/10.1007/s40313-016-0242-6 )
 - **<u>Fireflies</u>**: Yang X (2009). “Firefly Algorithms for Multimodal Optimization.” In _Stochastic Algorithms: Foundations and Applications_, 169-178. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-04944-6_14 ](https://doi.org/10.1007/978-3-642-04944-6_14 )
 - **<u>Fireworks</u>**: Tan Y, Zhu Y (2010). “Fireworks Algorithm for Optimization.” In _Lecture Notes in Computer Science_, 355-364. Springer Berlin Heidelberg. doi: [10.1007/978-3-642-13495-1_44 ](https://doi.org/10.1007/978-3-642-13495-1_44 )
