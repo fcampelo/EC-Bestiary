@@ -27,6 +27,7 @@
 - James Brookhouse - University of Kent, England UK
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Kenneth Sörensen - University of Antwerp, Belgium
+- Konstantinos Zervoudakis - Technical University of Crete, Greece
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
 - Marc Sevaux - Université de Bretagne-Sud, France

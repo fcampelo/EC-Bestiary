@@ -197,6 +197,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### M
 - **<u>Markets</u>**: Ghorbani N, Babaei E (2014). “Exchange market algorithm.” _Applied Soft Computing_, *19*, 177-187. doi: [10.1016/j.asoc.2014.02.006 ](https://doi.org/10.1016/j.asoc.2014.02.006 )
+- **<u>Mayflies</u>**: Zervoudakis K, Tsafarakis S (2020). “A mayfly optimization algorithm.” _Computers \& Industrial Engineering_, *145*, 106559. doi: [10.1016/j.cie.2020.106559 ](https://doi.org/10.1016/j.cie.2020.106559 )
 - **<u>Meerkats</u>**: Klein CE, dos Santos Coelho L (2018). “Meerkats-inspired Algorithm for Global Optimization Problems.” In _Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning_.
 - **<u>Mice: Wild Mice</u>**: Nejatian S, Omidvar R, Parvin H, Rezaei V, Yasrebi M (2019). “A New Algorithm: Wild Mice Colony Algorithm (WMC).” _TABRIZ JOURNAL OF ELECTRICAL ENGINEERING_.
 - **<u>Mine Explosions</u>**: Sadollah A, Bahreininejad A, Eskandar H, Hamdi M (2012). “Mine blast algorithm for optimization of truss structures with discrete variables.” _Computers \& Structures_, *102-103*, 49-63. doi: [10.1016/j.compstruc.2012.03.013 ](https://doi.org/10.1016/j.compstruc.2012.03.013 )
@@ -256,6 +257,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Seagulls</u>**: Dhiman G, Kumar V (2019). “Seagull optimization algorithm: Theory and its applications for large-scale industrial engineering problems.” _Knowledge-Based Systems_, *165*, 169-196. doi: [10.1016/j.knosys.2018.11.024 ](https://doi.org/10.1016/j.knosys.2018.11.024 )
 - **<u>See-See Partridges</u>**: Omidvar R, Parvin H, Rad F (2015). “SSPCO Optimization Algorithm (See-See Partridge Chicks Optimization).” In _2015 Fourteenth Mexican International Conference on Artificial Intelligence (MICAI)_. doi: [10.1109/micai.2015.22 ](https://doi.org/10.1109/micai.2015.22 )
 - **<u>Sharks</u>**: Abedinia O, Amjady N, Ghasemi A (2014). “A new metaheuristic algorithm based on shark smell optimization.” _Complexity_, *21*(5), 97-116. doi: [10.1002/cplx.21634 ](https://doi.org/10.1002/cplx.21634 )
+- **<u>Sharks: Hammerhead</u>**: Ali A, Zafar K, Bakhshi T (2019). “On Nature-Inspired Dynamic Route Planning: Hammerhead Shark Optimization Algorithm.” In _2019 15th International Conference on Emerging Technologies (ICET)_. doi: [10.1109/icet48972.2019.8994757 ](https://doi.org/10.1109/icet48972.2019.8994757 )
 - **<u>Sheep Flocks</u>**: Kim H, Ahn B (2001). “A new evolutionary algorithm based on sheep flocks heredity model.” In _2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)_. doi: [10.1109/pacrim.2001.953683 ](https://doi.org/10.1109/pacrim.2001.953683 )
 - **<u>Sine Waves</u>**: Tanyildizi E, Demir G (2017). “Golden sine algorithm: a novel math-inspired algorithm.” _Advances in Electrical and Computer Engineering_, *17*(2), 71-79.
 - **<u>Slime Mold</u>**: Monismith DR, Mayfield BE (2008). “Slime Mold as a model for numerical optimization.” In _2008 IEEE Swarm Intelligence Symposium_. doi: [10.1109/sis.2008.4668295 ](https://doi.org/10.1109/sis.2008.4668295 )
@@ -362,6 +364,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - James Brookhouse - University of Kent, England UK
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Kenneth Sörensen - University of Antwerp, Belgium
+- Konstantinos Zervoudakis - Technical University of Crete, Greece
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
 - Marc Sevaux - Université de Bretagne-Sud, France
