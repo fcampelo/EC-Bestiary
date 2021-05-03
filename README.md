@@ -175,6 +175,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Humans: Hunting</u>**: Brammya G, Praveena S, Preetha NSN, Ramya R, Rajakumar BR, Binu D (2019). “Deer Hunting Optimization Algorithm: A New Nature-Inspired Meta-heuristic Paradigm.” _The Computer Journal_. doi: [10.1093/comjnl/bxy133 ](https://doi.org/10.1093/comjnl/bxy133 )
 - **<u>Humans: Life Choices</u>**: Khatri A, Gaba A, Rana KPS, Kumar V (2019). “A novel life choice-based optimizer.” _Soft Computing_, *24*(12), 9121-9141. doi: [10.1007/s00500-019-04443-z ](https://doi.org/10.1007/s00500-019-04443-z )
 - **<u>Humans: Search and Rescue</u>**: Shabani A, Asgarian B, Gharebaghi SA, Salido MA, Giret A (2019). “A New Optimization Algorithm Based on Search and Rescue Operations.” _Mathematical Problems in Engineering_, *2019*, 1-23. doi: [10.1155/2019/2482543 ](https://doi.org/10.1155/2019/2482543 )
+- **<u>Humans: Students</u>**: Das B, Mukherjee V, Das D (2020). “Student psychology based optimization algorithm: A new population based optimization algorithm for solving optimization problems.” _Advances in Engineering Software_, *146*, 102804. doi: [10.1016/j.advengsoft.2020.102804 ](https://doi.org/10.1016/j.advengsoft.2020.102804 )
 - **<u>Hyenas</u>**: Dhiman G, Kumar V (2017). “Spotted hyena optimizer: A novel bio-inspired based metaheuristic technique for engineering applications.” _Advances in Engineering Software_, *114*, 48-70. doi: [10.1016/j.advengsoft.2017.05.014 ](https://doi.org/10.1016/j.advengsoft.2017.05.014 )
 
 ### I
@@ -187,6 +188,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### K
 - **<u>Keshtel Duck</u>**: Hajiaghaei-Keshteli M, Aminnayeri M (2014). “Solving the integrated scheduling of production and rail transportation problem by Keshtel algorithm.” _Applied Soft Computing_, *25*, 184-203. doi: [10.1016/j.asoc.2014.09.034 ](https://doi.org/10.1016/j.asoc.2014.09.034 )
+- **<u>Kestrels</u>**: Agbehadji IE, Millham R, Fong S (2016). “Kestrel-Based Search Algorithm for Association Rule Mining and Classification of Frequently Changed Items.” In _2016 8th International Conference on Computational Intelligence and Communication Networks (CICN)_. doi: [10.1109/cicn.2016.76 ](https://doi.org/10.1109/cicn.2016.76 )
 - **<u>Kidneys</u>**: Jaddi NS, Alvankarian J, Abdullah S (2017). “Kidney-inspired algorithm for optimization problems.” _Communications in Nonlinear Science and Numerical Simulation_, *42*, 358-369. doi: [10.1016/j.cnsns.2016.06.006 ](https://doi.org/10.1016/j.cnsns.2016.06.006 )
 - **<u>Krill</u>**: Gandomi AH, Alavi AH (2012). “Krill herd: A new bio-inspired optimization algorithm.” _Communications in Nonlinear Science and Numerical Simulation_, *17*(12), 4831-4845. doi: [10.1016/j.cnsns.2012.05.010 ](https://doi.org/10.1016/j.cnsns.2012.05.010 )
 
@@ -279,7 +281,6 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Spirals</u>**: Tamura K, and Keiichiro Yasuda (2011). “Spiral Dynamics Inspired Optimization.” _Journal of Advanced Computational Intelligence and Intelligent Informatics_, *15*(8), 1116-1122. doi: [10.20965/jaciii.2011.p1116 ](https://doi.org/10.20965/jaciii.2011.p1116 )
 - **<u>Sports Championships</u>**: Kashan AH (2009). “League Championship Algorithm: A New Algorithm for Numerical Function Optimization.” In _2009 International Conference of Soft Computing and Pattern Recognition_. doi: [10.1109/socpar.2009.21 ](https://doi.org/10.1109/socpar.2009.21 )
 - **<u>Squirrels: Flying Squirrels</u>**: Jain M, Singh V, Rani A (2018). “A novel nature-inspired algorithm for optimization: Squirrel search algorithm.” _Swarm and Evolutionary Computation_. doi: [10.1016/j.swevo.2018.02.013 ](https://doi.org/10.1016/j.swevo.2018.02.013 )
-- **<u>States of Matter</u>**: Cuevas E, Echavarr\'\ia A, Ram\'\irez-Ortegón MA (2013). “An optimization algorithm inspired by the States of Matter that improves the balance between exploration and exploitation.” _Applied Intelligence_, *40*(2), 256-272. doi: [10.1007/s10489-013-0458-0 ](https://doi.org/10.1007/s10489-013-0458-0 )
 - **<u>States of Matter</u>**: Cuevas E, Reyna-Orta A, D\'\iaz-Cortes M (2017). “A Multimodal Optimization Algorithm Inspired by the States of Matter.” _Neural Processing Letters_, *48*(1), 517-556. doi: [10.1007/s11063-017-9750-z ](https://doi.org/10.1007/s11063-017-9750-z )
 - **<u>Swallows</u>**: Neshat M, Sepidnam G, Sargolzaei M (2012). “Swallow swarm optimization algorithm: a new method to optimization.” _Neural Computing and Applications_, *23*(2), 429-454. doi: [10.1007/s00521-012-0939-9 ](https://doi.org/10.1007/s00521-012-0939-9 )
 - **<u>Symbiotic Organisms</u>**: Cheng M, Prayogo D (2014). “Symbiotic Organisms Search: A new metaheuristic optimization algorithm.” _Computers \& Structures_, *139*, 98-112. doi: [10.1016/j.compstruc.2014.03.007 ](https://doi.org/10.1016/j.compstruc.2014.03.007 )
@@ -289,6 +290,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Termites</u>**: Hedayatzadeh R, Salmassi FA, Keshtgari M, Akbari R, Ziarati K (2010). “Termite colony optimization: A novel approach for optimizing continuous problems.” In _2010 18th Iranian Conference on Electrical Engineering_. doi: [10.1109/iraniancee.2010.5507009 ](https://doi.org/10.1109/iraniancee.2010.5507009 )
 - **<u>Troops of Soldiers</u>**: Chen T (2009). “A Simulative Bionic Intelligent Optimization Algorithm: Artificial Searching Swarm Algorithm and Its Performance Analysis.” In _2009 International Joint Conference on Computational Sciences and Optimization_. doi: [10.1109/cso.2009.183 ](https://doi.org/10.1109/cso.2009.183 )
 - **<u>Tug of War</u>**: Kaveh A, Zolghadr A (2016). “A novel meta-heuristic algorithm: tug of war optimization.” _Iran University of Science \& Technology_, *6*(4), 469-492.
+- **<u>Turnicates</u>**: Kaur S, Awasthi LK, Sangal A, Dhiman G (2020). “Tunicate Swarm Algorithm: A new bio-inspired based metaheuristic paradigm for global optimization.” _Engineering Applications of Artificial Intelligence_, *90*, 103541. doi: [10.1016/j.engappai.2020.103541 ](https://doi.org/10.1016/j.engappai.2020.103541 )
 
 ### U
 
@@ -373,7 +375,9 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
 - Nadarajen Veerapen - University of Stirling, Scotland UK
+- Nguyen Tri Hai - Chung-Ang University, South Korea
 - Paul Rubin - Michigan State University, USA
+- Peter Lewis - Aston University, UK
 - Robin Purshouse - University of Sheffield, England UK
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands

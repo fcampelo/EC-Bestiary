@@ -35,7 +35,9 @@
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
 - Nadarajen Veerapen - University of Stirling, Scotland UK
+- Nguyen Tri Hai - Chung-Ang University, South Korea
 - Paul Rubin - Michigan State University, USA
+- Peter Lewis - Aston University, UK
 - Robin Purshouse - University of Sheffield, England UK
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
