@@ -1,7 +1,7 @@
 # Evolutionary Computation Bestiary  
 [![DOI](https://zenodo.org/badge/54759561.svg)](https://zenodo.org/badge/latestdoi/54759561)
 
-Updated 2021-05-03   
+Updated 2021-05-04   
 ***  
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
@@ -91,6 +91,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Cancers</u>**: Tang D, Dong S, Jiang Y, Li H, Huang Y (2015). “ITGO: Invasive tumor growth optimization algorithm.” _Applied Soft Computing_, *36*, 670-698. doi: [10.1016/j.asoc.2015.07.045 ](https://doi.org/10.1016/j.asoc.2015.07.045 )
 - **<u>Cats</u>**: Chu S, Tsai P, Pan J (2006). “Cat Swarm Optimization.” In _Lecture Notes in Computer Science_, 854-858. Springer Berlin Heidelberg. doi: [10.1007/978-3-540-36668-3_94 ](https://doi.org/10.1007/978-3-540-36668-3_94 )
 - **<u>Central Force</u>**: Formato RA (2007). “CENTRAL FORCE OPTIMIZATION: A NEW METAHEURISTIC WITH APPLICATIONS IN APPLIED ELECTROMAGNETICS.” _Progress In Electromagnetics Research_, *77*, 425-491. doi: [10.2528/pier07082403 ](https://doi.org/10.2528/pier07082403 )
+- **<u>Chameleons</u>**: Braik MS (2021). “Chameleon Swarm Algorithm: A bio-inspired optimizer for solving engineering design problems.” _Expert Systems with Applications_, *174*, 114685. doi: [10.1016/j.eswa.2021.114685 ](https://doi.org/10.1016/j.eswa.2021.114685 )
 - **<u>Charged Systems</u>**: Kaveh A, Talatahari S (2010). “A novel heuristic optimization method: charged system search.” _Acta Mechanica_, *213*(3-4), 267-289. doi: [10.1007/s00707-009-0270-4 ](https://doi.org/10.1007/s00707-009-0270-4 )
 - **<u>Cheetah</u>**: Klein CE, Mariani V, dos Santos Coelho L (2018). “Cheetah Based Optimization Algorithm: A Novel Swarm Intelligence Paradigm.” In _Proceedings of the European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning_.
 - **<u>Chemical Reactions</u>**: Alatas B (2011). “ACROA: Artificial Chemical Reaction Optimization Algorithm for global optimization.” _Expert Systems with Applications_, *38*(10), 13170-13180. doi: [10.1016/j.eswa.2011.04.126 ](https://doi.org/10.1016/j.eswa.2011.04.126 )
