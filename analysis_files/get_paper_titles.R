@@ -1,5 +1,5 @@
 # This script scrapes the titles of papers published in the 
-# journals which published metaphors, as of May 1st 2018. 
+# journals which published metaphors. 
 # This takes a while to run. It saves its results in a folder named
 # YYYY-MM-DD_journal_paper_titles
 # ==============================================================================
@@ -10,6 +10,7 @@
 #install.packages("bibtex")
 library(rcrossref)
 library(bibtex)
+library(dplyr)
 
 options(warn = 1) # For immediately echoing warnings as they occur
 
@@ -62,11 +63,13 @@ saveRDS(data.frame(metaphor = gsub(".", " ", names(entry.list), fixed = TRUE),
 # ==========
 
 # Assemble journal table
-journals <- table(journal[!is.na(journal)])
-journals <- names(sort(journals, decreasing = TRUE))
+journals <- sort(table(journal[!is.na(journal)]), decreasing = TRUE)
+journals <- names(journals)
 
 # Set years for scraping
-years    <- 2000:2018
+years    <- 1990:2021
+starts   <- "-01-01" #c("-01-01", "-05-01", "-09-01")
+ends     <- "-12-31" ##c("-04-30", "-08-31", "-12-31")
 
 # ==========
 # Perform scraping
@@ -79,121 +82,145 @@ empty_queries <- data.frame(journal = character(),
                             year    = numeric())
 
 # Iterate over journals vector
+errors <- data.frame(i = numeric(), j = numeric(), k = numeric())
 for (i in seq_along(journals)){
-  # Initialize data frame for iteration i
-  journal_papers <- data.frame(journal   = character(),
-                               year      = numeric(),
-                               title     = character(),
-                               authors   = character(),
-                               doi       = character(),
-                               ref.count = numeric(),
-                               stringsAsFactors = FALSE)
+  saveRDS(errors, "./data/00_ERRlist.rds")
   
   # Iterate over years of interest
   for (j in seq_along(years)){
-    cat("\n", journals[i], ":", years[j])
-    start.date <- paste0(years[j], "-01-01")
-    end.date   <- paste0(years[j], "-12-31")
     
-    # Retrieve the data
-    cat(".")
-    paper.data <- data.frame(data = numeric())
-    paper.data <- try(cr_works(filter = c(from_pub_date   = start.date,
-                                          until_pub_date  = end.date,
-                                          container_title = journals[i]),
-                               limit = 1000),
-                      silent = TRUE)
+    cat("\n", i, ") ", journals[i], ":", years[j])
+    if(file.exists(paste0("./data/journal", 
+                          sprintf("%02d-%d.rds", 
+                                  i, years[j])))) {
+      cat(" --> file detected: skipping.")
+      next
+    }
     
-    # Isolate the relevant information
-    if (class(paper.data) == "try-error") {
-      npap <- FALSE
-    } else npap <- nrow(paper.data$data)
     
-    cat(".")
-    if(npap){
-      # Set fields that are guaranteed to exist
-      my.journal <- rep(journals[i], npap)
-      my.year    <- rep(years[j], npap)
+    # Initialize data frame for journal i - year j
+    journal_papers <- data.frame(journal   = character(),
+                                 year      = numeric(),
+                                 title     = character(),
+                                 authors   = character(),
+                                 doi       = character(),
+                                 ref.count = numeric(),
+                                 stringsAsFactors = FALSE)
+    
+    for (k in seq_along(starts)){
+      Sys.sleep(.5 + runif(1))
+      start.date <- paste0(years[j], starts[k])
+      end.date   <- paste0(years[j], ends[k])
       
-      # Get title, if available
-      if("title" %in% names(paper.data$data)){
-        my.title   <- paper.data$data$title
-      } else {
-        my.title <- rep(NA, npap)
+      
+      # Retrieve the data
+      cat(".")
+      paper.data <- data.frame(data = numeric())
+      paper.data <- try(cr_works(filter = c(from_pub_date   = start.date,
+                                            until_pub_date  = end.date,
+                                            container_title = journals[i]),
+                                 limit = 1000),
+                        silent = TRUE)
+      
+      # Isolate the relevant information
+      if (class(paper.data) == "try-error") {
+        npap <- FALSE
+      } else if (length(paper.data) == 1 && 
+                 names(paper.data) == "message" && 
+                 is.null (paper.data$message)){
+        npap <- FALSE
+        errors <- rbind(errors,
+                        data.frame(i = i, j = j, k = k))
+      }
+      else {
+        npap <- nrow(paper.data$data)
       }
       
-      # Get DOI, if available
-      if("DOI" %in% names(paper.data$data)){
-        my.doi <- paper.data$data$DOI
-      } else {
-        my.doi <- rep(NA, npap)
-      }
-      
-      # Get reference count, if available
-      if("reference.count" %in% names(paper.data$data)){
-        my.nref <- as.numeric(paper.data$data$reference.count)
-      } else {
-        my.nref <- rep(NA, npap)
-      }
-      
-      # Get authors, if available
-      if("author" %in% names(paper.data$data)){
-        my.authors <- paper.data$data$author
-        my.authors <- unlist(lapply(my.authors, 
-                                    function(x){
-                                      if (!is.null(x)){
-                                        if (!("given" %in% names(x))){
-                                          x$given <- rep("_NA_", nrow(x))
-                                        }
-                                        if (!("family" %in% names(x))){
-                                          x$family <- rep("_NA_", nrow(x))
-                                        }
-                                        paste(x$family, 
-                                              x$given, 
-                                              sep = ", ", 
-                                              collapse = "; ")
-                                      } else {
-                                        return("_NA_, _NA_")
-                                      }}))
+      cat(":")
+      if(npap){
+        # Set fields that are guaranteed to exist
+        my.journal <- rep(journals[i], npap)
+        my.year    <- rep(years[j], npap)
         
+        # Get title, if available
+        if("title" %in% names(paper.data$data)){
+          my.title   <- paper.data$data$title
+        } else {
+          my.title <- rep(NA, npap)
+        }
+        
+        # Get DOI, if available
+        if("doi" %in% names(paper.data$data)){
+          my.doi <- paper.data$data$doi
+        } else {
+          my.doi <- rep(NA, npap)
+        }
+        
+        # Get reference count, if available
+        if("reference.count" %in% names(paper.data$data)){
+          my.nref <- as.numeric(paper.data$data$reference.count)
+        } else {
+          my.nref <- rep(NA, npap)
+        }
+        
+        # Get authors, if available
+        if("author" %in% names(paper.data$data)){
+          my.authors <- paper.data$data$author
+          my.authors <- unlist(lapply(my.authors, 
+                                      function(x){
+                                        if (!is.null(x)){
+                                          if (!("given" %in% names(x))){
+                                            x$given <- rep("_NA_", nrow(x))
+                                          }
+                                          if (!("family" %in% names(x))){
+                                            x$family <- rep("_NA_", nrow(x))
+                                          }
+                                          paste(x$family, 
+                                                x$given, 
+                                                sep = ", ", 
+                                                collapse = "; ")
+                                        } else {
+                                          return("_NA_, _NA_")
+                                        }}))
+          
+        } else {
+          my.authors <- rep(NA, npap)
+        }
+        
+        # Update data frame with results
+        journal_papers <- rbind(journal_papers,
+                                data.frame(journal   = my.journal,
+                                           year      = my.year,
+                                           title     = my.title,
+                                           authors   = my.authors,
+                                           doi       = my.doi,
+                                           ref.count = my.nref,
+                                           stringsAsFactors = FALSE))
+        
+        cat(".")
       } else {
-        my.authors <- rep(NA, npap)
+        # Update empty queries
+        empty_queries <- rbind(empty_queries,
+                               data.frame(journal = journals[i],
+                                          year    = years[j]))
       }
-      
-      # Update data frame with results
-      journal_papers <- rbind(journal_papers,
-                              data.frame(journal   = my.journal,
-                                         year      = my.year,
-                                         title     = my.title,
-                                         authors   = my.authors,
-                                         doi       = my.doi,
-                                         ref.count = my.nref,
-                                         stringsAsFactors = FALSE))
-      
-      cat(". jackpot!")
-      
-    } else {
-      # Update empty queries
-      empty_queries <- rbind(empty_queries,
-                             data.frame(journal = journals[i],
-                                        year    = years[j]))
-      cat(". empty!")
+    }
+    
+    # Save results
+    if (nrow(journal_papers)){
+      saveRDS(journal_papers, 
+              file = paste0("./data/journal", 
+                            sprintf("%02d-%d.rds", i, years[j])))
     }
   }
   
-  # Save results
-  if (nrow(journal_papers)){
-    saveRDS(journal_papers, 
-            file = paste0("./data/journal", 
-                          sprintf("%02d", i), "_papers.rds"))
-  }
   saveRDS(empty_queries, file = "./data/01_empty_queries.rds")
 }
 
 
 # ==========
 # Consolidate all entries in a single (somewhat large) dataframe
-file.list  <- dir(my.dir, pattern = "papers.rds")
+file.list  <- dir("./data/", pattern = "journal[0-9]*-[0-9]*.rds")
 all.papers <- data.frame(journal   = character(),
                          year      = numeric(),
                          title     = character(),
@@ -203,38 +230,35 @@ all.papers <- data.frame(journal   = character(),
                          stringsAsFactors = FALSE)
 for (i in seq(file.list)){
   cat("\nAppending file ", sprintf("%02d", i))
-  my.df <- readRDS(paste0(my.dir, "/", file.list[i]))
+  my.df <- readRDS(paste0("./data/", file.list[i]))
   all.papers <- rbind(all.papers, my.df)
 }
 
-for (j in 1:ncol(all.papers)){
-  if(class(all.papers[, j]) == "factor"){
-    all.papers[, j] <- as.character(all.papers[, j])
-  }
-}
+all.papers <- all.papers %>%
+  mutate(across(where(is.factor), as.character))
 
 saveRDS(object = all.papers, 
         file   ="./data/00_consolidated_data.rds")
 
-
-# Retrieve citations for papers with DOI
-citations <- integer(nrow(all.papers))
-for (i in seq(citations)){
-  if (!(i %% 1000)) {
-    cat("\nRetrieving citations: ", sprintf("%06d", i), "of", nrow(all.papers))
-  }
-  
-  if (!is.na(all.papers$doi[i])){
-    my.count <- try(cr_citation_count(all.papers$doi[i]), silent = TRUE)
-    if (is.numeric(my.count)){
-      citations[i] <- my.count
-    } else {
-      citations[i] <- NA
-    }
-  }
-}
-
-all.papers$citations <- citations
-
-saveRDS(object = all.papers, 
-        file   = "./data/02_consolidated_data.rds")
+# 
+# # Retrieve citations for papers with DOI
+# citations <- integer(nrow(all.papers))
+# for (i in seq(citations)){
+#   if (!(i %% 1000)) {
+#     cat("\nRetrieving citations: ", sprintf("%06d", i), "of", nrow(all.papers))
+#   }
+#   
+#   if (!is.na(all.papers$doi[i])){
+#     my.count <- try(cr_citation_count(all.papers$doi[i]), silent = TRUE)
+#     if (is.numeric(my.count)){
+#       citations[i] <- my.count
+#     } else {
+#       citations[i] <- NA
+#     }
+#   }
+# }
+# 
+# all.papers$citations <- citations
+# 
+# saveRDS(object = all.papers, 
+#         file   = "./data/02_consolidated_data.rds")
