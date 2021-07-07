@@ -240,25 +240,27 @@ all.papers <- all.papers %>%
 saveRDS(object = all.papers, 
         file   ="./data/00_consolidated_data.rds")
 
-# 
-# # Retrieve citations for papers with DOI
-# citations <- integer(nrow(all.papers))
-# for (i in seq(citations)){
-#   if (!(i %% 1000)) {
-#     cat("\nRetrieving citations: ", sprintf("%06d", i), "of", nrow(all.papers))
-#   }
-#   
-#   if (!is.na(all.papers$doi[i])){
-#     my.count <- try(cr_citation_count(all.papers$doi[i]), silent = TRUE)
-#     if (is.numeric(my.count)){
-#       citations[i] <- my.count
-#     } else {
-#       citations[i] <- NA
-#     }
-#   }
-# }
-# 
-# all.papers$citations <- citations
-# 
-# saveRDS(object = all.papers, 
-#         file   = "./data/02_consolidated_data.rds")
+
+# Retrieve citation counts for papers with DOI
+citations <- integer(nrow(all.papers))
+t0 <- Sys.time()
+for (i in 50186:length(citations)){#seq(citations)){
+  if (!(i %% 100)) {
+    cat(sprintf("\nRetrieving citations: %06d of %d. Elapsed time: %2.1f %s", 
+                i, nrow(all.papers), Sys.time() - t0, units(Sys.time() - t0)))
+  }
+
+  if (!is.na(all.papers$doi[i])){
+    my.count <- try(cr_citation_count(all.papers$doi[i]), silent = TRUE)
+    if (is.numeric(my.count)){
+      citations[i] <- my.count
+    } else {
+      citations[i] <- NA
+    }
+  }
+}
+
+all.papers$citations <- citations
+
+saveRDS(object = all.papers,
+        file   = "./data/02_consolidated_data.rds")
