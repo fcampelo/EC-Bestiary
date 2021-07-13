@@ -1,9 +1,15 @@
+library(dplyr)
+
 # Load consolidated data and alias list
-all.papers       <- readRDS("./data/02_consolidated_data.rds")
-all.papers$title <- tolower(all.papers$title)
-alias.list       <- read.csv("metaphor_aliases.csv", 
-                             header = TRUE, sep = ";", 
-                             stringsAsFactors = FALSE)
+df         <- readRDS("./data/00_bestiaryDF.rds")
+all.papers <- readRDS("./data/00_consolidated_data.rds")
+all.papers <- all.papers %>%
+  mutate(title = tolower(title))
+
+queries <- df %>%
+  select(Title, Metaphor, SubMetaphor) %>%
+  mutate(across(everything(), tolower))
+
 
 # ==========
 # Get matches for each entry (based on the alias list)
