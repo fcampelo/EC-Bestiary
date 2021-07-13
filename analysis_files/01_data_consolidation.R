@@ -58,8 +58,8 @@ where.pub <- gsub("J Circuits Systems", "Journal of Circuits, Systems and Comput
 where.pub <- gsub("ORSA Journal on Computing", "INFORMS Journal on Computing", where.pub)
 
 df$Where.pub <- where.pub
-df$Citations <- cr_citation_count(df$DOI)
-saveRDS(df, "./data/00_bestiaryDF.rds")
+df$Citations <- cr_citation_count(df$DOI)$count
+saveRDS(df, "data/00_bestiaryDF.rds")
 
 
 alias <- read.csv("./metaphor_aliases.csv", header = TRUE, sep = ";")
