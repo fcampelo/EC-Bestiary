@@ -3,8 +3,14 @@ library(dplyr)
 # Load consolidated data and alias list
 df         <- readRDS("./data/00_bestiaryDF.rds")
 all.papers <- readRDS("./data/00_consolidated_data.rds")
-all.papers <- all.papers %>%
-  mutate(title = tolower(title))
+alias      <- read.csv("./metaphor_aliases.csv", header = TRUE, sep = ";")
+
+
+targets <- tolower(gsub("\\ |[\\-]+|[0-9]+", "", targets))
+
+queries <- tolower(gsub("\\ |[\\-]+|[0-9]+", "", alias$))
+
+
 
 queries <- df %>%
   select(Title, Metaphor, SubMetaphor) %>%
