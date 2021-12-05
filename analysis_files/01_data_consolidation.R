@@ -61,12 +61,14 @@ df$Where.pub <- where.pub
 df$Citations <- cr_citation_count(df$DOI)$count
 saveRDS(df, "data/00_bestiaryDF.rds")
 
+dlist <- rcrossref::cr_works(dois = df$DOI)
+saveRDS(dlist, "./data/00_bestiary_data_list.rds")
+
 
 alias <- read.csv("./metaphor_aliases.csv", header = TRUE, sep = ";")
 alias <- df %>%
   left_join(alias, by = c("Title" = "paper")) %>%
   select(Metaphor, SubMetaphor, Title, aliases, acronyms, NOTES)
-
 
 write.csv(df, "./data/00_bestiaryDF.csv", row.names = FALSE)
 
