@@ -85,8 +85,11 @@ mp <- ggplot(df2, aes(x = as.integer(Where.pub), y = Count, fill = Count)) +
         panel.grid.minor.x = element_blank()) + 
   xlab("") + ylab("Number of new metaphor-based methods")
 
-mp
-ggsave("./img/new_metaphors_by_venue1.png", width = 6, height = 8, 
+mp + 
+  scale_x_continuous(breaks = seq_along(df2$Labs), 
+                     labels = df2$Labs, na.value = NULL) +
+  theme(axis.text.x = element_text(colour = "#ffffff00", size = 1))
+ggsave("./img/new_metaphors_by_venue1.png", width = 6, height = 5, 
        bg = "transparent")
 
 mp + scale_x_continuous(breaks = seq_along(df2$Labs), 
@@ -115,19 +118,31 @@ df3 <- dplyr::bind_rows(auth.list) %>%
 
 df3$Labs <- df3$full
 
-ggplot(df3, aes(x = as.integer(full), 
+mp <- ggplot(df3, aes(x = as.integer(full), 
                 y = Count, fill = Count)) + 
   geom_bar(stat = "identity", show.legend = FALSE) + 
   theme_light() +
   theme(panel.background = element_rect(fill = "transparent"),
         plot.background = element_rect(fill = "transparent", color = NA)) +
   myscale +
-  facet_zoom(xy = as.integer(full) < 41, horizontal = FALSE) + 
-  scale_x_continuous(breaks = seq_along(df3$Labs), 
-                     labels = df3$Labs,) + 
+  facet_zoom(xy = as.integer(full) < 40, horizontal = FALSE) + 
   scale_y_continuous(breaks = 2*(0:5), 
                      labels = 2*(0:5)) + 
-  theme(axis.text.x = element_text(angle = 90, hjust = 1),
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = .5),
         panel.grid.major.x = element_blank(),
         panel.grid.minor.x = element_blank()) + 
   xlab("") + ylab("Number of metaphor-based methods authored")
+
+mp + 
+  scale_x_continuous(breaks = seq_along(df3$Labs), 
+                     labels = df3$Labs) + 
+  theme(axis.text.x = element_text(colour = "#ffffff00", size = 1))
+ggsave("./img/new_metaphors_by_author1.png", width = 6, height = 5, 
+       bg = "transparent")
+
+mp + 
+  scale_x_continuous(breaks = seq_along(df3$Labs), 
+                     labels = df3$Labs)
+ggsave("./img/new_metaphors_by_author2.png", width = 6, height = 8, 
+       bg = "transparent")
+  
