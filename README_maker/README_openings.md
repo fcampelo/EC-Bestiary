@@ -1,7 +1,7 @@
 > "Till now, madness has been thought a small island in an ocean of sanity. I am beginning to suspect that it is not an island at all but a continent." -- [Machado de Assis](https://en.wikipedia.org/wiki/Machado_de_Assis), *[The Psychiatrist](https://en.wikipedia.org/wiki/O_alienista)*.
 
 
-**Important note (2 June 2023)**: we do not endorse or recommend the use of any of the methods listed here. In fact, we find most if not all of them quite ridiculous, and in many cases a useless wste of space. **_If you send us a message asking to have your own recently-published paper included here, you are publicly acknowledging that you have absolutely no idea what you're doing and that you're too disctracted to even realise that we're making fun of you_**. You have been warned. 
+**Important note (2 June 2023)**: we do not endorse or recommend the use of any of the methods listed here. In fact, we find most if not all of them quite ridiculous, and in many cases a useless wste of space. **_If you send us a message asking to have your own recently-published paper included here, you are publicly acknowledging that you have absolutely no idea what you're doing with your academic life, and that you're too disctracted to even realise that we're making fun of you_**. You have been warned. 
 
 ***
 
