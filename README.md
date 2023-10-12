@@ -253,6 +253,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 ### Q
 - **<u>Quantum Superposition</u>**: Saire JEC, Tupac VYJ (2015). “An approach to real-coded quantum inspired evolutionary algorithm using particles filter.” In _2015 Latin America Congress on Computational Intelligence (LA-CCI)_. doi: [10.1109/la-cci.2015.7435984 ](https://doi.org/10.1109/la-cci.2015.7435984 )
+- - **<u>Quantum artificial rabbits</u>**: Alamir, N., Kamel, S., Hassan, M.H. et al. . “An approach to real-coded quantum inspired evolutionary algorithm using particles filter.” In _Soft Comput 27_. doi: [10.1007/s00500-023-08814-5](https://doi.org/10.1007/s00500-023-08814-5)
+
 
 ### R
 - **<u>Ravens</u>**: Torabi S, Safi-Esfahani F (2017). “Improved Raven Roosting Optimization algorithm (IRRO).” _Swarm and Evolutionary Computation_. doi: [10.1016/j.swevo.2017.11.006 ](https://doi.org/10.1016/j.swevo.2017.11.006 )
