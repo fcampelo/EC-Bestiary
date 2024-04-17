@@ -9,6 +9,7 @@
 
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
+- Alexander J. Benavides - Universidad Nacional de San Agustín de Arequipa (UNSA),  Perú
 - Anand Subramanian - UFPB, Brazil
 - André Maravilha - UFMG, Brazil
 - Carlos Fonseca - University of Coimbra, Portugal
@@ -30,7 +31,7 @@
 - James McDermott - University of Galway, Ireland
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Joao Duro - University of Sheffield, England UK
-- Joaquin A. Pacheco - University of Burgos, Spain
+- Joaquín Antonio Pacheco Bonrostro - University of Burgos, Spain
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Konstantinos Zervoudakis - Technical University of Crete, Greece
 - Koen van der Blom - Leiden University, Netherlands

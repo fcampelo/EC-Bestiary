@@ -83,7 +83,6 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Bison</u>**: Kazikova A, Pluhacek M, Senkerik R, Viktorin A (2018). "Proposal of a New Swarm Optimization Method Inspired in Bison Behavior." In _Recent Advances in Soft Computing_, 146-156. Springer International Publishing. doi:[10.1007/978-3-319-97888-8_13](https://doi.org/10.1007/978-3-319-97888-8_13) 
 - **<u>Black Holes</u>**: Hatamlou A (2013). "Black hole: A new heuristic optimization approach for data clustering." _Information Sciences_, *222*, 175-184. doi:[10.1016/j.ins.2012.08.023](https://doi.org/10.1016/j.ins.2012.08.023) 
 - **<u>Black Widow</u>**: Hayyolalam V, Kazem AAP (2020). "Black Widow Optimization Algorithm: A novel meta-heuristic approach for solving engineering optimization problems." _Engineering Applications of Artificial Intelligence_, *87*, 103249. doi:[10.1016/j.engappai.2019.103249](https://doi.org/10.1016/j.engappai.2019.103249) 
-- **<u>Blind Naked Mole Rats</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." _Swarm and Evolutionary Computation_, *10*, 1-11. doi:[10.1016/j.swevo.2013.01.001](https://doi.org/10.1016/j.swevo.2013.01.001) 
 - **<u>Bonobos</u>**: Das AK, Nikum AK, Krishnan SV, Pratihar DK (2020). "Multi-objective Bonobo Optimizer (MOBO): an intelligent heuristic for multi-criteria optimization." _Knowledge and Information Systems_, *62*(11), 4407-4444. doi:[10.1007/s10115-020-01503-x](https://doi.org/10.1007/s10115-020-01503-x) 
 - **<u>Brainstorming</u>**: Shi Y (2011). "An Optimization Algorithm Based on Brainstorming Process." _International Journal of Swarm Intelligence Research_, *2*(4), 35-62. doi:[10.4018/ijsir.2011100103](https://doi.org/10.4018/ijsir.2011100103) 
 - **<u>BrunsVigia Flower</u>**: Ghaemidizaji M, Dadkhah C, Leung H (2018). "A New Optimization Algorithm Based on the Behavior of BrunsVigia Flower." In _2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_. doi:[10.1109/smc.2018.00055](https://doi.org/10.1109/smc.2018.00055) 
@@ -95,7 +94,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 ### C
 - **<u>Camels</u>**: M. K. Ibrahim RSA (2016). "Novel Optimization Algorithm Inspired by Camel Traveling Behavior." _Iraq J. Electrical and Electronic Engineering_, *12*(2), 167-177. ISSN 18145892, 
 - **<u>Cancers</u>**: Tang D, Dong S, Jiang Y, Li H, Huang Y (2015). "ITGO: Invasive tumor growth optimization algorithm." _Applied Soft Computing_, *36*, 670-698. doi:[10.1016/j.asoc.2015.07.045](https://doi.org/10.1016/j.asoc.2015.07.045) 
-- **<u>Cats</u>**: Chu S, Tsai P, Pan J (2006). "Cat Swarm Optimization." In _Lecture Notes in Computer Science_, 854-858. Springer Berlin Heidelberg. doi:[10.1007/978-3-540-36668-3_94](https://doi.org/10.1007/978-3-540-36668-3_94) 
+- **<u>Cats: Behaviors</u>**: Chu S, Tsai P, Pan J (2006). "Cat Swarm Optimization." In _Lecture Notes in Computer Science_, 854-858. Springer Berlin Heidelberg. doi:[10.1007/978-3-540-36668-3_94](https://doi.org/10.1007/978-3-540-36668-3_94) 
+- **<u>Cats: Sand Cats</u>**: Seyyedabbasi A, Kiani F (2022). "Sand Cat swarm optimization: a nature-inspired algorithm to solve global optimization problems." _Engineering with Computers_, *39*(4), 2627–2651. ISSN 1435-5663, doi:[10.1007/s00366-022-01604-x](https://doi.org/10.1007/s00366-022-01604-x) 
 - **<u>Central Force</u>**: Formato RA (2007). "CENTRAL FORCE OPTIMIZATION: A NEW METAHEURISTIC WITH APPLICATIONS IN APPLIED ELECTROMAGNETICS." _Progress In Electromagnetics Research_, *77*, 425-491. doi:[10.2528/pier07082403](https://doi.org/10.2528/pier07082403) 
 - **<u>Chameleons</u>**: Braik MS (2021). "Chameleon Swarm Algorithm: A bio-inspired optimizer for solving engineering design problems." _Expert Systems with Applications_, *174*, 114685. doi:[10.1016/j.eswa.2021.114685](https://doi.org/10.1016/j.eswa.2021.114685) 
 - **<u>Charged Systems</u>**: Kaveh A, Talatahari S (2010). "A novel heuristic optimization method: charged system search." _Acta Mechanica_, *213*(3-4), 267-289. doi:[10.1007/s00707-009-0270-4](https://doi.org/10.1007/s00707-009-0270-4) 
@@ -110,7 +110,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Community of scientists</u>**: Alfredo M, Valentino S (2012). "Community of scientist optimization: An autonomy oriented approach to distributed optimization." _AI Communications_, *25*(2), 157–172. ISSN 0921-7126, doi:[10.3233/AIC-2012-0526](https://doi.org/10.3233/AIC-2012-0526) 
 - **<u>Consultants</u>**: Iordache S (2010). "Consultant-guided search." In _Proceedings of the 12th annual conference on Genetic and evolutionary computation - GECCO \textquotesingle10_. doi:[10.1145/1830483.1830526](https://doi.org/10.1145/1830483.1830526) 
 - **<u>Coral Reefs</u>**: Salcedo-Sanz S, Ser JD, Landa-Torres I, Gil-López S, Portilla-Figueras JA (2014). "The Coral Reefs Optimization Algorithm: A Novel Metaheuristic for Efficiently Solving Optimization Problems." _The Scientific World Journal_, *2014*, 1-15. doi:[10.1155/2014/739768](https://doi.org/10.1155/2014/739768) 
-- **<u>COVID19</u>**: Hosseini E, Ghafoor KZ, Sadiq AS, Guizani M, Emrouznejad A (2020). "COVID-19 Optimizer Algorithm, Modeling and Controlling of Coronavirus Distribution Process." _IEEE Journal of Biomedical and Health Informatics_, *24*(10), 2765-2775. doi:[10.1109/jbhi.2020.3012487](https://doi.org/10.1109/jbhi.2020.3012487) 
+- **<u>COVID19: Containment</u>**: Emami H (2022). "Anti-coronavirus optimization algorithm." _Soft Computing_, *26*(11), 4991–5023. ISSN 1433-7479, doi:[10.1007/s00500-022-06903-5](https://doi.org/10.1007/s00500-022-06903-5) 
+- **<u>COVID19: Distancing</u>**: Hosseini E, Ghafoor KZ, Sadiq AS, Guizani M, Emrouznejad A (2020). "COVID-19 Optimizer Algorithm, Modeling and Controlling of Coronavirus Distribution Process." _IEEE Journal of Biomedical and Health Informatics_, *24*(10), 2765-2775. doi:[10.1109/jbhi.2020.3012487](https://doi.org/10.1109/jbhi.2020.3012487) 
 - **<u>Coyotes</u>**: Pierezan J, Coelho LDS (2018). "Coyote Optimization Algorithm: A New Metaheuristic for Global Optimization Problems." In _2018 IEEE Congress on Evolutionary Computation (CEC)_, 1-8. IEEE.
 - **<u>Crab</u>**: Chifu VR, Salomie I, Chifu ES, Negrean A, Jeflea H, Antal M (2014). "Crab mating optimization algorithm." In _2014 18th International Conference on System Theory, Control and Computing (ICSTCC)_. doi:[10.1109/icstcc.2014.6982441](https://doi.org/10.1109/icstcc.2014.6982441) 
 - **<u>Crows</u>**: Askarzadeh A (2016). "A novel metaheuristic method for solving constrained engineering optimization problems: Crow search algorithm." _Computers & Structures_, *169*, 1-12. doi:[10.1016/j.compstruc.2016.03.001](https://doi.org/10.1016/j.compstruc.2016.03.001) 
@@ -130,6 +131,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Donkeys</u>**: Dehghani M, Mardaneh M, Malik OP, NouraeiPour SM (2019). "DTO: Donkey Theorem Optimization." In _2019 27th Iranian Conference on Electrical Engineering (ICEE)_. doi:[10.1109/iraniancee.2019.8786601](https://doi.org/10.1109/iraniancee.2019.8786601) 
 - **<u>Dragonflies</u>**: Mirjalili S (2015). "Dragonfly algorithm: a new meta-heuristic optimization technique for solving single-objective, discrete, and multi-objective problems." _Neural Computing and Applications_, *27*(4), 1053-1073. doi:[10.1007/s00521-015-1920-1](https://doi.org/10.1007/s00521-015-1920-1) 
 - **<u>Duelists</u>**: Biyanto TR, Fibrianto HY, Nugroho G, Hatta AM, Listijorini E, Budiati T, Huda H (2016). "Duelist Algorithm: An Algorithm Inspired by How Duelist Improve Their Capabilities in a Duel." In Tan Y, Shi Y, Niu B (eds.), _Advances in Swarm Intelligence_, 39-47. ISBN 978-3-319-41000-5.
+- **<u>Dwarf Mongooses</u>**: Agushaka JO, Ezugwu AE, Abualigah L (2022). "Dwarf Mongoose Optimization Algorithm." _Computer Methods in Applied Mechanics and Engineering_, *391*, 114570. ISSN 0045-7825, doi:[10.1016/j.cma.2022.114570](https://doi.org/10.1016/j.cma.2022.114570) 
 
 ### E
 - **<u>Eagles</u>**: Yang X, Deb S (2010). "Eagle Strategy Using Lévy Walk and Firefly Algorithms for Stochastic Optimization." In _Nature Inspired Cooperative Strategies for Optimization (NICSO 2010)_, 101-111. Springer Berlin Heidelberg. doi:[10.1007/978-3-642-12538-6_9](https://doi.org/10.1007/978-3-642-12538-6_9) 
@@ -193,6 +195,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Hoopoe</u>**: El-Dosuky M, El-Bassiouny A, Hamza T, Rashad M (2012). "New Hoopoe Heuristic Optimization." _International Journal of Science and Advanced Technology_, *2*(9), 85-90.
 - **<u>Hormones</u>**: Zheng K, Tang D, Giret A, Salido MA, Sang Z (2016). "A hormone regulation—based approach for distributed and on-line scheduling of machines and automated guided vehicles." _Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture_, *232*(1), 99-113. doi:[10.1177/0954405416662078](https://doi.org/10.1177/0954405416662078) 
 - **<u>Horses</u>**: Moldovan D (2020). "Horse Optimization Algorithm: A Novel Bio-Inspired Algorithm for Solving Global Optimization Problems." In _Advances in Intelligent Systems and Computing_, 195-209. Springer International Publishing. doi:[10.1007/978-3-030-51971-1_16](https://doi.org/10.1007/978-3-030-51971-1_16) 
+- **<u>Humans: Cooking</u>**: Trojovská E, Dehghani M (2022). "A new human-based metahurestic optimization method based on mimicking cooking training." _Scientific Reports_, *12*(1). ISSN 2045-2322, doi:[10.1038/s41598-022-19313-2](https://doi.org/10.1038/s41598-022-19313-2) 
 - **<u>Humans: Hunting</u>**: Brammya G, Praveena S, Preetha NSN, Ramya R, Rajakumar BR, Binu D (2019). "Deer Hunting Optimization Algorithm: A New Nature-Inspired Meta-heuristic Paradigm." _The Computer Journal_. doi:[10.1093/comjnl/bxy133](https://doi.org/10.1093/comjnl/bxy133) 
 - **<u>Humans: Life Choices</u>**: Khatri A, Gaba A, Rana KPS, Kumar V (2019). "A novel life choice-based optimizer." _Soft Computing_, *24*(12), 9121-9141. doi:[10.1007/s00500-019-04443-z](https://doi.org/10.1007/s00500-019-04443-z) 
 - **<u>Humans: Reproduction</u>**: Acharya D, Das DK (2022). "A novel Human Conception Optimizer for solving optimization problems." _Scientific Reports_, *12*(1). ISSN 2045-2322, doi:[10.1038/s41598-022-25031-6](https://doi.org/10.1038/s41598-022-25031-6) 
@@ -245,6 +248,8 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Musicians</u>**: Geem ZW, Kim JH, Loganathan G (2001). "A New Heuristic Optimization Algorithm: Harmony Search." _SIMULATION_, *76*(2), 60-68. doi:[10.1177/003754970107600201](https://doi.org/10.1177/003754970107600201) 
 
 ### N
+- **<u>Naked Mole Rats: Mating</u>**: Salgotra R, Singh U (2019). "The naked mole-rat algorithm." _Neural Computing and Applications_, *31*(12), 8837–8857. ISSN 1433-3058, doi:[10.1007/s00521-019-04464-7](https://doi.org/10.1007/s00521-019-04464-7) 
+- **<u>Naked Mole Rats: Social Behaviors</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." _Swarm and Evolutionary Computation_, *10*, 1-11. doi:[10.1016/j.swevo.2013.01.001](https://doi.org/10.1016/j.swevo.2013.01.001) 
 - **<u>Neurons</u>**: Asil Gharebaghi S, Ardalan Asl M (2017). "NEW META-HEURISTIC OPTIMIZATION ALGORITHM USING NEURONAL COMMUNICATION." _ International Journal of Optimization in Civil Engineering_, *7*(3). http://ijoce.iust.ac.ir/article-1-306-en.pdf, <http://ijoce.iust.ac.ir/article-1-306-en.html>.
 - **<u>Newton's Cooling Law</u>**: Kaveh A, Dadras A (2017). "A novel meta-heuristic optimization algorithm: Thermal exchange optimization." _Advances in Engineering Software_, *110*, 69-84. doi:[10.1016/j.advengsoft.2017.03.014](https://doi.org/10.1016/j.advengsoft.2017.03.014) 
 - **<u>Nuclear Collision</u>**: Sacco WF, Oliveira C (2005). "A new stochastic optimization algorithm based on a particle collision metaheuristic." _Proceedings of 6th WCSMO_.
@@ -392,6 +397,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
+- Alexander J. Benavides - Universidad Nacional de San Agustín de Arequipa (UNSA),  Perú
 - Anand Subramanian - UFPB, Brazil
 - André Maravilha - UFMG, Brazil
 - Carlos Fonseca - University of Coimbra, Portugal
@@ -413,7 +419,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - James McDermott - University of Galway, Ireland
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Joao Duro - University of Sheffield, England UK
-- Joaquin A. Pacheco - University of Burgos, Spain
+- Joaquín Antonio Pacheco Bonrostro - University of Burgos, Spain
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Konstantinos Zervoudakis - Technical University of Crete, Greece
 - Koen van der Blom - Leiden University, Netherlands
