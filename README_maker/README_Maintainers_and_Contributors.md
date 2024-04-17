@@ -44,6 +44,7 @@
 - Paul Rubin - Michigan State University, USA
 - Peter Lewis - Aston University, UK
 - Robin Purshouse - University of Sheffield, England UK
+- Romain Billot - IMT Atlantique, France
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Sara Silva - University of Lisbon
