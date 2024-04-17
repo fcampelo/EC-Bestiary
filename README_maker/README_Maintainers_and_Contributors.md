@@ -24,7 +24,7 @@
 - Fillipe Goulart - UFMG, Brazil
 - Federico Pagnozzi - Université Libre de Bruxelles, Belgium
 - Krystian Lapa - Institute of Computational Intelligence, Poland
-- Iago A. de Carvalho - UFMG, Brazil
+- Iago Augusto de Carvalho - Universidade Federal de Alfenas, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
 - James Brookhouse - University of Kent, England UK
@@ -45,8 +45,10 @@
 - Michał Okulewicz - Politechnika Warszawska, Poland
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Nguyen Tri Hai - Chung-Ang University, South Korea
+- Nuno Rodrigues - University of Lisbon, Lisbon
 - Paul Rubin - Michigan State University, USA
 - Peter Lewis - Aston University, UK
+- Rafael Stubs Parpinelli - Universidade do Estado de Santa Catarina (UDESC), Brasil
 - Robin Purshouse - University of Sheffield, England UK
 - Romain Billot - IMT Atlantique, France
 - Rubén Ruiz - Universitat Politècnica de València, Spain
