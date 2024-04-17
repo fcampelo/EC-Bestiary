@@ -33,10 +33,11 @@
 - Koen van der Blom - Leiden University, Netherlands
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
-- Marc Sevaux - Université de Bretagne-Sud, France
+- Marcelo Maia - Federal University of Uberlândia, Brazil
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
+- Marc Sevaux - Université de Bretagne-Sud, France
 - Michał Okulewicz - Politechnika Warszawska, Poland
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Nguyen Tri Hai - Chung-Ang University, South Korea
