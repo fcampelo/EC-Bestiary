@@ -14,7 +14,8 @@
 - Carlos Fonseca - University of Coimbra, Portugal
 - Ciniro Nametala - UFMG, Brazil
 - Christian L. Camacho Villalón - ULB, Brussels
-- Denis Pallez, University Cotre d'Azur, France
+- Daniel Palhazi Cuervo - Ascenium, Norway
+- Denis Pallez - University Côte d'Azur, France
 - Eduardo Hauck - UFJF, Brazil
 - Fabio Daolio - University of Stirling, Scotland UK
 - Fernanda Takahashi - UFMG, Brazil
@@ -26,6 +27,7 @@
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
 - James Brookhouse - University of Kent, England UK
+- James McDermott - University of Galway, Ireland
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Joao Duro - University of Sheffield, England UK
 - Joaquin A. Pacheco - University of Burgos, Spain
