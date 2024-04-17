@@ -381,6 +381,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - Carlos Fonseca - University of Coimbra, Portugal
 - Ciniro Nametala - UFMG, Brazil
 - Christian L. Camacho Villalón - ULB, Brussels
+- Denis Pallez, University Cotre d'Azur, France
 - Eduardo Hauck - UFJF, Brazil
 - Fabio Daolio - University of Stirling, Scotland UK
 - Fernanda Takahashi - UFMG, Brazil

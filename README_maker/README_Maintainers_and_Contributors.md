@@ -14,6 +14,7 @@
 - Carlos Fonseca - University of Coimbra, Portugal
 - Ciniro Nametala - UFMG, Brazil
 - Christian L. Camacho Villalón - ULB, Brussels
+- Denis Pallez, University Cotre d'Azur, France
 - Eduardo Hauck - UFJF, Brazil
 - Fabio Daolio - University of Stirling, Scotland UK
 - Fernanda Takahashi - UFMG, Brazil
