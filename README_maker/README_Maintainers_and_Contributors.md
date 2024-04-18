@@ -9,11 +9,15 @@
 
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
+- Alexander J. Benavides - Universidad Nacional de San Agustín de Arequipa (UNSA),  Perú
+- Alexander Magazinov, Tel Aviv University, Israel
 - Anand Subramanian - UFPB, Brazil
 - André Maravilha - UFMG, Brazil
 - Carlos Fonseca - University of Coimbra, Portugal
 - Ciniro Nametala - UFMG, Brazil
 - Christian L. Camacho Villalón - ULB, Brussels
+- Daniel Palhazi Cuervo - Ascenium, Norway
+- Denis Pallez - University Côte d'Azur, France
 - Eduardo Hauck - UFJF, Brazil
 - Fabio Daolio - University of Stirling, Scotland UK
 - Fernanda Takahashi - UFMG, Brazil
@@ -21,29 +25,38 @@
 - Fillipe Goulart - UFMG, Brazil
 - Federico Pagnozzi - Université Libre de Bruxelles, Belgium
 - Krystian Lapa - Institute of Computational Intelligence, Poland
-- Iago A. de Carvalho - UFMG, Brazil
+- Iago Augusto de Carvalho - Universidade Federal de Alfenas, Brazil
 - Iztok Fister Jr. - University of Maribor, Slovenia
 - Jakub Grabski - Poznan University of Technology, Poland
 - James Brookhouse - University of Kent, England UK
+- James McDermott - University of Galway, Ireland
 - Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
 - Joao Duro - University of Sheffield, England UK
-- Joaquin A. Pacheco - University of Burgos, Spain
+- Joaquín Antonio Pacheco Bonrostro - University of Burgos, Spain
 - Kenneth Sörensen - University of Antwerp, Belgium
 - Konstantinos Zervoudakis - Technical University of Crete, Greece
 - Koen van der Blom - Leiden University, Netherlands
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
+- Leonardo Goliatt da Fonseca - Universidade Federal de Juiz de Fora, Brazil
+- Luís Correia - Universidade de Lisboa, Portugal
 - Marcelo Maia - Federal University of Uberlândia, Brazil
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
-- Marc Sevaux - Université de Bretagne-Sud, France
+- Marc Sevaux - Université Bretagne-Sud, France
 - Michał Okulewicz - Politechnika Warszawska, Poland
+- Michael Lones - Heriot-Watt University, Scotland
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Nguyen Tri Hai - Chung-Ang University, South Korea
+- Nuno Rodrigues - University of Lisbon, Lisbon
+- Owein Thuillier - Université Bretagne-Sud, France
 - Paul Rubin - Michigan State University, USA
 - Peter Lewis - Aston University, UK
+- Pieter Leyman - Ghent University, Belgium
+- Rafael Stubs Parpinelli - Universidade do Estado de Santa Catarina (UDESC), Brasil
 - Robin Purshouse - University of Sheffield, England UK
+- Romain Billot - IMT Atlantique, France
 - Rubén Ruiz - Universitat Politècnica de València, Spain
 - Ruud Koot - Universiteit Utrecht, The Netherlands
 - Sara Silva - University of Lisbon

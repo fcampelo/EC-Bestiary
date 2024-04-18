@@ -37,10 +37,13 @@ for (i in seq(LETTERS)){
         
         # Process entry information
         x.text  <- paste(capture.output(print(beasts[[j]])), collapse = " ")
-        x.text  <- strsplit(x.text, split = "[(]URL")[[1]][1]
-        if(grepl(pattern = "doi: ", x = x.text)){
-          x.doi  <- strsplit(x.text, split = "doi: ")[[1]][2]
+        x.text  <- strsplit(x.text, split = "<https")[[1]][1]
+        x.text <- gsub("\\\\textendash", "—", x.text)
+        if(grepl(pattern = "doi:", x = x.text)){
+          x.doi <- strsplit(x.text, split = "doi:")[[1]][2]
+          x.doi <- gsub(" ", "", x.doi)
           x.link <- paste0("https://doi.org/", x.doi)
+          x.link <- gsub(" ", "", x.link)
           x.text <- gsub(pattern = x.doi, 
                          replacement = paste0("[", x.doi, "](", x.link, ")"), 
                          x = x.text)
