@@ -240,6 +240,7 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Jellyfish</u>**: Chou J, Truong D (2021). "A novel metaheuristic optimizer inspired by behavior of jellyfish in ocean." _Applied Mathematics and Computation_, *389*, 125535. ISSN 0096-3003, doi:[10.1016/j.amc.2020.125535](https://doi.org/10.1016/j.amc.2020.125535) 
 
 ### K
+- **<u>Kepler’s Laws</u>**: Abdel-Basset M, Mohamed R, Azeem SAA, Jameel M, Abouhawwash M (2023). "Kepler optimization algorithm: A new metaheuristic algorithm inspired by Kepler’s laws of planetary motion." _Knowledge-Based Systems_, *268*, 110454. ISSN 0950-7051, doi:[10.1016/j.knosys.2023.110454](https://doi.org/10.1016/j.knosys.2023.110454) 
 - **<u>Keshtel Duck</u>**: Hajiaghaei-Keshteli M, Aminnayeri M (2014). "Solving the integrated scheduling of production and rail transportation problem by Keshtel algorithm." _Applied Soft Computing_, *25*, 184-203. doi:[10.1016/j.asoc.2014.09.034](https://doi.org/10.1016/j.asoc.2014.09.034) 
 - **<u>Kestrels</u>**: Agbehadji IE, Millham R, Fong S (2016). "Kestrel-Based Search Algorithm for Association Rule Mining and Classification of Frequently Changed Items." In _2016 8th International Conference on Computational Intelligence and Communication Networks (CICN)_. doi:[10.1109/cicn.2016.76](https://doi.org/10.1109/cicn.2016.76) 
 - **<u>Kidneys</u>**: Jaddi NS, Alvankarian J, Abdullah S (2017). "Kidney-inspired algorithm for optimization problems." _Communications in Nonlinear Science and Numerical Simulation_, *42*, 358-369. doi:[10.1016/j.cnsns.2016.06.006](https://doi.org/10.1016/j.cnsns.2016.06.006) 
@@ -273,4 +274,258 @@ earlier mention of a listed method, please see the bottom of the page on how to 
 - **<u>Mosquitos: Flying Behavior</u>**: Alauddin M (2016). "Mosquito flying optimization (MFO)." In _2016 International Conference on Electrical, Electronics, and Optimization Techniques (ICEEOT)_. doi:[10.1109/iceeot.2016.7754783](https://doi.org/10.1109/iceeot.2016.7754783) 
 - **<u>Moths</u>**: Mirjalili S (2015). "Moth-flame optimization algorithm: A novel nature-inspired heuristic paradigm." _Knowledge-Based Systems_, *89*, 228-249. doi:[10.1016/j.knosys.2015.07.006](https://doi.org/10.1016/j.knosys.2015.07.006) 
 - **<u>Mountain Climbers</u>**: Zhang LM, Dahlmann C, Zhang Y (2009). "Human-Inspired Algorithms for continuous function optimization." In _2009 IEEE International Conference on Intelligent Computing and Intelligent Systems_. doi:[10.1109/icicisys.2009.5357838](https://doi.org/10.1109/icicisys.2009.5357838) 
-- **<u>Mountain Gazelles</u>**: Abdollahzadeh B, Gharehchopogh FS, Khodadadi N, Mirjalili S (2022). "Mountain Gazelle Optimizer: A new Nature-inspired Metaheuristic Algorithm for Global Optimization Problems." _Advances in Engineering Software_, *174*, 103282. ISSN 0965-9978
+- **<u>Mountain Gazelles</u>**: Abdollahzadeh B, Gharehchopogh FS, Khodadadi N, Mirjalili S (2022). "Mountain Gazelle Optimizer: A new Nature-inspired Metaheuristic Algorithm for Global Optimization Problems." _Advances in Engineering Software_, *174*, 103282. ISSN 0965-9978, doi:[10.1016/j.advengsoft.2022.103282](https://doi.org/10.1016/j.advengsoft.2022.103282) 
+- **<u>Multiverse</u>**: Mirjalili S, Mirjalili SM, Hatamlou A (2015). "Multi-Verse Optimizer: a nature-inspired algorithm for global optimization." _Neural Computing and Applications_, *27*(2), 495-513. doi:[10.1007/s00521-015-1870-7](https://doi.org/10.1007/s00521-015-1870-7) 
+- **<u>Mushroom Reproduction</u>**: Bidar M, Kanan HR, Mouhoub M, Sadaoui S (2018). "Mushroom Reproduction Optimization (MRO): A Novel Nature-Inspired Evolutionary Algorithm." In _2018 IEEE Congress on Evolutionary Computation_.
+- **<u>Musicians</u>**: Geem ZW, Kim JH, Loganathan G (2001). "A New Heuristic Optimization Algorithm: Harmony Search." _SIMULATION_, *76*(2), 60-68. doi:[10.1177/003754970107600201](https://doi.org/10.1177/003754970107600201) 
+
+### N
+- **<u>Naked Mole Rats: Mating</u>**: Salgotra R, Singh U (2019). "The naked mole-rat algorithm." _Neural Computing and Applications_, *31*(12), 8837–8857. ISSN 1433-3058, doi:[10.1007/s00521-019-04464-7](https://doi.org/10.1007/s00521-019-04464-7) 
+- **<u>Naked Mole Rats: Social Behaviors</u>**: Taherdangkoo M, Shirzadi MH, Yazdi M, Bagheri MH (2013). "A robust clustering method based on blind, naked mole-rats (BNMR) algorithm." _Swarm and Evolutionary Computation_, *10*, 1-11. doi:[10.1016/j.swevo.2013.01.001](https://doi.org/10.1016/j.swevo.2013.01.001) 
+- **<u>Neurons</u>**: Asil Gharebaghi S, Ardalan Asl M (2017). "NEW META-HEURISTIC OPTIMIZATION ALGORITHM USING NEURONAL COMMUNICATION." _ International Journal of Optimization in Civil Engineering_, *7*(3). http://ijoce.iust.ac.ir/article-1-306-en.pdf, <http://ijoce.iust.ac.ir/article-1-306-en.html>.
+- **<u>Newton's Cooling Law</u>**: Kaveh A, Dadras A (2017). "A novel meta-heuristic optimization algorithm: Thermal exchange optimization." _Advances in Engineering Software_, *110*, 69-84. doi:[10.1016/j.advengsoft.2017.03.014](https://doi.org/10.1016/j.advengsoft.2017.03.014) 
+- **<u>Nuclear Collision</u>**: Sacco WF, Oliveira C (2005). "A new stochastic optimization algorithm based on a particle collision metaheuristic." _Proceedings of 6th WCSMO_.
+
+### O
+- **<u>Optics</u>**: Kashan AH (2015). "A new metaheuristic for optimization: Optics inspired optimization (OIO)." _Computers & Operations Research_, *55*, 99-125. doi:[10.1016/j.cor.2014.10.011](https://doi.org/10.1016/j.cor.2014.10.011) 
+- **<u>Owls</u>**: de Vasconcelos Segundo EH, Mariani VC, dos Santos Coelho L (2019). "Metaheuristic inspired on owls behavior applied to heat exchangers design." _Thermal Science and Engineering Progress_, *14*, 100431. doi:[10.1016/j.tsep.2019.100431](https://doi.org/10.1016/j.tsep.2019.100431) 
+
+### P
+- **<u>Paddy Fields</u>**: Premaratne U, Samarabandu J, Sidhu T (2009). "A new biologically inspired optimization algorithm." In _2009 International Conference on Industrial and Information Systems (ICIIS)_. doi:[10.1109/iciinfs.2009.5429852](https://doi.org/10.1109/iciinfs.2009.5429852) 
+- **<u>Pearl Hunting</u>**: Chan CY, Xue F, Ip WH, Cheung CF (2012). "A Hyper-Heuristic Inspired by Pearl Hunting." In _Lecture Notes in Computer Science_, 349-353. Springer Berlin Heidelberg. doi:[10.1007/978-3-642-34413-8_26](https://doi.org/10.1007/978-3-642-34413-8_26) 
+- **<u>Pelicans</u>**: Trojovský P, Dehghani M (2022). "Pelican Optimization Algorithm: A Novel Nature-Inspired Algorithm for Engineering Applications." _Sensors_, *22*(3), 855. ISSN 1424-8220, doi:[10.3390/s22030855](https://doi.org/10.3390/s22030855) 
+- **<u>Penguins</u>**: Gheraibia Y, Moussaoui A (2013). "Penguins Search Optimization Algorithm (PeSOA)." In _Recent Trends in Applied Artificial Intelligence_, 222-231. Springer Berlin Heidelberg. doi:[10.1007/978-3-642-38577-3_23](https://doi.org/10.1007/978-3-642-38577-3_23) 
+- **<u>Penguins: Emperor Penguins</u>**: Dhiman G, Kumar V (2018). "Emperor penguin optimizer: A bio-inspired algorithm for engineering problems." _Knowledge-Based Systems_, *159*, 20-50. doi:[10.1016/j.knosys.2018.06.001](https://doi.org/10.1016/j.knosys.2018.06.001) 
+- **<u>Pigeons</u>**: Duan H, Qiao P (2014). "Pigeon-inspired optimization: a new swarm intelligence optimizer for air robot path planning." _International Journal of Intelligent Computing and Cybernetics_, *7*(1), 24-37.
+- **<u>Pigeons: Feeding</u>**: Lamy J (2018). "Artificial Feeding Birds (AFB): A New Metaheuristic Inspired by the Behavior of Pigeons." In _Advances in Nature-Inspired Computing and Applications_, 43-60. Springer International Publishing. doi:[10.1007/978-3-319-96451-5_3](https://doi.org/10.1007/978-3-319-96451-5_3) 
+- **<u>Pigs: Duroc Pigs</u>**: Czerniak JM, Zarzycki H, Ewald D, Augustyn P (2020). "Application of OFN Numbers in the Artificial Duroc Pigs Optimization (ADPO) Method." In _Uncertainty and Imprecision in Decision Making and Decision Support: New Challenges, Solutions and Perspectives_, 310–327. ISBN 9783030470241, doi:[10.1007/978-3-030-47024-1_31](https://doi.org/10.1007/978-3-030-47024-1_31) 
+- **<u>Plants: Plant Growth</u>**: Li J, Cui Z, Shi Z (2012). "An Improved Artificial Plant Optimization Algorithm for Coverage Problem in WSN." _Sensor Letters_, *10*(8), 1874-1878. doi:[10.1166/sl.2012.2627](https://doi.org/10.1166/sl.2012.2627) 
+- **<u>Plants: Plant Intelligence</u>**: Akyol S, Alatas B (2016). "Plant intelligence based metaheuristic optimization algorithms." _Artificial Intelligence Review_, *47*(4), 417-462. doi:[10.1007/s10462-016-9486-6](https://doi.org/10.1007/s10462-016-9486-6) 
+- **<u>Plants: Plant Propagation</u>**: Sulaiman M, Salhi A, Selamoglu BI, Kirikchi OB (2014). "A Plant Propagation Algorithm for Constrained Engineering Optimisation Problems." _Mathematical Problems in Engineering_, *2014*, 1-10. doi:[10.1155/2014/627416](https://doi.org/10.1155/2014/627416) 
+- **<u>Plants: Sapling Growth</u>**: Karci A, Alatas B (2006). "Thinking capability of saplings growing up algorithm." In _International Conference on Intelligent Data Engineering and Automated Learning_, 386-393. Springer.
+- **<u>Polar Bears</u>**: Połap D, Woz\textasciiacuteniak M (2017). "Polar Bear Optimization Algorithm: Meta-Heuristic with Fast Population Movement and Dynamic Birth and Death Mechanism." _Symmetry_, *9*(10), 203. doi:[10.3390/sym9100203](https://doi.org/10.3390/sym9100203) 
+- **<u>Politics: Imperialism</u>**: Atashpaz-Gargari E, Lucas C (2007). "Imperialist competitive algorithm: An algorithm for optimization inspired by imperialistic competition." In _2007 IEEE Congress on Evolutionary Computation_. doi:[10.1109/cec.2007.4425083](https://doi.org/10.1109/cec.2007.4425083) 
+- **<u>Politics: Parliamentarist Elections</u>**: Borji A (2007). "A New Global Optimization Algorithm Inspired by Parliamentary Political Competitions." In _MICAI 2007: Advances in Artificial Intelligence_, 61-71. Springer Berlin Heidelberg. doi:[10.1007/978-3-540-76631-5_7](https://doi.org/10.1007/978-3-540-76631-5_7) 
+- **<u>Politics: Presidential Elections</u>**: Emami H, Derakhshan F (2015). "Election algorithm: A new socio-politically inspired strategy." _AI Communications_, *28*(3), 591–603. ISSN 18758452, 09217126, doi:[10.3233/AIC-140652](https://doi.org/10.3233/AIC-140652) 
+- **<u>Politics: Strategies</u>**: Melvix JL (2014). "Greedy Politics Optimization: Metaheuristic inspired by political strategies adopted during state assembly elections." In _2014 IEEE International Advance Computing Conference (IACC)_. doi:[10.1109/iadcc.2014.6779490](https://doi.org/10.1109/iadcc.2014.6779490) 
+- **<u>Pufferfish</u>**: Al-Baik O, Alomari S, Alssayed O, Gochhait S, Leonova I, Dutta U, Malik OP, Montazeri Z, Dehghani M (2024). "Pufferfish Optimization Algorithm: A New Bio-Inspired Metaheuristic Algorithm for Solving Optimization Problems." _Biomimetics_, *9*(2), 65. ISSN 2313-7673, doi:[10.3390/biomimetics9020065](https://doi.org/10.3390/biomimetics9020065) 
+- **<u>Pumas</u>**: Abdollahzadeh B, Khodadadi N, Barshandeh S, Trojovský P, Gharehchopogh FS, El-kenawy EM, Abualigah L, Mirjalili S (2024). "Puma optimizer (PO): a novel metaheuristic optimization algorithm and its application in machine learning." _Cluster Computing_. ISSN 1573-7543, doi:[10.1007/s10586-023-04221-5](https://doi.org/10.1007/s10586-023-04221-5) 
+
+### Q
+- **<u>Quantum Superposition</u>**: Saire JEC, Tupac VYJ (2015). "An approach to real-coded quantum inspired evolutionary algorithm using particles filter." In _2015 Latin America Congress on Computational Intelligence (LA-CCI)_. doi:[10.1109/la-cci.2015.7435984](https://doi.org/10.1109/la-cci.2015.7435984) 
+
+### R
+- **<u>Rabbits</u>**: Wang L, Cao Q, Zhang Z, Mirjalili S, Zhao W (2022). "Artificial rabbits optimization: A new bio-inspired meta-heuristic algorithm for solving engineering optimization problems." _Engineering Applications of Artificial Intelligence_, *114*, 105082. ISSN 0952-1976, doi:[10.1016/j.engappai.2022.105082](https://doi.org/10.1016/j.engappai.2022.105082) 
+- **<u>Raccoons</u>**: Zangbari Koohi S, Abdul Hamid NAW, Othman M, Ibragimov G (2019). "Raccoon Optimization Algorithm." _IEEE Access_, *7*, 5383–5399. ISSN 2169-3536, doi:[10.1109/access.2018.2882568](https://doi.org/10.1109/access.2018.2882568) 
+- **<u>Ravens</u>**: Torabi S, Safi-Esfahani F (2017). "Improved Raven Roosting Optimization algorithm (IRRO)." _Swarm and Evolutionary Computation_. doi:[10.1016/j.swevo.2017.11.006](https://doi.org/10.1016/j.swevo.2017.11.006) 
+- **<u>Rays of Light</u>**: Kaveh A, Khayatazad M (2012). "A new meta-heuristic method: Ray Optimization." _Computers & Structures_, *112-113*, 283-294. doi:[10.1016/j.compstruc.2012.09.003](https://doi.org/10.1016/j.compstruc.2012.09.003) 
+- **<u>Reincarnation</u>**: Sharma A (2010). "A new optimizing algorithm using reincarnation concept." In _2010 11th International Symposium on Computational Intelligence and Informatics (CINTI)_. doi:[10.1109/cinti.2010.5672231](https://doi.org/10.1109/cinti.2010.5672231) 
+- **<u>Rhinoceros</u>**: Wang G, Gao X, Zenger K, Coelho LdS (2016). "A novel metaheuristic algorithm inspired by rhino herd behavior." In _Proceedings of The 9th EUROSIM Congress on Modelling and Simulation, EUROSIM 2016, The 57th SIMS Conference on Simulation and Modelling SIMS 2016_, number 142, 1026-1033. Linköping University Electronic Press.
+- **<u>Rice: Hybrid</u>**: Ye Z, Ma L, Chen H (2016). "A hybrid rice optimization algorithm." In _2016 11th International Conference on Computer Science & Education (ICCSE)_. doi:[10.1109/iccse.2016.7581575](https://doi.org/10.1109/iccse.2016.7581575) 
+- **<u>River Formation</u>**: Rabanal P, Rodr\'\iguez I, Rubio F (2007). "Using River Formation Dynamics to Design Heuristic Algorithms." In _Lecture Notes in Computer Science_, 163-177. Springer Berlin Heidelberg. doi:[10.1007/978-3-540-73554-0_16](https://doi.org/10.1007/978-3-540-73554-0_16) 
+- **<u>Roach Infestations</u>**: Havens TC, Spain CJ, Salmon NG, Keller JM (2008). "Roach Infestation Optimization." In _2008 IEEE Swarm Intelligence Symposium_. doi:[10.1109/sis.2008.4668317](https://doi.org/10.1109/sis.2008.4668317) 
+- **<u>Roots</u>**: Merrikh-Bayat F (2015). "The runner-root algorithm: A metaheuristic for solving unimodal and multimodal optimization problems inspired by runners and roots of plants in nature." _Applied Soft Computing_, *33*, 292-303. doi:[10.1016/j.asoc.2015.04.048](https://doi.org/10.1016/j.asoc.2015.04.048) 
+
+### S
+- **<u>Sailfish</u>**: Shadravan S, Naji H, Bardsiri V (2019). "The Sailfish Optimizer: A novel nature-inspired metaheuristic algorithm for solving constrained engineering optimization problems." _Engineering Applications of Artificial Intelligence_, *80*, 20-34. doi:[10.1016/j.engappai.2019.01.001](https://doi.org/10.1016/j.engappai.2019.01.001) 
+- **<u>Salmon Migrations</u>**: Mozaffari A, Fathi A, Behzadipour S (2012). "The great salmon run: a novel bio-inspired algorithm for artificial system design and optimisation." _International Journal of Bio-Inspired Computation_, *4*(5), 286-301.
+- **<u>Salp Planktons</u>**: Mirjalili S, Gandomi AH, Mirjalili SZ, Saremi S, Faris H, Mirjalili SM (2017). "Salp Swarm Algorithm: A bio-inspired optimizer for engineering design problems." _Advances in Engineering Software_, *114*, 163-191. doi:[10.1016/j.advengsoft.2017.07.002](https://doi.org/10.1016/j.advengsoft.2017.07.002) 
+- **<u>Sandpiper</u>**: Kaur A, Jain S, Goel S (2019). "Sandpiper optimization algorithm: a novel approach for solving real-life engineering problems." _Applied Intelligence_, *50*(2), 582-619. doi:[10.1007/s10489-019-01507-3](https://doi.org/10.1007/s10489-019-01507-3) 
+- **<u>Satin Bowerbirds</u>**: Samareh Moosavi SH, Khatibi Bardsiri V (2017). "Satin bowerbird optimizer: A new optimization algorithm to optimize ANFIS for software development effort estimation." _Engineering Applications of Artificial Intelligence_, *60*, 1–15. ISSN 0952-1976, doi:[10.1016/j.engappai.2017.01.006](https://doi.org/10.1016/j.engappai.2017.01.006) 
+- **<u>Scientific Method</u>**: Felipe D, Goldbarg EFG, Goldbarg MC (2014). "Scientific algorithms for the Car Renter Salesman Problem." In _2014 IEEE Congress on Evolutionary Computation (CEC)_. doi:[10.1109/cec.2014.6900556](https://doi.org/10.1109/cec.2014.6900556) 
+- **<u>Sea Lions</u>**: Masadeh R, A. B, Sharieh A (2019). "Sea Lion Optimization Algorithm." _International Journal of Advanced Computer Science and Applications_, *10*(5). ISSN 2158-107X, doi:[10.14569/ijacsa.2019.0100548](https://doi.org/10.14569/ijacsa.2019.0100548) 
+- **<u>Seagulls</u>**: Dhiman G, Kumar V (2019). "Seagull optimization algorithm: Theory and its applications for large-scale industrial engineering problems." _Knowledge-Based Systems_, *165*, 169-196. doi:[10.1016/j.knosys.2018.11.024](https://doi.org/10.1016/j.knosys.2018.11.024) 
+- **<u>See-See Partridges</u>**: Omidvar R, Parvin H, Rad F (2015). "SSPCO Optimization Algorithm (See-See Partridge Chicks Optimization)." In _2015 Fourteenth Mexican International Conference on Artificial Intelligence (MICAI)_. doi:[10.1109/micai.2015.22](https://doi.org/10.1109/micai.2015.22) 
+- **<u>Sharks: Hammerhead</u>**: Ali A, Zafar K, Bakhshi T (2019). "On Nature-Inspired Dynamic Route Planning: Hammerhead Shark Optimization Algorithm." In _2019 15th International Conference on Emerging Technologies (ICET)_. doi:[10.1109/icet48972.2019.8994757](https://doi.org/10.1109/icet48972.2019.8994757) 
+- **<u>Sharks: Smell</u>**: Abedinia O, Amjady N, Ghasemi A (2014). "A new metaheuristic algorithm based on shark smell optimization." _Complexity_, *21*(5), 97-116. doi:[10.1002/cplx.21634](https://doi.org/10.1002/cplx.21634) 
+- **<u>Sharks: White</u>**: Braik M, Hammouri A, Atwan J, Al-Betar MA, Awadallah MA (2022). "White Shark Optimizer: A novel bio-inspired meta-heuristic algorithm for global optimization problems." _Knowledge-Based Systems_, *243*, 108457. ISSN 0950-7051, doi:[10.1016/j.knosys.2022.108457](https://doi.org/10.1016/j.knosys.2022.108457) 
+- **<u>Sheep Flocks</u>**: Kim H, Ahn B (2001). "A new evolutionary algorithm based on sheep flocks heredity model." In _2001 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (IEEE Cat. No.01CH37233)_. doi:[10.1109/pacrim.2001.953683](https://doi.org/10.1109/pacrim.2001.953683) 
+- **<u>Sine Waves</u>**: Tanyildizi E, Demir G (2017). "Golden sine algorithm: a novel math-inspired algorithm." _Advances in Electrical and Computer Engineering_, *17*(2), 71-79.
+- **<u>Slime Mold</u>**: Monismith DR, Mayfield BE (2008). "Slime Mold as a model for numerical optimization." In _2008 IEEE Swarm Intelligence Symposium_. doi:[10.1109/sis.2008.4668295](https://doi.org/10.1109/sis.2008.4668295) 
+- **<u>Small World</u>**: Du H, Wu X, Zhuang J (2006). "Small-World Optimization Algorithm for Function Optimization." In _Lecture Notes in Computer Science_, 264-273. Springer Berlin Heidelberg. doi:[10.1007/11881223_33](https://doi.org/10.1007/11881223_33) 
+- **<u>Snakes</u>**: Hashim FA, Hussien AG (2022). "Snake Optimizer: A novel meta-heuristic optimization algorithm." _Knowledge-Based Systems_, *242*, 108320.
+- **<u>Soccer: League</u>**: Moosavian N, Roodsari BK (2014). "Soccer League Competition Algorithm, a New Method for Solving Systems of Nonlinear Equations." _International Journal of Intelligence Science_, *04*(01), 7-16. doi:[10.4236/ijis.2014.41002](https://doi.org/10.4236/ijis.2014.41002) 
+- **<u>Soccer: Modified Soccer Games</u>**: Ahmed ZH, Maleki F, Yousefikhoshbakht M, Haron H (2023). "Solving the vehicle routing problem with time windows using modified football game algorithm." _Egyptian Informatics Journal_, *24*(4), 100403. ISSN 1110-8665, doi:[10.1016/j.eij.2023.100403](https://doi.org/10.1016/j.eij.2023.100403) 
+- **<u>Soccer: Soccer Games</u>**: Purnomo HD, Wee H (2013). "Soccer Game Optimization." In _Meta-Heuristics Optimization Algorithms in Engineering, Business, Economics, and Finance_, 386-420. IGI Global. doi:[10.4018/978-1-4666-2086-5.ch013](https://doi.org/10.4018/978-1-4666-2086-5.ch013) 
+- **<u>Soccer: Soccer Tournaments</u>**: Osaba E, Diaz F, Onieva E (2014). "Golden ball: a novel meta-heuristic to solve combinatorial optimization problems based on soccer concepts." _Applied Intelligence_, *41*(1), 145-166. doi:[10.1007/s10489-013-0512-y](https://doi.org/10.1007/s10489-013-0512-y) 
+- **<u>Soccer: Style</u>**: Rashid MFFA (2020). "Tiki-taka algorithm: a novel metaheuristic inspired by football playing style." _Engineering Computations_, *38*(1), 313-343. doi:[10.1108/ec-03-2020-0137](https://doi.org/10.1108/ec-03-2020-0137) 
+- **<u>Social Behavior</u>**: Ray T, Liew K (2003). "Society and civilization: an optimization algorithm based on the simulation of social behavior." _IEEE Transactions on Evolutionary Computation_, *7*(4), 386-396. doi:[10.1109/tevc.2003.814902](https://doi.org/10.1109/tevc.2003.814902) 
+- **<u>Social Behavior: Poor and Rich</u>**: Moosavi SHS, Bardsiri VK (2019). "Poor and rich optimization algorithm: A new human-based and multi populations algorithm." _Engineering Applications of Artificial Intelligence_, *86*, 165-181. doi:[10.1016/j.engappai.2019.08.025](https://doi.org/10.1016/j.engappai.2019.08.025) 
+- **<u>Social Behavior: Queuing</u>**: Zhang J, Xiao M, Gao L, Pan Q (2018). "Queuing search algorithm: A novel metaheuristic algorithm for solving engineering optimization problems." _Applied Mathematical Modelling_, *63*, 464-490.
+- **<u>Social Behavior: Seeking</u>**: Dai C, Chen W, Zhu Y (2010). "Seeker Optimization Algorithm for Digital IIR Filter Design." _IEEE Transactions on Industrial Electronics_, *57*(5), 1710-1718. doi:[10.1109/tie.2009.2031194](https://doi.org/10.1109/tie.2009.2031194) 
+- **<u>Social Behavior: Thieves and Police</u>**: Bagheri H, Ara AL, Hosseini R (2019). "Thieves and Police, a New Optimization Algorithm: Theory and Application in Probabilistic Power Flow." _IETE Journal of Research_, 1-18. doi:[10.1080/03772063.2019.1672586](https://doi.org/10.1080/03772063.2019.1672586) 
+- **<u>Social Behavior: Urbanization</u>**: Ghasemian H, Ghasemian F, Vahdat-Nejad H (2020). "Human urbanization algorithm: A novel metaheuristic approach." _Mathematics and Computers in Simulation_, *178*, 1-15. doi:[10.1016/j.matcom.2020.05.023](https://doi.org/10.1016/j.matcom.2020.05.023) 
+- **<u>Social Engineering</u>**: Fard AMF, Hajiaghaei-Keshteli M (2017). "Social Engineering Optimization (SEO); A New Single-Solution Meta-heuristic Inspired by Social Engineering." In _International Conference on Industrial Engineering_.
+- **<u>Social Spiders</u>**: Cuevas E, Cienfuegos M, Zald\'\ivar D, Pérez-Cisneros M (2013). "A swarm optimization algorithm inspired in the behavior of the social-spider." _Expert Systems with Applications_, *40*(16), 6374-6384. doi:[10.1016/j.eswa.2013.05.041](https://doi.org/10.1016/j.eswa.2013.05.041) 
+- **<u>Sonar</u>**: Tzanetos A, Dounias G (2017). "A New Metaheuristic Method for Optimization: Sonar Inspired Optimization." In Boracchi G, Iliadis L, Jayne C, Likas A (eds.), _Engineering Applications of Neural Networks_, 417-428. ISBN 978-3-319-65172-9.
+- **<u>Sooty Tern</u>**: Dhiman G, Kaur A (2019). "STOA: A bio-inspired based optimization algorithm for industrial engineering problems." _Engineering Applications of Artificial Intelligence_, *82*, 148-174. doi:[10.1016/j.engappai.2019.03.021](https://doi.org/10.1016/j.engappai.2019.03.021) 
+- **<u>Sparrows: Desert Sparrows</u>**: Sharma M, Sharma M, Sharma S (2021). "Desert sparrow optimization algorithm for the bicriteria flow shop scheduling problem with sequence-independent setup time." _Operational Research_, *22*(4), 4353–4396. ISSN 1866-1505, doi:[10.1007/s12351-021-00675-w](https://doi.org/10.1007/s12351-021-00675-w) 
+- **<u>Sparrows: Genetic Sparrows</u>**: Wu C, Fu X, Pei J, Dong Z (2021). "A Novel Sparrow Search Algorithm for the Traveling Salesman Problem." _IEEE Access_, *9*, 153456–153471. ISSN 2169-3536, doi:[10.1109/access.2021.3128433](https://doi.org/10.1109/access.2021.3128433) 
+- **<u>Sparrows: Regular Sparrows</u>**: Xue J, Shen B (2020). "A novel swarm intelligence optimization approach: sparrow search algorithm." _Systems Science &amp; Control Engineering_, *8*(1), 22–34. ISSN 2164-2583, doi:[10.1080/21642583.2019.1708830](https://doi.org/10.1080/21642583.2019.1708830) 
+- **<u>Sperm</u>**: Raouf OA, Hezam IM (2017). "Sperm motility algorithm: a novel metaheuristic approach for global optimisation." _International Journal of Operational Research_, *28*(2), 143. doi:[10.1504/ijor.2017.10002079](https://doi.org/10.1504/ijor.2017.10002079) 
+- **<u>Spirals</u>**: Tamura K, and Keiichiro Yasuda (2011). "Spiral Dynamics Inspired Optimization." _Journal of Advanced Computational Intelligence and Intelligent Informatics_, *15*(8), 1116-1122. doi:[10.20965/jaciii.2011.p1116](https://doi.org/10.20965/jaciii.2011.p1116) 
+- **<u>Sports Championships</u>**: Kashan AH (2009). "League Championship Algorithm: A New Algorithm for Numerical Function Optimization." In _2009 International Conference of Soft Computing and Pattern Recognition_. doi:[10.1109/socpar.2009.21](https://doi.org/10.1109/socpar.2009.21) 
+- **<u>Squirrels: Flying Squirrels</u>**: Jain M, Singh V, Rani A (2018). "A novel nature-inspired algorithm for optimization: Squirrel search algorithm." _Swarm and Evolutionary Computation_. doi:[10.1016/j.swevo.2018.02.013](https://doi.org/10.1016/j.swevo.2018.02.013) 
+- **<u>States of Matter</u>**: Cuevas E, Reyna-Orta A, D\'\iaz-Cortes M (2017). "A Multimodal Optimization Algorithm Inspired by the States of Matter." _Neural Processing Letters_, *48*(1), 517-556. doi:[10.1007/s11063-017-9750-z](https://doi.org/10.1007/s11063-017-9750-z) 
+- **<u>String Theory</u>**: Rodriguez L, Castillo O, Garcia M, Soria J (2021). "A new meta-heuristic optimization algorithm based on a paradigm from physics: string theory." _Journal of Intelligent &amp; Fuzzy Systems_, *41*(1), 1657–1675. ISSN 1875-8967, doi:[10.3233/jifs-210459](https://doi.org/10.3233/jifs-210459) 
+- **<u>Swallows</u>**: Neshat M, Sepidnam G, Sargolzaei M (2012). "Swallow swarm optimization algorithm: a new method to optimization." _Neural Computing and Applications_, *23*(2), 429-454. doi:[10.1007/s00521-012-0939-9](https://doi.org/10.1007/s00521-012-0939-9) 
+- **<u>Symbiotic Organisms</u>**: Cheng M, Prayogo D (2014). "Symbiotic Organisms Search: A new metaheuristic optimization algorithm." _Computers & Structures_, *139*, 98-112. doi:[10.1016/j.compstruc.2014.03.007](https://doi.org/10.1016/j.compstruc.2014.03.007) 
+
+### T
+- **<u>Teachers</u>**: Rao R, Savsani V, Vakharia D (2011). "Teaching—learning-based optimization: A novel method for constrained mechanical design optimization problems." _Computer-Aided Design_, *43*(3), 303-315. doi:[10.1016/j.cad.2010.12.015](https://doi.org/10.1016/j.cad.2010.12.015) 
+- **<u>Termites: Alate</u>**: Majumder A (2022). "Termite alate optimization algorithm: a swarm-based nature inspired algorithm for optimization problems." _Evolutionary Intelligence_, *16*(3), 997–1017. ISSN 1864-5917, doi:[10.1007/s12065-022-00714-1](https://doi.org/10.1007/s12065-022-00714-1) 
+- **<u>Termites: Colonies</u>**: Hedayatzadeh R, Salmassi FA, Keshtgari M, Akbari R, Ziarati K (2010). "Termite colony optimization: A novel approach for optimizing continuous problems." In _2010 18th Iranian Conference on Electrical Engineering_. doi:[10.1109/iraniancee.2010.5507009](https://doi.org/10.1109/iraniancee.2010.5507009) 
+- **<u>Time Travel</u>**: Fedor B, Straub J (2022). "A Particle Swarm Optimization Backtracking Technique Inspired by Science-Fiction Time Travel." _AI_, *3*(2), 390–415. ISSN 2673-2688, doi:[10.3390/ai3020024](https://doi.org/10.3390/ai3020024) 
+- **<u>Tree Growth</u>**: Mahmoodabadi MJ, Rasekh M, Yahyapour M (2022). "Tree optimization algorithm (TOA): a novel metaheuristic approach for solving mathematical test functions and engineering problems." _Evolutionary Intelligence_, *16*(4), 1325–1338. ISSN 1864-5917, doi:[10.1007/s12065-022-00742-x](https://doi.org/10.1007/s12065-022-00742-x) 
+- **<u>Troops of Soldiers</u>**: Chen T (2009). "A Simulative Bionic Intelligent Optimization Algorithm: Artificial Searching Swarm Algorithm and Its Performance Analysis." In _2009 International Joint Conference on Computational Sciences and Optimization_. doi:[10.1109/cso.2009.183](https://doi.org/10.1109/cso.2009.183) 
+- **<u>Tug of War</u>**: Kaveh A, Zolghadr A (2016). "A novel meta-heuristic algorithm: tug of war optimization." _Iran University of Science & Technology_, *6*(4), 469-492.
+- **<u>Turnicates</u>**: Kaur S, Awasthi LK, Sangal A, Dhiman G (2020). "Tunicate Swarm Algorithm: A new bio-inspired based metaheuristic paradigm for global optimization." _Engineering Applications of Artificial Intelligence_, *90*, 103541. doi:[10.1016/j.engappai.2020.103541](https://doi.org/10.1016/j.engappai.2020.103541) 
+
+### U
+
+### V
+- **<u>Vaccination</u>**: Tayeb FB, Bessedik M, Benbouzid M, Cheurfi H, Blizak A (2017). "Research on Permutation Flow-shop Scheduling Problem based on Improved Genetic Immune Algorithm with vaccinated offspring." _Procedia Computer Science_, *112*, 427-436. doi:[10.1016/j.procs.2017.08.055](https://doi.org/10.1016/j.procs.2017.08.055) 
+- **<u>Vehicles</u>**: Savsani P, Savsani V (2016). "Passing vehicle search (PVS): A novel metaheuristic algorithm." _Applied Mathematical Modelling_, *40*(5-6), 3951-3978. doi:[10.1016/j.apm.2015.10.040](https://doi.org/10.1016/j.apm.2015.10.040) 
+- **<u>Vibrating Particles</u>**: Kaveh A, Ghazaan MI (2016). "Vibrating particles system algorithm for truss optimization with multiple natural frequency constraints." _Acta Mechanica_, *228*(1), 307-322. doi:[10.1007/s00707-016-1725-z](https://doi.org/10.1007/s00707-016-1725-z) 
+- **<u>Virus: Attacking</u>**: Liang Y, Juarez JRC (2015). "A novel metaheuristic for continuous optimization problems: Virus optimization algorithm." _Engineering Optimization_, *48*(1), 73-93. doi:[10.1080/0305215x.2014.994868](https://doi.org/10.1080/0305215x.2014.994868) 
+- **<u>Virus: Swine Flu</u>**: Pattnaik S, Bakwad K, Sohi B, Ratho R, Devi S (2013). "Swine Influenza Models Based Optimization (SIMBO)." _Applied Soft Computing_, *13*(1), 628-653. doi:[10.1016/j.asoc.2012.07.010](https://doi.org/10.1016/j.asoc.2012.07.010) 
+- **<u>Viruses: Virulence</u>**: Jaderyan M, Khotanlou H (2016). "Virulence Optimization Algorithm." _Applied Soft Computing_, *43*, 596-618. doi:[10.1016/j.asoc.2016.02.038](https://doi.org/10.1016/j.asoc.2016.02.038) 
+- **<u>Viruses: Virus Colonies</u>**: Li MD, Zhao H, Weng XW, Han T (2016). "A novel nature-inspired algorithm for optimization: Virus colony search." _Advances in Engineering Software_, *92*, 65-88. doi:[10.1016/j.advengsoft.2015.11.004](https://doi.org/10.1016/j.advengsoft.2015.11.004) 
+- **<u>Viruses: Virus Replication</u>**: Cortés P, Garc\'\ia JM, Muñuzuri J, Onieva L (2008). "Viral systems: A new bio-inspired optimisation approach." _Computers & Operations Research_, *35*(9), 2840-2860. doi:[10.1016/j.cor.2006.12.018](https://doi.org/10.1016/j.cor.2006.12.018) 
+- **<u>Volleyball Leagues</u>**: Moghdani R, Salimifard K (2018). "Volleyball Premier League Algorithm." _Applied Soft Computing_, *64*, 161-185. doi:[10.1016/j.asoc.2017.11.043](https://doi.org/10.1016/j.asoc.2017.11.043) 
+- **<u>Vortices</u>**: Doğan B, Ölmez T (2015). "A new metaheuristic for numerical function optimization: Vortex Search algorithm." _Information Sciences_, *293*, 125-145. doi:[10.1016/j.ins.2014.08.053](https://doi.org/10.1016/j.ins.2014.08.053) 
+- **<u>Vultures: Africans</u>**: Abdollahzadeh B, Gharehchopogh FS, Mirjalili S (2021). "African vultures optimization algorithm: A new nature-inspired metaheuristic algorithm for global optimization problems." _Computers &amp; Industrial Engineering_, *158*, 107408. ISSN 0360-8352, doi:[10.1016/j.cie.2021.107408](https://doi.org/10.1016/j.cie.2021.107408) 
+- **<u>Vultures: Egyptian</u>**: Sur C, Sharma S, Shukla A (2013). "Egyptian Vulture Optimization Algorithm — A New Nature Inspired Meta-heuristics for Knapsack Problem." In _The 9th International Conference on Computing and InformationTechnology (IC2IT2013)_, 227-237. Springer Berlin Heidelberg. doi:[10.1007/978-3-642-37371-8_26](https://doi.org/10.1007/978-3-642-37371-8_26) 
+
+### W
+- **<u>Walruses</u>**: Trojovský P, Dehghani M (2023). "A new bio-inspired metaheuristic algorithm for solving optimization problems based on walruses behavior." _Scientific Reports_, *13*(1). ISSN 2045-2322, doi:[10.1038/s41598-023-35863-5](https://doi.org/10.1038/s41598-023-35863-5) 
+- **<u>Wasps</u>**: Pinto P, Runkler TA, Sousa JM (2005). "Wasp swarm optimization of logistic systems." In _Adaptive and Natural Computing Algorithms_, 264-267. Springer.
+- **<u>Water: Hydrological Cycle</u>**: Wedyan A, Whalley J, Narayanan A (2017). "Hydrological Cycle Algorithm for Continuous Optimization Problems." _Journal of Optimization_, *2017*, 1-25. doi:[10.1155/2017/3828420](https://doi.org/10.1155/2017/3828420) 
+- **<u>Water: Hydrological Cycle Bis</u>**: Yan X, Niu B (2018). "Hydrologic Cycle Optimization Part I: Background and Theory." In _Advances in Swarm Intelligence_, 341–349. ISBN 9783319938158, doi:[10.1007/978-3-319-93815-8_33](https://doi.org/10.1007/978-3-319-93815-8_33) 
+- **<u>Water: Intelligent Water Drops</u>**: Hosseini HS (2009). "The intelligent water drops algorithm: a nature-inspired swarm-based optimization algorithm." _International Journal of Bio-Inspired Computation_, *1*(1/2), 71. doi:[10.1504/ijbic.2009.022775](https://doi.org/10.1504/ijbic.2009.022775) 
+- **<u>Water: Rain</u>**: Kaboli SHA, Selvaraj J, Rahim N (2017). "Rain-fall optimization algorithm: A population based algorithm for solving constrained optimization problems." _Journal of Computational Science_, *19*, 31-42. doi:[10.1016/j.jocs.2016.12.010](https://doi.org/10.1016/j.jocs.2016.12.010) 
+- **<u>Water: Rain Drops</u>**: Jiang Q, Wang L, Hei X, Fei R, Yang D, Zou F, Li H, Cao Z, Lin Y (2014). "Optimal approximation of stable linear systems with a novel and efficient optimization algorithm." In _2014 IEEE Congress on Evolutionary Computation (CEC)_. doi:[10.1109/cec.2014.6900366](https://doi.org/10.1109/cec.2014.6900366) 
+- **<u>Water: Water Cycle</u>**: Eskandar H, Sadollah A, Bahreininejad A, Hamdi M (2012). "Water cycle algorithm — A novel metaheuristic optimization method for solving constrained engineering optimization problems." _Computers & Structures_, *110-111*, 151-166. doi:[10.1016/j.compstruc.2012.07.010](https://doi.org/10.1016/j.compstruc.2012.07.010) 
+- **<u>Water: Water Evaporation</u>**: Kaveh A, Bakhshpoori T (2016). "Water Evaporation Optimization: A novel physically inspired optimization algorithm." _Computers & Structures_, *167*, 69-85. doi:[10.1016/j.compstruc.2016.01.008](https://doi.org/10.1016/j.compstruc.2016.01.008) 
+- **<u>Water: Water Flow</u>**: Tran TH, Ng KM (2010). "A water-flow algorithm for flexible flow shop scheduling with~intermediate buffers." _Journal of Scheduling_, *14*(5), 483-500. doi:[10.1007/s10951-010-0205-x](https://doi.org/10.1007/s10951-010-0205-x) 
+- **<u>Water: Water Molecules</u>**: Daliri A, Asghari A, Azgomi H, Alimoradi M (2022). "The water optimization algorithm: a novel metaheuristic for solving optimization problems." _Applied Intelligence_, *52*(15), 17990–18029. ISSN 1573-7497, doi:[10.1007/s10489-022-03397-4](https://doi.org/10.1007/s10489-022-03397-4) 
+- **<u>Water: Water Wave</u>**: Zheng Y (2015). "Water wave optimization: A new nature-inspired metaheuristic." _Computers & Operations Research_, *55*, 1-11. doi:[10.1016/j.cor.2014.10.008](https://doi.org/10.1016/j.cor.2014.10.008) 
+- **<u>Whales: Beluga</u>**: Zhong C, Li G, Meng Z (2022). "Beluga whale optimization: A novel nature-inspired metaheuristic algorithm." _Knowledge-Based Systems_, *251*, 109215. ISSN 0950-7051, doi:[10.1016/j.knosys.2022.109215](https://doi.org/10.1016/j.knosys.2022.109215) 
+- **<u>Whales: Binary Whales</u>**: K. SR, Panwar L, Panigrahi BK, Kumar R (2018). "Binary whale optimization algorithm: a new metaheuristic approach for profit-based unit commitment problems in competitive electricity markets." _Engineering Optimization_, *51*(3), 369-389. doi:[10.1080/0305215x.2018.1463527](https://doi.org/10.1080/0305215x.2018.1463527) 
+- **<u>Whales: Killer Whales</u>**: Biyanto TR, Matradji, Irawan S, Febrianto HY, Afdanny N, Rahman AH, Gunawan KS, Pratama JA, Bethiana TN (2017). "Killer Whale Algorithm: An Algorithm Inspired by the Life of Killer Whale." _Procedia Computer Science_, *124*, 151-157. doi:[10.1016/j.procs.2017.12.141](https://doi.org/10.1016/j.procs.2017.12.141) 
+- **<u>Whales: Orcas</u>**: Drias H, Drias Y, Khennak I (2020). "A New Swarm Algorithm Based on Orcas Intelligence for Solving Maze Problems." In _Trends and Innovations in Information Systems and Technologies_, 788-797. Springer International Publishing. doi:[10.1007/978-3-030-45688-7_77](https://doi.org/10.1007/978-3-030-45688-7_77) 
+- **<u>Whales: Regular Whales</u>**: Mirjalili S, Lewis A (2016). "The Whale Optimization Algorithm." _Advances in Engineering Software_, *95*, 51-67. doi:[10.1016/j.advengsoft.2016.01.008](https://doi.org/10.1016/j.advengsoft.2016.01.008) 
+- **<u>Whales: Sperm Whales</u>**: Ebrahimi A, Khamehchi E (2016). "Sperm whale algorithm: An effective metaheuristic algorithm for production optimization problems." _Journal of Natural Gas Science and Engineering_, *29*, 211-222. doi:[10.1016/j.jngse.2016.01.001](https://doi.org/10.1016/j.jngse.2016.01.001) 
+- **<u>Whirlpools</u>**: Ghasemi M, Davoudkhani IF, Akbari E, Rahimnejad A, Ghavidel S, Li L (2020). "A novel and effective optimization algorithm for global optimization and its engineering applications: Turbulent Flow of Water-based Optimization (TFWO)." _Engineering Applications of Artificial Intelligence_, *92*, 103666. doi:[10.1016/j.engappai.2020.103666](https://doi.org/10.1016/j.engappai.2020.103666) 
+- **<u>Wildebeests</u>**: Amali DGB, Dinakaran M (2019). "Wildebeest herd optimization: A new global optimization algorithm inspired by wildebeest herding behaviour." _Journal of Intelligent &amp; Fuzzy Systems_, *37*(6), 8063–8076. ISSN 1875-8967, doi:[10.3233/jifs-190495](https://doi.org/10.3233/jifs-190495) 
+- **<u>Wind</u>**: Bayraktar Z, Komurcu M, Werner DH (2010). "Wind Driven Optimization (WDO): A novel nature-inspired optimization algorithm and its application to electromagnetics." In _2010 IEEE Antennas and Propagation Society International Symposium_. doi:[10.1109/aps.2010.5562213](https://doi.org/10.1109/aps.2010.5562213) 
+- **<u>Wingsuit</u>**: Yang J, Zhang Y, Wang Z, Todo Y, Lu B, Gao S (2021). "A Cooperative Coevolution Wingsuit Flying Search Algorithm with Spherical Evolution." _International Journal of Computational Intelligence Systems_, *14*(1). ISSN 1875-6883, doi:[10.1007/s44196-021-00030-z](https://doi.org/10.1007/s44196-021-00030-z) 
+- **<u>Wolves: Grey Wolves</u>**: Mirjalili S, Mirjalili SM, Lewis A (2014). "Grey Wolf Optimizer." _Advances in Engineering Software_, *69*, 46-61. doi:[10.1016/j.advengsoft.2013.12.007](https://doi.org/10.1016/j.advengsoft.2013.12.007) 
+- **<u>Wolves: Wolf Packs</u>**: Yang C, Tu X, Chen J (2007). "Algorithm of Marriage in Honey Bees Optimization Based on the Wolf Pack Search." In _The 2007 International Conference on Intelligent Pervasive Computing (IPC 2007)_. doi:[10.1109/ipc.2007.104](https://doi.org/10.1109/ipc.2007.104) 
+- **<u>Wolves: Wolves</u>**: Tang R, Fong S, Yang X, Deb S (2012). "Wolf search algorithm with ephemeral memory." In _Seventh International Conference on Digital Information Management (ICDIM 2012)_. doi:[10.1109/icdim.2012.6360147](https://doi.org/10.1109/icdim.2012.6360147) 
+- **<u>Worms</u>**: Arnaout J (2014). "Worm optimization: a novel optimization algorithm inspired by C. Elegans." In _Proceedings of the 2014 International Conference on Industrial Engineering and Operations Management_, 2499-2505.
+
+### X
+
+### Y
+- **<u>Yellow Saddle Goatfish</u>**: Zald\'\ivar D, Morales B, Rodr\'\iguez A, Valdivia-G A, Cuevas E, Pérez-Cisneros M (2018). "A novel bio-inspired optimization model based on Yellow Saddle Goatfish behavior." _Biosystems_, *174*, 1-21. doi:[10.1016/j.biosystems.2018.09.007](https://doi.org/10.1016/j.biosystems.2018.09.007) 
+- **<u>Yin-Yang Pairs</u>**: Punnathanam V, Kotecha P (2016). "Yin-Yang-pair Optimization: A novel lightweight optimization algorithm." _Engineering Applications of Artificial Intelligence_, *54*, 62-79. doi:[10.1016/j.engappai.2016.04.004](https://doi.org/10.1016/j.engappai.2016.04.004) 
+
+### Z
+- **<u>Zebras</u>**: Trojovska E, Dehghani M, Trojovsky P (2022). "Zebra Optimization Algorithm: A New Bio-Inspired Optimization Algorithm for Solving Optimization Algorithm." _IEEE Access_, *10*, 49445–49473. ISSN 2169-3536, doi:[10.1109/access.2022.3172789](https://doi.org/10.1109/access.2022.3172789) 
+- **<u>Zombies</u>**: Nguyen HT, Bhanu B (2012). "Zombie Survival Optimization: A swarm intelligence algorithm inspired by zombie foraging." In _Pattern Recognition (ICPR), 2012 21st International Conference on_, 987-990. IEEE.
+
+***
+
+### Maintainers
+("the Zoo Keepers")
+
+- [Claus Aranha](mailto:caranha@cs.tsukuba.ac.jp), Tsukuba University, Japan.  
+- [Felipe Campelo](mailto:fcampelo@ufmg.br), Universidade Federal de Minas Gerais (UFMG), Brazil.
+
+### Contributors
+(at least one contribution to the bestiary - in terms of adding a method to the list, not inventing it!)
+
+- Adré Steyn - University of Stellenbosch, South Africa
+- Alberto Franzin - Université Libre de Bruxelles, Belgium
+- Alexander J. Benavides - Universidad Nacional de San Agustín de Arequipa (UNSA),  Perú
+- Alexander Magazinov, Tel Aviv University, Israel
+- Anand Subramanian - UFPB, Brazil
+- André Maravilha - UFMG, Brazil
+- Carlos Fonseca - University of Coimbra, Portugal
+- Ciniro Nametala - UFMG, Brazil
+- Christian L. Camacho Villalón - ULB, Brussels
+- Daniel Palhazi Cuervo - Ascenium, Norway
+- Denis Pallez - University Côte d'Azur, France
+- Eduardo Hauck - UFJF, Brazil
+- Fabio Daolio - University of Stirling, Scotland UK
+- Fernanda Takahashi - UFMG, Brazil
+- Fernando Otero - University of Kent, England UK
+- Fillipe Goulart - UFMG, Brazil
+- Federico Pagnozzi - Université Libre de Bruxelles, Belgium
+- Krystian Lapa - Institute of Computational Intelligence, Poland
+- Iago Augusto de Carvalho - Universidade Federal de Alfenas, Brazil
+- Iztok Fister Jr. - University of Maribor, Slovenia
+- Jakub Grabski - Poznan University of Technology, Poland
+- James Brookhouse - University of Kent, England UK
+- James McDermott - University of Galway, Ireland
+- Juan Carlos Chacon-Hurtado - TU Delft, Netherlands
+- Joao Duro - University of Sheffield, England UK
+- Joaquín Antonio Pacheco Bonrostro - University of Burgos, Spain
+- Kenneth Sörensen - University of Antwerp, Belgium
+- Konstantinos Zervoudakis - Technical University of Crete, Greece
+- Koen van der Blom - Leiden University, Netherlands
+- Lars Magnus Hvattum - Molde University College, Norway
+- Leandro Santos Coelho - UFPR, Brazil
+- Leonardo Goliatt da Fonseca - Universidade Federal de Juiz de Fora, Brazil
+- Luís Correia - Universidade de Lisboa, Portugal
+- Marcelo Maia - Federal University of Uberlândia, Brazil
+- Marco Mollinetti - University of Tsukuba, Japan
+- Marco Pranzo - Università di Siena, Italy
+- Marcus Ritt - UFRGS, Brazil
+- Marc Sevaux - Université Bretagne-Sud, France
+- Michał Okulewicz - Politechnika Warszawska, Poland
+- Michael Lones - Heriot-Watt University, Scotland
+- Nadarajen Veerapen - University of Stirling, Scotland UK
+- Nguyen Tri Hai - Chung-Ang University, South Korea
+- Nuno Rodrigues - University of Lisbon, Lisbon
+- Owein Thuillier - Université Bretagne-Sud, France
+- Paul Rubin - Michigan State University, USA
+- Peter Lewis - Aston University, UK
+- Pieter Leyman - Ghent University, Belgium
+- Rafael Stubs Parpinelli - Universidade do Estado de Santa Catarina (UDESC), Brasil
+- Robin Purshouse - University of Sheffield, England UK
+- Romain Billot - IMT Atlantique, France
+- Rubén Ruiz - Universitat Politècnica de València, Spain
+- Ruud Koot - Universiteit Utrecht, The Netherlands
+- Sara Silva - University of Lisbon
+- Sander - Leiden University, Netherlands
+- senorramirez
+- Sergio A. Rojas - Universidad Distrital de Bogotá, Colombia
+- Silvano Martello - University of Bologna, Italy
+- Stefan Voß - Universität Hamburg, Germany
+- Thomas Jacob Riis Stidsen - Danmarks Tekniske Universitet, Denmark
+- Thomas Stützle - Université Libre de Bruxelles, Belgium
+- Tushar Semwal - IIT Guwahati, India
+- Yuri Lavinas - University of Tsukuba, Brazil
+
+***
+
+### How to Contribute
+
+If you know a paper that should belong to this list, please send an
+e-mail to either [Claus](mailto:caranha@cs.tsukuba.ac.jp) or [Felipe](mailto:fcampelo@ufmg.br), or report an issue on our [Github repo](https://github.com/fcampelo/EC-bestiary). The criteria for inclusion are quite simple: 
+
+1. the work must be in a peer reviewed publication (journal or conference);  
+2. the title or abstract must name the algorithm after the natural (or supernatural) metaphor on which it was based;  
+
+It is also important to highlight that only the earliest known mention for each metaphor is included.
+
+### More Info:
+- If you liked this list, you should read the paper "[Metaheuristic: The Metaphor Exposed](http://onlinelibrary.wiley.com/doi/10.1111/itor.12001/epdf)", by Kenneth Söresen  
+- Need inspiration for your next Bioinspired algorithm? Check Marco Scirea and Julian Togelius' [Daily Bio-heuristics bot](https://twitter.com/BioHeuristics).  
+- Some of the algorithms listed here were found in a list compiled by Iztok Fister Jr. _et al._, which is available [here](http://www.iztok-jr-fister.eu/static/publications/21.pdf). Iztok also recently published [this paper](http://www.iztok-jr-fister.eu/static/publications/Stu2016.pdf) reflecting on the proliferation of metaphors in EC research.  
+- A fantastic parody of this whole metaphor craze can be read [here](http://www.oneweirdkerneltrick.com/spectral.pdf). Highly recommended!
+
+### License:
+This work is licensed under the Creative Commons CC BY-NC-SA 4.0 license (Attribution Non-Commercial Share Alike International License version 4.0): [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/)
