@@ -37,6 +37,8 @@
 - Koen van der Blom - Leiden University, Netherlands
 - Lars Magnus Hvattum - Molde University College, Norway
 - Leandro Santos Coelho - UFPR, Brazil
+- Leonardo Goliatt da Fonseca - Universidade Federal de Juiz de Fora, Brazil
+- Luís Correia - Universidade de Lisboa, Portugal
 - Marcelo Maia - Federal University of Uberlândia, Brazil
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
