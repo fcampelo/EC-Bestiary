@@ -10,6 +10,7 @@
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
 - Alexander J. Benavides - Universidad Nacional de San Agustín de Arequipa (UNSA),  Perú
+- Alexander Magazinov, Tel Aviv University, Israel
 - Anand Subramanian - UFPB, Brazil
 - André Maravilha - UFMG, Brazil
 - Carlos Fonseca - University of Coimbra, Portugal
@@ -43,11 +44,13 @@
 - Marco Mollinetti - University of Tsukuba, Japan
 - Marco Pranzo - Università di Siena, Italy
 - Marcus Ritt - UFRGS, Brazil
-- Marc Sevaux - Université de Bretagne-Sud, France
+- Marc Sevaux - Université Bretagne-Sud, France
 - Michał Okulewicz - Politechnika Warszawska, Poland
+- Michael Lones - Heriot-Watt University, Scotland
 - Nadarajen Veerapen - University of Stirling, Scotland UK
 - Nguyen Tri Hai - Chung-Ang University, South Korea
 - Nuno Rodrigues - University of Lisbon, Lisbon
+- Owein Thuillier - Université Bretagne-Sud, France
 - Paul Rubin - Michigan State University, USA
 - Peter Lewis - Aston University, UK
 - Pieter Leyman - Ghent University, Belgium
