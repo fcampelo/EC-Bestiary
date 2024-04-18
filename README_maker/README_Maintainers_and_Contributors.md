@@ -50,6 +50,7 @@
 - Nuno Rodrigues - University of Lisbon, Lisbon
 - Paul Rubin - Michigan State University, USA
 - Peter Lewis - Aston University, UK
+- Pieter Leyman - Ghent University, Belgium
 - Rafael Stubs Parpinelli - Universidade do Estado de Santa Catarina (UDESC), Brasil
 - Robin Purshouse - University of Sheffield, England UK
 - Romain Billot - IMT Atlantique, France
