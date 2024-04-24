@@ -11,7 +11,7 @@ library(data.table)
 entry.list <- vector(mode = "list", length = 0)
 for (i in seq(LETTERS)){
   my.file <- paste0("../Cages/", LETTERS[i], ".bib")
-  if(file.exists(my.file)){
+  if(file.exists(my.file) && file.size(my.file) > 0){
     # read .bib file and add entries to list
     entry.list <- c(entry.list, bibtex::read.bib(my.file))
   }
