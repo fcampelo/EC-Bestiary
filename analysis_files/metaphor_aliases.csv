@@ -1,18 +1,18 @@
 Metaphor,SubMetaphor,Title,search.keys,search.remove,acronyms,NOTES
 African Buffalo,NA,Solving the Traveling Salesman's Problem Using the African Buffalo Optimization,african buffalo,,,
 Algae,NA,Artificial algae algorithm ({AAA}) for nonlinear global optimization,algae,,AAA,
-Amoeba,NA,A Bio-Inspired Method for the Constrained Shortest Path Problem,amoeba,,,
+Amoeba,NA,A Bio-Inspired Method for the Constrained Shortest Path Problem,amoeba,Plasmodium,,
 Amoeba,Plasmodium,Remarkable problem-solving ability of unicellular amoeboid organism and its mechanism,Plasmodium,,NA,MAYBE REMOVE?
 Anarchic Society,NA,Anarchic Society Optimization Based {PID} Control of an Automatic Voltage Regulator ({AVR}) System,anarchic society,,,
 Andean Condors,NA,Andean Condor Algorithm for cell formation problems,andean condor,,,
 Anglerfish,NA,The Anglerfish algorithm: a derivation of randomized incremental construction technique for solving the traveling salesman problem,anglerfish,,NA,NA
 Animal Behavior,Hunting,Mathematical models and a hunting search algorithm for the no-wait flowshop scheduling with parallel machines,hunting ,,,
 Animal Behavior,Predation,Prey-Predator Algorithm: A New Metaheuristic Algorithm for Optimization Problems,prey-predator|prey predator|predator-prey|predator prey,,PPA,
-Animal Behavior,ing,Group Search Optimizer: An Optimization Algorithm Inspired by Animal Searching Behavior,group ,,,
+Animal Behavior,ing,Group Search Optimizer: An Optimization Algorithm Inspired by Animal Searching Behavior,group search,,,
 Ant Colony,NA,Distributed optimization by ant colonies,ant colony|ant,Lion,ACO,MAYBE REMOVE?
-Ant Lion,NA,The Ant Lion Optimizer,ant lion|ant-lion,,,
+Ant Lion,NA,The Ant Lion Optimizer,ant lion|ant-lion,,ALO,
 Antibodies,NA,The clonal selection algorithm with engineering applications,clonal selection|immune,,CLONALG,
-Artillery,NA,A new metaheuristic optimization method: the algorithm of the innovative gunner ({AIG}),Gunner,,NA,NA
+Artillery,NA,A new metaheuristic optimization method: the algorithm of the innovative gunner ({AIG}),Gunner,,AIG,NA
 Bachelors,NA,Old Bachelor Acceptance: A New Class of Non-Monotone Threshold Accepting Methods,bachelor,,,
 Bacteria,Bacterial Chemotaxis,Optimization based on bacterial chemotaxis,bacterial chemotaxis|bacteria chemotaxis,,,
 Bacteria,Bacterial Foraging,Biomimicry of bacterial foraging for distributed optimization and control,bacterial foraging|bacteria foraging,,,
@@ -22,23 +22,23 @@ Barnacles Mating,NA,Barnacles Mating Optimizer Algorithm for Optimization,Barnac
 Bats,NA,A new metaheuristic bat-inspired algorithm,bat|bat-inspired|bat inspired,,BA,
 Battle Royale Game,NA,Battle royale optimization algorithm,Battle royale,,NA,NA
 Beetles,NA,Pity beetle algorithm {\textendash} A new metaheuristic inspired by the behavior of bark beetles,Pity beetle|bark beetle|pity beetles|bark beetles,,NA,NA
-Bees,Bee Colonies,Bee Colony Optimization: Principles and Applications,bee colony|bee,Artificial|honey|queen,BCO,
+Bees,Bee Colonies,Bee Colony Optimization: Principles and Applications,bee colony|bee,Artificial|honey|queen|bumblebee,BCO,
 Bees,Bee Colonies 2,Artificial Bee Colony ({ABC}) Optimization Algorithm for Solving Constrained Optimization Problems,Artificial bee,,ABC,NA
-Bees,Bumblebees,Bumblebees,bumblebees|bumblebee,,,
+Bees,Bumblebees,Bumblebees,bumblebee,,,
 Bees,Honey Bee Marriages,{MBO}: marriage in honey bees optimization-a Haplometrosis polygynous swarming approach,honey bee|marriage in honey bees|marriage in honeybees,,MBO,
 Bees,Queen Bees,Queen-bee evolution for genetic algorithms,queen bee|queen-bee,,,
 Big Bang,NA,A new optimization method: Big Bang{\textendash}Big Crunch,big bang-big crunch|big bang - big crunch|big bang big crunch,,BB-BC|BB - BC|BBBC,
-Biogeography,NA,Biogeography-Based Optimization,biogeography|biogeography-based,,BBO,
+Biogeography,NA,Biogeography-Based Optimization,biogeography,,BBO,
 Birds,Birds Mating,Bird mating optimizer: An optimization algorithm inspired by bird mating strategies,bird mating,,BMO,
 Birds,Bird Migrations,Migrating Birds Optimization: A new metaheuristic approach and its performance on quadratic assignment problem,migrating birds,,NA,
 Birds,Hitchcock Birds,A novel metaheuristic inspired by Hitchcock birds' behavior for efficient optimization of large search spaces of high dimensionality,Hitchcock Birds,,NA,NA
-Bison,NA,Proposal of a New Swarm Optimization Method Inspired in Bison Behavior,Bison|bison behavior,,NA,NA
+Bison,NA,Proposal of a New Swarm Optimization Method Inspired in Bison Behavior,Bison,,NA,NA
 Black Holes,NA,Black hole: A new heuristic optimization approach for data clustering,black hole,,NA,
 Black Widow,NA,Black Widow Optimization Algorithm: A novel meta-heuristic approach for solving engineering optimization problems,Black widow,,NA,NA
 Blind Naked Mole Rats,NA,"A robust clustering method based on blind,naked mole-rats ({BNMR}) algorithm",mole rats|mole-rats,,BNMR,
 Bonobos,NA,Multi-objective Bonobo Optimizer ({MOBO}): an intelligent heuristic for multi-criteria optimization,bonobo,,NA,NA
-Brainstorming,NA,An Optimization Algorithm Based on Brainstorming Process,brainstorming|brain-storming|brainstorm,,NA,
-BrunsVigia Flower,NA,A New Optimization Algorithm Based on the Behavior of {BrunsVigia} Flower,BrunsVigia|BrunsVigia flower,,NA,NA
+Brainstorming,NA,An Optimization Algorithm Based on Brainstorming Process,brain-storm|brainstorm,,NA,
+BrunsVigia Flower,NA,A New Optimization Algorithm Based on the Behavior of {BrunsVigia} Flower,BrunsVigia,,NA,NA
 Buses,NA,Meta-heuristic bus transportation algorithm,Bus|buses,,NA,NA
 Butterflies,Monarch Butterflies,Monarch butterfly optimization,monarch butterfly,,,
 Butterflies,Regular Butterflies,Butterfly optimization algorithm: a novel approach for global optimization,butterfly,Monarch,NA,NA
