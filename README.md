@@ -3,11 +3,6 @@
 
 Updated 2025-07-06   
 ***  
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 > "Till now, madness has been thought a small island in an ocean of
 > sanity. I am beginning to suspect that it is not an island at all but
