@@ -7,6 +7,7 @@
 ### Contributors
 (at least one contribution to the bestiary - in terms of adding a method to the list, not inventing it!)
 
+- Aaron T. Becker - University of Houston, USA
 - Adré Steyn - University of Stellenbosch, South Africa
 - Alberto Franzin - Université Libre de Bruxelles, Belgium
 - Alexander J. Benavides - Universidad Nacional de San Agustín de Arequipa (UNSA),  Perú
