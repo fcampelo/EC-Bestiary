@@ -47,6 +47,13 @@ about working) with metaphor-based metaheuristics should read first:
 -   [Exposing the chimp optimization algorithm: a misleading
     metaheuristic technique with structural
     bias](https://doi.org/10.1016/j.asoc.2024.111574)
+-   [Piotrowski, A.P., Napiorkowski, J.J., Rowinski, P.M.: How novel is the
+    “novel” black hole optimization approach? Information Sciences 267, 191–200
+    (2014).](https://doi.org/10.1016/j.ins.2014.01.026)
+-   [Gauci, M., Dodd, T.J. & Groß, R. Why ‘GSA: a gravitational search algorithm’ is not genuinely based on the law of gravity. Nat Comput 11, 719–720 (2012).] (https://doi.org/10.1007/s11047-012-9322-0)
+-   [Civicioglu, P., Besdok, E. A conceptual comparison of the Cuckoo-search, particle swarm optimization, differential evolution and artificial bee colony algorithms. Artif Intell Rev 39, 315–346 (2013).](https://doi.org/10.1007/s10462-011-9276-0)
+-   [Martijn Halsema, Diederick Vermetten, Thomas Bäck, and Niki Van Stein. 2024. A Critical Analysis of Raven Roost Optimization. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '24 Companion). Association for Computing Machinery, New York, NY, USA, 1993–2001.](https://doi.org/10.1145/3638530.3664124)
+
 
 
 ## Introduction
